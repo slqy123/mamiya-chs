@@ -151,7 +151,7 @@
 |  d04_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  d05_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d07_01.ks  | :white_large_square: | :white_large_square: |
+|  d07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d07_02.ks  | :white_large_square: | :white_large_square: |
 |  d07_03.ks  | :white_large_square: | :white_large_square: |
 |  d08_01.ks  | :white_large_square: | :white_large_square: |
