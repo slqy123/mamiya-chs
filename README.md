@@ -41,6 +41,9 @@
 > 伝票
 > 账单
 
+> 占いは、良いことを信じればいいんだ。
+> 需要统一翻译吗？
+
 |   文件名    |         翻译         |         校对         |
 | :---------: | :------------------: | :------------------: |
 |  01_01.ks   | :white_large_square: | :white_large_square: |
@@ -153,13 +156,13 @@
 |  d06_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d07_02.ks  | :white_large_square: | :white_large_square: |
-|  d07_03.ks  | :white_large_square: | :white_large_square: |
-|  d08_01.ks  | :white_large_square: | :white_large_square: |
+|  d07_03.ks  |  :white_check_mark:  | :white_large_square: |
+|  d08_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d08_02.ks  | :white_large_square: | :white_large_square: |
-|  d09_01.ks  | :white_large_square: | :white_large_square: |
-|  d10_01.ks  | :white_large_square: | :white_large_square: |
+|  d09_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  d10_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  d10_02.ks  | :white_large_square: | :white_large_square: |
-|  d10_03.ks  | :white_large_square: | :white_large_square: |
+|  d10_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  e00_01.ks  | :white_large_square: | :white_large_square: |
 |  e01_01.ks  | :white_large_square: | :white_large_square: |
 |  e01_02.ks  | :white_large_square: | :white_large_square: |
