@@ -16,12 +16,10 @@
 珠音的语气词 はわわわ 统一翻译为 哈哇哇，はう 翻译为 哈唔
 音琴的口头禅 くすくす 翻译为 哧哧
 熱っぽい視線 炽热的视线
-誘うように 像诱惑我一样
 瞳.\*映 双眼中映照出我的样子
 ついばむような 小鸡啄米般的
-乳輪 乳晕
 
-@Ruby 是不需要，可以考虑删掉
+@Ruby 不需要的话，可以考虑删掉
 
 占いは、当たるも八卦当たらぬも八卦
 这个我翻译成了: 问卜占卦，灵也不灵
@@ -44,37 +42,42 @@
 > 占いは、良いことを信じればいいんだ。
 > 需要统一翻译吗？
 
+> 挨拶運動
+> 这东西咋翻译啊
+
+b00_02 只翻了一半
+
 |   文件名    |         翻译         |         校对         |
 | :---------: | :------------------: | :------------------: |
-|  01_01.ks   | :white_large_square: | :white_large_square: |
-|  02_01.ks   | :white_large_square: | :white_large_square: |
-|  03_01.ks   | :white_large_square: | :white_large_square: |
-|  03_02a.ks  | :white_large_square: | :white_large_square: |
-|  03_02b.ks  | :white_large_square: | :white_large_square: |
-|  03_02c.ks  | :white_large_square: | :white_large_square: |
-|  03_02d.ks  | :white_large_square: | :white_large_square: |
-|  04_01.ks   | :white_large_square: | :white_large_square: |
-|  04_02a.ks  | :white_large_square: | :white_large_square: |
-|  04_02b.ks  | :white_large_square: | :white_large_square: |
-|  04_02c.ks  | :white_large_square: | :white_large_square: |
-|  04_02d.ks  | :white_large_square: | :white_large_square: |
-|  05_01.ks   | :white_large_square: | :white_large_square: |
-|  05_02a.ks  | :white_large_square: | :white_large_square: |
-|  05_02b.ks  | :white_large_square: | :white_large_square: |
-|  05_02c.ks  | :white_large_square: | :white_large_square: |
-|  05_02d.ks  | :white_large_square: | :white_large_square: |
-|  05_02e.ks  | :white_large_square: | :white_large_square: |
-|  05_03.ks   | :white_large_square: | :white_large_square: |
-|  05_04a.ks  | :white_large_square: | :white_large_square: |
-|  05_04b.ks  | :white_large_square: | :white_large_square: |
-|  05_04c.ks  | :white_large_square: | :white_large_square: |
-|  05_04d.ks  | :white_large_square: | :white_large_square: |
-|  05_04e.ks  | :white_large_square: | :white_large_square: |
-|  06_01.ks   | :white_large_square: | :white_large_square: |
-|  07_01.ks   | :white_large_square: | :white_large_square: |
-|  08_01.ks   | :white_large_square: | :white_large_square: |
-|  08_02.ks   | :white_large_square: | :white_large_square: |
-|  09_01.ks   | :white_large_square: | :white_large_square: |
+|  01_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  02_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  03_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  03_02a.ks  |  :white_check_mark:  | :white_large_square: |
+|  03_02b.ks  |  :white_check_mark:  | :white_large_square: |
+|  03_02c.ks  |  :white_check_mark:  | :white_large_square: |
+|  03_02d.ks  |  :white_check_mark:  | :white_large_square: |
+|  04_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  04_02a.ks  |  :white_check_mark:  | :white_large_square: |
+|  04_02b.ks  |  :white_check_mark:  | :white_large_square: |
+|  04_02c.ks  |  :white_check_mark:  | :white_large_square: |
+|  04_02d.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  05_02a.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_02b.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_02c.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_02d.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_02e.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_03.ks   |  :white_check_mark:  | :white_large_square: |
+|  05_04a.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_04b.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_04c.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_04d.ks  |  :white_check_mark:  | :white_large_square: |
+|  05_04e.ks  |  :white_check_mark:  | :white_large_square: |
+|  06_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  07_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  08_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  08_02.ks   |  :white_check_mark:  | :white_large_square: |
+|  09_01.ks   |  :white_check_mark:  | :white_large_square: |
 |  a00_01.ks  | :white_large_square: | :white_large_square: |
 |  a00_02.ks  | :white_large_square: | :white_large_square: |
 |  a01_01.ks  | :white_large_square: | :white_large_square: |
@@ -96,11 +99,11 @@
 |  a09_01.ks  | :white_large_square: | :white_large_square: |
 |  a09_02.ks  | :white_large_square: | :white_large_square: |
 |  a09_03.ks  | :white_large_square: | :white_large_square: |
-|  b00_01.ks  | :white_large_square: | :white_large_square: |
+|  b00_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b00_02.ks  | :white_large_square: | :white_large_square: |
-|  b01_01.ks  | :white_large_square: | :white_large_square: |
+|  b01_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b01_02.ks  | :white_large_square: | :white_large_square: |
-|  b01_03.ks  | :white_large_square: | :white_large_square: |
+|  b01_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  b02_01.ks  | :white_large_square: | :white_large_square: |
 |  b03_01.ks  | :white_large_square: | :white_large_square: |
 |  b04_01.ks  | :white_large_square: | :white_large_square: |
