@@ -43,6 +43,7 @@
 > 需要统一翻译吗？
 
 > 挨拶運動
+> あいさつ運動
 > 这东西咋翻译啊
 
 b00_02 只翻了一半
@@ -104,7 +105,7 @@ b00_02 只翻了一半
 |  b01_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b01_02.ks  | :white_large_square: | :white_large_square: |
 |  b01_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b02_01.ks  | :white_large_square: | :white_large_square: |
+|  b02_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b03_01.ks  | :white_large_square: | :white_large_square: |
 |  b04_01.ks  | :white_large_square: | :white_large_square: |
 |  b04_02.ks  | :white_large_square: | :white_large_square: |
