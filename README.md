@@ -24,6 +24,9 @@
 占いは、当たるも八卦当たらぬも八卦
 这个我翻译成了: 问卜占卦，灵也不灵
 
+新メニュー
+新菜品
+
 > ラストオーダー
 > 打烊时间
 
@@ -106,7 +109,7 @@ b00_02 只翻了一半
 |  b01_02.ks  | :white_large_square: | :white_large_square: |
 |  b01_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  b02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b03_01.ks  | :white_large_square: | :white_large_square: |
+|  b03_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b04_01.ks  | :white_large_square: | :white_large_square: |
 |  b04_02.ks  | :white_large_square: | :white_large_square: |
 |  b05_01.ks  | :white_large_square: | :white_large_square: |
