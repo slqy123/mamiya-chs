@@ -49,7 +49,14 @@
 > あいさつ運動
 > 这东西咋翻译啊
 
+> 若奥
+> 新婚夫人
+
+> 警備員
+> 警卫
+
 b00_02 只翻了一半
+最后要检查 select 有没有漏翻的，特别是机翻的 HS
 
 # 可能没检查的错字
 
@@ -116,13 +123,13 @@ b00_02 只翻了一半
 |  b03_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b04_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b04_02.ks  | :white_large_square: | :white_large_square: |
-|  b05_01.ks  | :white_large_square: | :white_large_square: |
-|  b06_01.ks  | :white_large_square: | :white_large_square: |
+|  b05_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  b06_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b06_02.ks  | :white_large_square: | :white_large_square: |
-|  b06_03.ks  | :white_large_square: | :white_large_square: |
-|  b07_01.ks  | :white_large_square: | :white_large_square: |
+|  b06_03.ks  |  :white_check_mark:  | :white_large_square: |
+|  b07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b07_02.ks  | :white_large_square: | :white_large_square: |
-|  b07_03.ks  | :white_large_square: | :white_large_square: |
+|  b07_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  b08_01.ks  | :white_large_square: | :white_large_square: |
 |  b09_01.ks  | :white_large_square: | :white_large_square: |
 |  b10_01.ks  | :white_large_square: | :white_large_square: |
