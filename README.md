@@ -55,6 +55,8 @@
 > 警備員
 > 警卫
 
+莉里香のお父さん
+
 b00_02 只翻了一半
 最后要检查 select 有没有漏翻的，特别是机翻的 HS
 
@@ -130,11 +132,11 @@ b00_02 只翻了一半
 |  b07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b07_02.ks  | :white_large_square: | :white_large_square: |
 |  b07_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b08_01.ks  | :white_large_square: | :white_large_square: |
-|  b09_01.ks  | :white_large_square: | :white_large_square: |
-|  b10_01.ks  | :white_large_square: | :white_large_square: |
+|  b08_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  b09_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  b10_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b10_02.ks  | :white_large_square: | :white_large_square: |
-|  b10_03.ks  | :white_large_square: | :white_large_square: |
+|  b10_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  b11_01.ks  | :white_large_square: | :white_large_square: |
 |  b11_02.ks  | :white_large_square: | :white_large_square: |
 |  b11_03.ks  | :white_large_square: | :white_large_square: |
