@@ -60,6 +60,10 @@
 b00_02 只翻了一半
 最后要检查 select 有没有漏翻的，特别是机翻的 HS
 
+フロア
+可以翻译为前厅
+是否需要集体修改翻译？
+
 # 可能没检查的错字
 
 电心
@@ -141,10 +145,10 @@ b00_02 只翻了一半
 |  b11_02.ks  | :white_large_square: | :white_large_square: |
 |  b11_03.ks  | :white_large_square: | :white_large_square: |
 | birthday.ks | :white_large_square: | :white_large_square: |
-|  c00_01.ks  | :white_large_square: | :white_large_square: |
+|  c00_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c00_02.ks  | :white_large_square: | :white_large_square: |
-|  c00_03.ks  | :white_large_square: | :white_large_square: |
-|  c01_01.ks  | :white_large_square: | :white_large_square: |
+|  c00_03.ks  |  :white_check_mark:  | :white_large_square: |
+|  c01_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c02_01.ks  | :white_large_square: | :white_large_square: |
 |  c03_01.ks  | :white_large_square: | :white_large_square: |
 |  c04_01.ks  | :white_large_square: | :white_large_square: |
