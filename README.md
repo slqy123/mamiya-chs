@@ -64,6 +64,9 @@ b00_02 只翻了一半
 可以翻译为前厅
 是否需要集体修改翻译？
 
+统一翻译
+宾馆改成酒店
+
 # 可能没检查的错字
 
 电心
@@ -150,8 +153,8 @@ b00_02 只翻了一半
 |  c00_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  c01_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c03_01.ks  | :white_large_square: | :white_large_square: |
-|  c04_01.ks  | :white_large_square: | :white_large_square: |
+|  c03_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  c04_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c04_02.ks  | :white_large_square: | :white_large_square: |
 |  c05_01.ks  | :white_large_square: | :white_large_square: |
 |  c05_02.ks  | :white_large_square: | :white_large_square: |
