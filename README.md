@@ -67,9 +67,15 @@ b00_02 只翻了一半
 统一翻译
 宾馆改成酒店
 
+マラサダ
+可以翻译成马拉萨达，但感觉有的时候翻译成甜甜圈更通顺点。
+
 # 可能没检查的错字
 
+派队
 电心
+部够
+数玩
 
 |   文件名    |         翻译         |         校对         |
 | :---------: | :------------------: | :------------------: |
@@ -159,8 +165,8 @@ b00_02 只翻了一半
 |  c05_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c05_02.ks  | :white_large_square: | :white_large_square: |
 |  c06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c06_02.ks  | :white_large_square: | :white_large_square: |
-|  c07_01.ks  | :white_large_square: | :white_large_square: |
+|  c06_02.ks  |  :white_check_mark:  | :white_large_square: |
+|  c07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c07_02.ks  | :white_large_square: | :white_large_square: |
 |  c08_01.ks  | :white_large_square: | :white_large_square: |
 |  c09_01.ks  | :white_large_square: | :white_large_square: |
