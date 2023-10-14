@@ -70,12 +70,16 @@ b00_02 只翻了一半
 マラサダ
 可以翻译成马拉萨达，但感觉有的时候翻译成甜甜圈更通顺点。
 
+料理人 和 厨师 的翻译要不要统一一下？
+
 # 可能没检查的错字
 
 派队
 电心
 部够
 数玩
+物价之宝
+想对
 
 |   文件名    |         翻译         |         校对         |
 | :---------: | :------------------: | :------------------: |
@@ -168,7 +172,7 @@ b00_02 只翻了一半
 |  c06_02.ks  |  :white_check_mark:  | :white_large_square: |
 |  c07_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c07_02.ks  | :white_large_square: | :white_large_square: |
-|  c08_01.ks  | :white_large_square: | :white_large_square: |
+|  c08_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  c09_01.ks  | :white_large_square: | :white_large_square: |
 |  c09_02.ks  | :white_large_square: | :white_large_square: |
 |  c09_03.ks  | :white_large_square: | :white_large_square: |
