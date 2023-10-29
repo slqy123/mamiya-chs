@@ -1,5 +1,6 @@
 *.tft
 assets
-_scripts/**
+_scripts/src
+_scripts/__pycache__
 .vscode
 /scenario
