@@ -47,4 +47,4 @@ for file in parse_res:
 for file in parse_res:
     file['dst'].parent.mkdir(parents=True, exist_ok=True)
     with open(file['dst'], 'w', encoding='utf-16') as f:
-        f.write(construct_ks(file['res'], lambda x: x.content_origin))
+        f.write(construct_ks(file['res'], lambda x: x.content_origin.replace('neko酱', 'ＮＥＫＯ酱')))
