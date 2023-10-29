@@ -2,3 +2,4 @@
 assets
 _scripts/**
 .vscode
+/scenario
