@@ -127,7 +127,7 @@ b00_02 只翻了一半
 |  a02_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  a03_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  a03_02.ks  | :white_large_square: | :white_large_square: |
-|  a03_03.ks  | :white_large_square: | :white_large_square: |
+|  a03_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  a04_01.ks  | :white_large_square: | :white_large_square: |
 |  a04_02.ks  | :white_large_square: | :white_large_square: |
 |  a04_03.ks  | :white_large_square: | :white_large_square: |
