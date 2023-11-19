@@ -1,4 +1,5 @@
 # 注记
+
 ; TODO 表示此处翻译不太确定
 ; COMMENT 目前来说表示这里修改了游戏文件，为了方便不用一条线一条线推
 对于语气词，特别是 HS 中的语气词，翻译起来太折磨了，基本上是摆烂了。大概地修整了一下让它看起来不那么单调，机翻里出来的基本上不是`嗯`就是`啊`，一些特殊的语气词翻译了一下，不影响理解意思的内容就随缘了。
@@ -92,6 +93,8 @@ b00_02 只翻了一半
 母亲的 うふふ 统一翻译为 嗯哼哼
 母亲的 父さん 统一翻译为 孩子他爸
 
+换行的逻辑，字数最大值和文本宽度
+
 # 可能没检查的错字
 
 派队
@@ -105,6 +108,9 @@ b00_02 只翻了一半
 进阶
 一但
 吃像
+而语(耳语)
+回合(会合)
+答题(大体)
 
 # 游戏进度
 
@@ -148,10 +154,10 @@ b00_02 只翻了一半
 |  a03_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  a03_02.ks  | :white_large_square: | :white_large_square: |
 |  a03_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  a04_01.ks  | :white_large_square: | :white_large_square: |
+|  a04_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  a04_02.ks  | :white_large_square: | :white_large_square: |
-|  a04_03.ks  | :white_large_square: | :white_large_square: |
-|  a04_04.ks  | :white_large_square: | :white_large_square: |
+|  a04_03.ks  |  :white_check_mark:  | :white_large_square: |
+|  a04_04.ks  |  :white_check_mark:  | :white_large_square: |
 |  a05_01.ks  | :white_large_square: | :white_large_square: |
 |  a06_01.ks  | :white_large_square: | :white_large_square: |
 |  a06_02.ks  | :white_large_square: | :white_large_square: |
