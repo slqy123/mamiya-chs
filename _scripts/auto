@@ -1,0 +1,27 @@
+#!/bin/fish
+set area (cat './.area')
+if [ "$area" = "" ]
+  set area (slurp)
+  echo "$area" > './.area'
+  exit
+end
+
+swaymsg '[ class = "Code" ]' focus
+
+set image (grim -g "$area")
+
+while true
+  ydotool type '5j$xxs '
+
+  while true
+    sleep 0.5
+    set new_image (grim -g "$area")
+      
+    if [ "$image" = "$new_image" ]
+      sleep 1
+      ydotool key 15:1 15:0
+      ydotool key 58:1 58:0
+      break
+    end
+  end
+end
