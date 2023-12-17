@@ -58,6 +58,9 @@
 > 警備員
 > 警卫
 
+> 試作品
+> 试制品
+
 莉里香のお父さん
 
 b00_02 只翻了一半
@@ -112,6 +115,7 @@ b00_02 只翻了一半
 回合(会合)
 答题(大体)
 出们
+本向
 
 # 游戏进度
 
@@ -163,10 +167,10 @@ b00_02 只翻了一半
 |  a06_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  a06_02.ks  | :white_large_square: | :white_large_square: |
 |  a07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a08_01.ks  | :white_large_square: | :white_large_square: |
-|  a09_01.ks  | :white_large_square: | :white_large_square: |
-|  a09_02.ks  | :white_large_square: | :white_large_square: |
-|  a09_03.ks  | :white_large_square: | :white_large_square: |
+|  a08_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  a09_01.ks  |  :white_check_mark:  | :white_large_square: |
+|  a09_02.ks  |  :heavy_check_mark:  | :white_large_square: |
+|  a09_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  b00_01.ks  |  :white_check_mark:  | :white_large_square: |
 |  b00_02.ks  | :white_large_square: | :white_large_square: |
 |  b01_01.ks  |  :white_check_mark:  | :white_large_square: |
