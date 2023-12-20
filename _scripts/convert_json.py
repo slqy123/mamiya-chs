@@ -44,16 +44,18 @@ def combine_json(ks_parse_result: list[Text | str], json_path: Path) -> str:
     for text, j in zip(res_text, json_data):
         assert isinstance(text, Text)
         if not j.get("translate"):
-            assert False, f"translate not found in {json_data}"
+            if j.get("translate") is None:
+                print(f"Warning: translate of {j['text']} is None")
+            j['translate'] = text.content_origin
+            # assert False, f"translate not found in {json_data}"
 
-        if text.content_strip[0] in ("「", "『"):
-            assert text.content_strip[-1] in ("」", "』")
+        if text.comment[0] in ("「", "『") and text.comment[-1] in ("」", "』"):
             if j["translate"][0] not in ("「", "『"):
-                j["translate"] = text.content_strip[0] + j["translate"]
+                j["translate"] = text.comment[0] + j["translate"]
             if j["translate"][-1] == "。":
                 j["translate"] = j["translate"][:-1]
             if j["translate"][-1] not in ("」", "』"):
-                j["translate"] = j["translate"] + text.content_strip[-1]
+                j["translate"] = j["translate"] + text.comment[-1]
 
         text.content_origin = j["translate"].replace("␤", "")  # TODO 是否应该在翻译时就加上换行
     return construct_ks(res, lambda x: x.content_origin)

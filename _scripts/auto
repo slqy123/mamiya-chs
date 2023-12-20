@@ -18,9 +18,23 @@ while true
     set new_image (grim -g "$area")
       
     if [ "$image" = "$new_image" ]
-      sleep 1
-      ydotool key 15:1 15:0
-      ydotool key 58:1 58:0
+      sleep 1.5
+      ydotool key 15:1 15:0  # tab
+      ydotool key 58:1 58:0  # esc(capslock)
+      # press ctrl+s
+      # ydotool key 29:1 31:1 31:0 29:0 
+      ydotool type 'v'
+      sleep 0.2
+      if [ (wl-paste -p) != '"' ]
+        if [ (wl-paste -p) = '�' ]
+          ydotool type 'vddk'
+          break
+        else
+          ydotool type 'F:ls '
+          continue
+        end
+      end
+        ydotool type 'v'
       break
     end
   end
