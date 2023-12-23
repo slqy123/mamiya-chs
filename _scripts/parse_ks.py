@@ -31,7 +31,7 @@ def parse_ks(src: Path) -> list[str | Text]:
     assert src.suffix == ".ks"
 
     res = []
-    with open(src, encoding="utf-16") as f:
+    with open(src, encoding="utf-8") as f:
         filename = src.name
         hitret_id = -1
         content_buffer = ""
