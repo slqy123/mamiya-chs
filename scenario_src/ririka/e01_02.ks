@@ -467,8 +467,8 @@
 ; あまりの快感に、射精欲がこみ上げてきた。
 因为太过快感，射精欲涌上心头。
 @Hitret id=31636
-@AddSelect text=莉里香の口内に出す
-@AddSelect text=莉里香の顔にかける
+@AddSelect text=射在莉里香嘴里
+@AddSelect text=射到莉里香脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1078,8 +1078,8 @@
 虽然射精了一次，但还是想射精莉里香。
 @Hitret id=31769
 @cg file=EE08f
-@AddSelect text=莉里香の膣内に出す
-@AddSelect text=莉里香の身体にかける
+@AddSelect text=射到莉里香体内
+@AddSelect text=射在莉里香身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
