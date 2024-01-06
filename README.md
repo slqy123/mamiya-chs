@@ -120,6 +120,7 @@ b00_02 只翻了一半
 出们
 本向
 选则
+说慌
 
 # 游戏进度
 
@@ -244,10 +245,10 @@ b00_02 只翻了一半
 |  d10_03.ks  |  :white_check_mark:  | :white_large_square: |
 |  e00_01.ks  | :heavy_check_mark: | :white_large_square: |
 |  e01_01.ks  | :white_check_mark: | :white_large_square: |
-|  e01_02.ks  | :white_large_square: | :white_large_square: |
-|  e02_01.ks  | :white_large_square: | :white_large_square: |
-|  e02_02.ks  | :white_large_square: | :white_large_square: |
-|  e02_03.ks  | :white_large_square: | :white_large_square: |
+|  e01_02.ks  | :heavy_check_mark: | :white_large_square: |
+|  e02_01.ks  | :white_check_mark: | :white_large_square: |
+|  e02_02.ks  | :heavy_check_mark: | :white_large_square: |
+|  e02_03.ks  | :white_check_mark: | :white_large_square: |
 |  e03_01.ks  | :white_large_square: | :white_large_square: |
 |  e04_01.ks  | :white_large_square: | :white_large_square: |
 |  e04_02.ks  | :white_large_square: | :white_large_square: |
