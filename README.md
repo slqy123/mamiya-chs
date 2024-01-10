@@ -101,6 +101,8 @@ b00_02 只翻了一半
 
 换行的逻辑，字数最大值和文本宽度
 
+考虑将帮手换为帮忙
+
 # 可能没检查的错字
 
 派队
@@ -253,8 +255,8 @@ b00_02 只翻了一半
 |  e02_02.ks  | :heavy_check_mark: | :white_large_square: |
 |  e02_03.ks  | :white_check_mark: | :white_large_square: |
 |  e03_01.ks  | :white_check_mark: | :white_large_square: |
-|  e04_01.ks  | :white_large_square: | :white_large_square: |
-|  e04_02.ks  | :white_large_square: | :white_large_square: |
+|  e04_01.ks  | :white_check_mark: | :white_large_square: |
+|  e04_02.ks  | :heavy_check_mark: | :white_large_square: |
 |  e04_03.ks  | :white_large_square: | :white_large_square: |
 |  e05_01.ks  | :white_large_square: | :white_large_square: |
 |  e05_02.ks  | :white_large_square: | :white_large_square: |

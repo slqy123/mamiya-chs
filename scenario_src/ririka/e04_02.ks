@@ -499,8 +499,8 @@
 ; 切羽詰まった声をあげながら、莉里香がお尻を振り立てる。
 莉里香一边发出急切的声音，一边摇着屁股。
 @Hitret id=33774
-@AddSelect text=莉里香の膣内に出す
-@AddSelect text=莉里香の身体にかける
+@AddSelect text=射在莉里香体内
+@AddSelect text=射在莉里香身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1142,8 +1142,8 @@
 ; 「っう……！」
 「嗯……！」
 @Hitret id=33915
-@AddSelect text=莉里香の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在莉里香体内
+@AddSelect text=射到外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
