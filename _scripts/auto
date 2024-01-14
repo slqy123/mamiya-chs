@@ -6,8 +6,9 @@ if [ "$area" = "" ]
   exit
 end
 
-swaymsg '[ class = "Code" ]' focus
-sleep 0.1
+# swaymsg '[ class = "Code" ]' focus
+hyprctl dispatch focuswindow Code
+sleep 1
 set image (grim -g "$area" -)
 
 while true
