@@ -260,7 +260,7 @@ b00_02 只翻了一半
 |  e04_03.ks  | :white_check_mark: | :white_large_square: |
 |  e05_01.ks  | :white_check_mark: | :white_large_square: |
 |  e05_02.ks  | :heavy_check_mark: | :white_large_square: |
-|  e05_03.ks  | :white_large_square: | :white_large_square: |
+|  e05_03.ks  | :white_check_mark: | :white_large_square: |
 |  e06_01.ks  | :white_large_square: | :white_large_square: |
 |  e06_02.ks  | :white_large_square: | :white_large_square: |
 |  e06_03.ks  | :white_large_square: | :white_large_square: |
