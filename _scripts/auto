@@ -30,6 +30,10 @@ while true
         if [ (wl-paste -p) = '�' ]
           ydotool type 'vddk'
           break
+        else if [ (wl-paste -p) = ';' ]
+          ydotool type 'x'
+          echo Complete
+          exit
         else
           ydotool type 'F:ls '
           continue

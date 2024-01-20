@@ -471,8 +471,8 @@
 ; 莉里香の全身が震えて、太ももは緊張で強ばった。
 莉里香全身发抖，大腿因紧张而僵硬。
 @Hitret id=35307
-@AddSelect text=莉里香の口内に出す
-@AddSelect text=莉里香の顔にかける
+@AddSelect text=射在莉里香的口内
+@AddSelect text=射在莉里香的脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @cg file=EE15d
@@ -1136,8 +1136,8 @@
 ; 俺もその動きに応えて、莉里香の膣内をかき回した。
 我也回应那个动作，搅动了莉里香的阴道内。
 @Hitret id=35447
-@AddSelect text=莉里香の膣内に出す
-@AddSelect text=莉里香の身体にかける
+@AddSelect text=射在莉里香的体内
+@AddSelect text=射到莉里香的身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @cg file=EE16h
