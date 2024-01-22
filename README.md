@@ -105,6 +105,8 @@ b00_02 只翻了一半
 
 お父様　翻译为父亲大人
 
+小莉里香这个叫法觉得怪怪的
+
 # 可能没检查的错字
 
 派队
@@ -265,11 +267,11 @@ b00_02 只翻了一半
 |  e05_03.ks  | :white_check_mark: | :white_large_square: |
 |  e06_01.ks  | :white_check_mark: | :white_large_square: |
 |  e06_02.ks  | :heavy_check_mark: | :white_large_square: |
-|  e06_03.ks  | :white_large_square: | :white_large_square: |
-|  e07_01.ks  | :white_large_square: | :white_large_square: |
-|  e08_01.ks  | :white_large_square: | :white_large_square: |
-|  e08_02.ks  | :white_large_square: | :white_large_square: |
-|  e08_03.ks  | :white_large_square: | :white_large_square: |
+|  e06_03.ks  | :white_check_mark: | :white_large_square: |
+|  e07_01.ks  | :white_check_mark: | :white_large_square: |
+|  e08_01.ks  | :white_check_mark: | :white_large_square: |
+|  e08_02.ks  | :heavy_check_mark: | :white_large_square: |
+|  e08_03.ks  | :white_check_mark: | :white_large_square: |
 |  f01_01.ks  | :white_large_square: | :white_large_square: |
 |  f02_01.ks  | :white_large_square: | :white_large_square: |
 |  f02_02.ks  | :white_large_square: | :white_large_square: |

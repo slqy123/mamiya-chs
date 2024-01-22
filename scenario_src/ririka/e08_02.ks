@@ -76,7 +76,7 @@
 @cg file=EE17bL pos=320,-180,0
 @Talk name=心の声
 ; 今度は、おもむろにサングラスをかけた。
-这次慢慢地戴上了墨镜。
+这次慢慢地戴上了太阳镜。
 @Hitret id=35834
 @Talk name=莉里香 voice=RRK051251
 ; 「ふふっ、どうですか？　こうして変装すれば、もし␤店内をのぞき込まれても大丈夫じゃないかしら」
@@ -114,8 +114,8 @@
 ; 「俺は……」
 「我……」
 @Hitret id=35843
-@AddSelect text=サングラスをかけたまま
-@AddSelect text=サングラスは外してもらう
+@AddSelect text=就这么戴着太阳镜
+@AddSelect text=将太阳镜摘下
 @StartSelect
 @if exp="ChkSelect(1)"
 @onFlag id=39
@@ -141,7 +141,7 @@
 @cg file=EE17b
 @Talk name=良太
 ; 「できれば、サングラスはない方がいいかな」
-「如果可以的话，最好不要戴墨镜」
+「如果可以的话，最好不要戴太阳镜」
 @Hitret id=35848
 @Talk name=心の声
 ; クリアレンズタイプとはいえ、莉里香の顔を隔てるものが␤あるのは少し寂しい。
@@ -153,7 +153,7 @@
 @Hitret id=35850
 @Talk name=心の声
 ; 莉里香は少し残念そうにサングラスを外した。
-莉里香有点遗憾地摘下了墨镜。
+莉里香有点遗憾地摘下了太阳镜。
 @Hitret id=35851
 @endif
 @playSe file=SE061
@@ -639,8 +639,8 @@
 ; 「あっ！　はぁぁぁ、ああっ、もう、頭、クラクラして……␤ふぇううっ！　ダメ、もう、だめぇっ……！」
 「“啊！啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊」
 @Hitret id=35948
-@AddSelect text=莉里香のアナルの中に出す
-@AddSelect text=外に出す
+@AddSelect text=射在莉里香体内
+@AddSelect text=射在外面
 @StartSelect finish_type2 terminate
 @if exp="ChkSelect(1)"
 @counter show count=0
