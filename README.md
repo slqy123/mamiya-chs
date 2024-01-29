@@ -85,7 +85,7 @@ b00_02 只翻了一半
 
 滨之崎 改成 浜之崎
 
-艶っぽく 翻译成妩媚是不是更好
+艶っぽく 翻译成妩媚是不是更好(统一翻译)
 
 全角和半角的点号 ・和·
 
@@ -106,6 +106,8 @@ b00_02 只翻了一半
 お父様　翻译为父亲大人
 
 小莉里香这个叫法觉得怪怪的
+
+登校日翻译成返校日？
 
 # 可能没检查的错字
 
@@ -130,6 +132,7 @@ b00_02 只翻了一半
 账，帐
 莉莉香
 组织
+昨晚(做完)
 
 # 游戏进度
 
@@ -272,11 +275,11 @@ b00_02 只翻了一半
 |  e08_01.ks  | :white_check_mark: | :white_large_square: |
 |  e08_02.ks  | :heavy_check_mark: | :white_large_square: |
 |  e08_03.ks  | :white_check_mark: | :white_large_square: |
-|  f01_01.ks  | :white_large_square: | :white_large_square: |
-|  f02_01.ks  | :white_large_square: | :white_large_square: |
-|  f02_02.ks  | :white_large_square: | :white_large_square: |
-|  f03_01.ks  | :white_large_square: | :white_large_square: |
-|  f03_02.ks  | :white_large_square: | :white_large_square: |
+|  f01_01.ks  | :white_check_mark: | :white_large_square: |
+|  f02_01.ks  | :white_check_mark: | :white_large_square: |
+|  f02_02.ks  | :white_check_mark: | :white_large_square: |
+|  f03_01.ks  | :white_check_mark: | :white_large_square: |
+|  f03_02.ks  | :heavy_check_mark: | :white_large_square: |
 |  f03_03.ks  | :white_large_square: | :white_large_square: |
 |  f04_01.ks  | :white_large_square: | :white_large_square: |
 |  f04_02.ks  | :white_large_square: | :white_large_square: |

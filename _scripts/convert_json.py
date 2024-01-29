@@ -56,6 +56,9 @@ def combine_json(ks_parse_result: list[Text | str], json_path: Path) -> str:
                 j["translate"] = j["translate"][:-1]
             if j["translate"][-1] not in ("」", "』"):
                 j["translate"] = j["translate"] + text.comment[-1]
+        else:
+            if j["translate"][-1] != "。" and j["translate"][-1] not in "—…？！～":
+                j["translate"] += "。"
 
         text.content_origin = j["translate"].replace("␤", "")  # TODO 是否应该在翻译时就加上换行
     return construct_ks(res, lambda x: x.content_origin)
