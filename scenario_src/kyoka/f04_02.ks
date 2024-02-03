@@ -540,8 +540,8 @@
 ; 「んじゅ、ん、んむっ……好きな場所に、出させて␤あげる……精液、受け止めてあげる、から……っ」
 「嗯，嗯，嗯……让他去喜欢的地方……精液，我会接受的……」
 @Hitret id=37433
-@AddSelect text=京花姉さんの口内に出す
-@AddSelect text=京花姉さんの顔にかける
+@AddSelect text=射在京花姐姐嘴里
+@AddSelect text=射在京花姐姐脸上
 @StartSelect finish_type1 terminate
 @if exp="ChkSelect(1)"
 @counter show count=0

@@ -109,6 +109,8 @@ b00_02 只翻了一半
 
 登校日翻译成返校日？
 
+職員室统一翻译成教师办公室？
+
 # 可能没检查的错字
 
 派队
@@ -133,6 +135,7 @@ b00_02 只翻了一半
 莉莉香
 组织
 昨晚(做完)
+西莫尔
 
 # 游戏进度
 
@@ -280,11 +283,11 @@ b00_02 只翻了一半
 |  f02_02.ks  | :white_check_mark: | :white_large_square: |
 |  f03_01.ks  | :white_check_mark: | :white_large_square: |
 |  f03_02.ks  | :heavy_check_mark: | :white_large_square: |
-|  f03_03.ks  | :white_large_square: | :white_large_square: |
-|  f04_01.ks  | :white_large_square: | :white_large_square: |
-|  f04_02.ks  | :white_large_square: | :white_large_square: |
-|  f04_03.ks  | :white_large_square: | :white_large_square: |
-|  f04_04.ks  | :white_large_square: | :white_large_square: |
+|  f03_03.ks  | :white_check_mark: | :white_large_square: |
+|  f04_01.ks  | :white_check_mark: | :white_large_square: |
+|  f04_02.ks  | :heavy_check_mark: | :white_large_square: |
+|  f04_03.ks  | :white_check_mark: | :white_large_square: |
+|  f04_04.ks  | :white_check_mark: | :white_large_square: |
 |  f05_01.ks  | :white_large_square: | :white_large_square: |
 |  f06_01.ks  | :white_large_square: | :white_large_square: |
 |  macro.ks   | :white_large_square: | :white_large_square: |
