@@ -299,3 +299,9 @@ b00_02 只翻了一半
 |  z02_05.ks  |  :white_check_mark:  | :white_large_square: |
 |  z02_06.ks  |  :heavy_check_mark:  | :white_large_square: |
 |  z03_01.ks  |  :white_check_mark:  | :white_large_square: |
+
+# LOG
+2024-02-07：初翻完成
+
+# TODO
+- 校对翻译过程中对脚本程序的修改，规范注释的格式。
