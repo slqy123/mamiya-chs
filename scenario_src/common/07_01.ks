@@ -734,9 +734,7 @@
 ; だけど、自覚してるからと言って不安が消えるわけじゃ␤ないんだ。
 但是，虽说是有了自觉，不安感也不会消失。
 @Hitret id=7070
-; COMMENT 修改if条件
 ; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
-@if exp="true"
 @cg file=BG02a01
 @Talk name=良太
 ; 「あ……そうだ」
@@ -859,9 +857,7 @@
 ; 閉店ぎりぎりまで、しっかり頑張ろうと思えるくらいの␤笑顔だった。
 让我能够充满干劲地努力到关店。
 @Hitret id=7096
-; COMMENT if
 ; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
-@if exp="true"
 @cg file=BG02a01
 @Talk name=良太
 ; 「あ……そうだ」
@@ -999,9 +995,7 @@
 ; 俺は深呼吸をして、ひとまず店のことへと意識を␤向け直した。
 我做了深呼吸，暂时先把意识转向店里的事情。
 @Hitret id=7125
-; COMMENT if
 ; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
-@if exp="true"
 @cg file=BG02a01
 @Talk name=良太
 ; 「あ……そうだ」
@@ -1120,9 +1114,7 @@
 ; 珠音はとても可愛らしいはにかみ顔で、俺を送り出して␤くれたのだった。
 珠音一副非常可爱又有些腼腆的表情，把我送出了厨房。
 @Hitret id=7149
-; COMMENT if
 ; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
-@if exp="true"
 @cg file=BG02a01
 @Talk name=良太
 ; 「……どうも気が沈んで駄目だな。なにか気分転換でも␤できればいいんだけど……」
@@ -1248,7 +1240,6 @@
 ; かっこ悪いところは見せられないなと、改めて␤気合が入った。
 为了不让音琴看到我丢脸的样子，我再次鼓起了干劲。
 @Hitret id=7175
-; COMMENT else
 ; @else
 @cg file=BG02a01
 @Talk name=良太
@@ -1259,7 +1250,7 @@
 ; 掃除道具を持ってくるために、俺は店の裏側へと回った。
 为了拿扫除工具，我往店后面走去。
 @Hitret id=7177
-@endif
+; @endif
 @fadeEnvSe id=SE119 vol=50
 @stopBgm fade=3000
 @時間経過１ bg=BG02a01
@@ -1926,37 +1917,37 @@
 ; 『そうかそうか。それなら良かった』
 『是这样啊，那就好了』
 @Hitret id=7314
-@if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
+; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
 @face file=CG04A003M
 @Talk name=小次郎 voice=KJR000049
 ; 『……それにしても、八雲の話がずいぶん多いな』
 『……不过话说回来，你好像一直在说八雲的话啊』
 @Hitret id=7315
-@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000050
 ; 『……でも、萌莉の話ばかりしすぎじゃないか？』
 『……不过话说，你好像光顾着在说萌莉的话不是吗？』
 @Hitret id=7316
-@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000051
 ; 『珠音の話ばかりなのが、ちょっと気になるけどな』
 『你好像一直在说珠音的话啊，稍微有点在意呢』
 @Hitret id=7317
-@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000052
 ; 『ずいぶん音琴と仲良くしてたように聞こえるが』
 『我听说你和音琴的关系很好啊』
 @Hitret id=7318
-@else
+; @else
 @face file=CG04A003M
 @Talk name=小次郎 voice=KJR000053
 ; 『姉妹以外の話が多くないか？　京花ちゃんや␤四条院さんちの娘さんのこととか……』
 『你好像说了很多姐妹之外的人的话啊？京花还有四条院的女儿什么的……』
 @Hitret id=7319
-@endif
+; @endif
 @メッセージ揺らし
 @Talk name=良太
 ; 「そ、そうか！？　そんなことないと思うけど……」
@@ -2087,4 +2078,4 @@
 @wait time=3000 hitCancel
 @hide wait
 @eyecatch type=C bg=BG02a01/BG03a01/BG12a01/BG08d01 voice=萌莉
-@Change target=08_01
+; @Change target=08_01

@@ -1640,10 +1640,6 @@
 ; 女性二人を出歩かせるのは心配になってしまうが――
 出于对两位女性出门的担心——
 @Hitret id=3578
-; COMMENT
-; 中途才发现自己没过Auth验证，还有个京花补丁我去
-; 解决方法就是通过临时添加 @onFlag id=201，但好像不能立刻就删，我猜测要等到下一个scene时才可以
-@onFlag id=201
 @if exp="ChkFlagOn(201)"
 @AddSelect text=送四条院同学和京花姐姐回去  hint=莉里香/京花
 @else

@@ -724,7 +724,6 @@
 @stopSe fade=1000
 @playSe file=SE070
 @Talk name=良太
-; @Ruby mess=深夜场 read=レイトショー
 ; 「レイトショーのチケット？」
 「还是深夜场的门票？」
 @Hitret id=11212

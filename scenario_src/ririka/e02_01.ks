@@ -797,9 +797,11 @@
 ; 「字が違うだろ！？」
 「汉字不一样吧！？」
 @Hitret id=31971
+; COMMENT append
 @Talk name=心の声
 （付き合う：交往，突き合う：做爱，
 二者读音相同，对应的汉字不同）
+; COMMENT append
 @Hitret id=319710
 @playSe file=SE132
 @char file=CI02A010L
@@ -873,7 +875,6 @@
 @Hitret id=31984
 @enter file=CD02A001M x=-300
 @char file=CI02A005M x=300
-; @Ruby mess=侠気 read=おとこぎ
 @Talk name=音琴 voice=NKT050010
 ; 「お兄ちゃんの侠気を感じる、よね」
 「欧尼酱的男子气概，呢」
