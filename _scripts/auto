@@ -30,7 +30,7 @@ while true
         if [ (wl-paste -p) = '�' ]
           ydotool type 'vddk'
           break
-        else if [ (wl-paste -p) = ';' ]
+        else if [ (wl-paste -p) = ';' ] || [ (wl-paste -p) = ']' ]
           ydotool type 'x'
           echo Complete
           exit

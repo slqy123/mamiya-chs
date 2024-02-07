@@ -54,11 +54,11 @@
 ; @wait time=3000 hitCancel
 ; @hide wait
 ; @eyecatch type=C bg=BG04a01/BG22a02/BG08c01/BG26a01 voice=珠音
-; @Change target=z01_01
+@Change target=z01_01
 ; @else
 ; @stopBgm fade=2000
 ; @wait time=3000 hitCancel
 ; @hide wait
 ; @eyecatch type=C bg=BG04a01/BG22a02/BG08c01/BG26a01 voice=京花
-@Change target=09_01
+; @Change target=09_01
 ; @endif
