@@ -3,6 +3,7 @@ from pathlib import Path
 from convert_json import combine_json
 from parse_ks import parse_ks, Text, construct_ks
 import re
+import rename
 
 src = Path("scenario_src")
 dst = Path("scenario")
@@ -58,7 +59,7 @@ parse_res = parse_all(src)
 ref_dict = construct_ref_dict(parse_res)
 
 for file in parse_res:
-    for line in file["res"]:
+    for i, line in enumerate(file["res"]):
         if isinstance(line, Text):
             line.content_origin = line.content_origin.translate(
                 str.maketrans(half_width, full_width)
@@ -66,6 +67,10 @@ for file in parse_res:
             line.content_origin = re.sub(
                 r"\{[ ]*(\w+)[ ]+(.*)\}", process_command, line.content_origin
             )
+        else:
+            assert isinstance(line, str)
+            if line.startswith("@Talk"):
+                file["res"][i] = rename.rename(line)
 
 for file in parse_res:
     file["dst"].parent.mkdir(parents=True, exist_ok=True)

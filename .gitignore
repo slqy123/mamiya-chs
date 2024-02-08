@@ -1,8 +1,8 @@
 *.tft
-assets
+/assets
 /_scripts/src
 /_scripts/__pycache__
 /_scripts/.venv
 /.area
-.vscode
+/.vscode
 /scenario
