@@ -11,15 +11,12 @@ def rename(line: str):
         assert False, f"Can't find name field in {line}"
     elm = name_filed.group(1)
     match elm.split('/'):
-        case [name, pan]:
-            names = (name, pan)
-        case [name]:
-            names = (name, None)
+        case [name, *_]:
+            names = (name, rename_rule.get(name, name))
         case _:
             assert False, f"Unknown name format {elm}"
     
-    new_name = rename_rule.get(names[0], names[0])
-    return re.sub(r'@Talk name=\w+', f'@Talk name={names[0]}/{new_name}', line)
+    return re.sub(r'@Talk name=\w+', f'@Talk name={names[0]}/{names[1]}', line)
 
 
 
