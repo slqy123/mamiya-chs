@@ -51,8 +51,10 @@ def process_command(match: re.Match) -> str:
             if res != args:
                 print(f'{file["src"].name}: HALF_WIDTH {args} -> {res}')
             return res
+        case 'COMMENT':
+            return ''
         case _:
-            raise
+            assert False, f"Unknown command {cmd}"
 
 
 parse_res = parse_all(src)
