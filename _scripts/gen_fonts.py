@@ -6,7 +6,7 @@ from pywinauto.application import Application
 
 
 origin_names = ['スーラ', 'ニューシネマ', 'ハミング']
-modifed_names = ['微软雅黑', '霞鹜文楷 屏幕阅读版', '霞鹜新晰黑']
+modifed_names = ['思源黑体 CN', '霞鹜文楷 屏幕阅读版', '萝莉体 第二版']
 
 sizes = [12, 21, 30, 39]
 
@@ -26,5 +26,8 @@ for origin_name, modifed_name in zip(origin_names, modifed_names):
 
 
 for app in apps:
-    app.TFontMakerWriteForm.wait_not('active', timeout=10*60)
+    app.TFontMakerWriteForm.wait_not_active(10*60, 1)
+
+# crash in wine if written in the same loop
+for app in apps:
     app.kill()
