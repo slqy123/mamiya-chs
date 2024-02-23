@@ -5,12 +5,15 @@
 - 2024-02-08：完成对游戏显示名称的翻译
 - 2024-02-11：完成了基本的安装脚本
 - 2024-02-11：统一引号的使用
+- 2024-02-23：添加基本的双语显示
 
 # TODO
 - 纠正错别字
 - 统一称呼(翻译)
 - b00_02 只翻了一半
 - 最后要检查 select 有没有漏翻的，特别是机翻的 HS
+- 修改ks文件，使用@Sub解析日语原文
+- 检查各文本位置有名义上不小心输入的空格
 # 注记
 
 ; TODO 表示此处翻译不太确定
@@ -112,6 +115,8 @@
 
 間宮之类的日语名字，好像有的没有翻译成对应的简体(间宫)
 
+観光シーズン  统一翻译成观光季？
+
 # 称呼
 TODO
 
@@ -147,8 +152,8 @@ TODO
 
 |   文件名    |         翻译         |         校对         |
 | :---------: | :------------------: | :------------------: |
-|  01_01.ks   |  :white_check_mark:  $\times 2$ | :white_check_mark: |
-|  02_01.ks   |  :white_check_mark:  | :white_large_square: |
+|  01_01.ks   |  :white_check_mark:  ✕2 | :white_check_mark: |
+|  02_01.ks   |  :white_check_mark:  ✕2| :white_check_mark: |
 |  03_01.ks   |  :white_check_mark:  | :white_large_square: |
 |  03_02a.ks  |  :white_check_mark:  | :white_large_square: |
 |  03_02b.ks  |  :white_check_mark:  | :white_large_square: |
