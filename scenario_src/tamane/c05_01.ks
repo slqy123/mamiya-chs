@@ -569,8 +569,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN030607
 ; 「ひゃあ！？　ね、ねこちゃん……」
-; REVISE
-「呀啊！？  ne，neko酱……」
+「呀啊！？  ne，neko酱……」  ; TODO REVISE
 @Hitret id=21781
 @char file=CD05B007M
 @Talk name=音琴 voice=NKT030083
@@ -997,8 +996,7 @@ neko酱，难道已经发现了……？
 @face file=CC05B003M
 @Talk name=珠音 voice=TMN030621
 ; 「ダ、ダイジョウブダヨ、ネコチャン……」
-; TODO
-「莈，莈問趧哋呃，neko醬……」
+「莈，莈問趧哋呃，neko醬……」  ; TODO
 @Hitret id=21863
 @face file=CD05B001M
 @Talk name=音琴 voice=NKT030095
@@ -1008,8 +1006,7 @@ neko酱，难道已经发现了……？
 @face file=CC05B003M
 @Talk name=珠音 voice=TMN030622
 ; 「アリガトウ、ネコチャン……」
-; TODO
-「塮塮沵，neko醬」
+「塮塮沵，neko醬」  ; TODO
 @Hitret id=21865
 @clearChar id=-1
 @Talk name=心の声
@@ -1580,8 +1577,7 @@ neko酱，难道已经发现了……？
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN030640
 ; 「ひっ、ひぅぅっ……！」
-; TODO
-「呀，呀啊……！」
+「呀，呀啊……！」  ; TODO
 @Hitret id=21975
 @Talk name=良太
 ; 「どうしたんだ、震えて……また体調が悪くなって␤来たのか？」

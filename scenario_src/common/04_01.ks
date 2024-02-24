@@ -264,8 +264,7 @@
 @回想 bg=BG11a01 char=CF03A001M
 @Talk name=回想/京花 voice=KYK000041_E01
 ; 「そういう事情なら、私にもお店のお手伝いをさせて␤ちょうだい」
-; REF 1499
-「如果是这样的话，请让我也来店里帮忙吧」
+「如果是这样的话，请让我也来店里帮忙吧」  ; REF 1499
 @Hitret id=3303
 @char file=CC02A009M tone=sepia
 @char file=CD02A002M tone=sepia

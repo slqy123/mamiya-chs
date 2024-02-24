@@ -797,11 +797,10 @@
 ; 「字が違うだろ！？」
 「汉字不一样吧！？」
 @Hitret id=31971
-; COMMENT append
+; COMMENT
 @Talk name=心の声
 （付き合う：交往，突き合う：做爱，
 二者读音相同，对应的汉字不同）
-; COMMENT append
 @Hitret id=319710
 @playSe file=SE132
 @char file=CI02A010L
