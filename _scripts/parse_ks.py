@@ -25,8 +25,9 @@ def text_strip(text: str):
 def text_NL(text: str):
     return "␤".join([t.strip() for t in text.replace("\t", "").strip().splitlines()])
 
-
+# comment_count = False
 def parse_ks(src: Path) -> list[str | Text]:
+    # global comment_count
     assert src.is_file()
     assert src.suffix == ".ks"
 
@@ -43,6 +44,12 @@ def parse_ks(src: Path) -> list[str | Text]:
                 continue
             if line.startswith(";") or line.startswith("//") or line.startswith("*"):
                 res.append(line)
+                # if line[0] == ';':
+                #     assert line[1] == ' '
+                #     if line[2] != '@':
+                #         if comment_count != False:
+                #             print('error in ', hitret_id)
+                #         comment_count = True
                 continue
             if line.startswith("@"):
                 res.append(line)
@@ -51,6 +58,8 @@ def parse_ks(src: Path) -> list[str | Text]:
                     continue
 
                 if match_id := re.match(r"@(Hitret|HitWait)[ \t]+id=(\d+)", line):
+                    # assert comment_count == True
+                    # comment_count = False
                     match_id = int(match_id[2])
                     if hitret_id == match_id:
                         talker = ""
@@ -63,7 +72,9 @@ def parse_ks(src: Path) -> list[str | Text]:
                     content_raw = content_buffer.replace("\t", "").strip()
                     content_NL = text_NL(content_buffer)
                     content_strip = text_strip(content_buffer)
-                    comment = res[-2][1:].strip() if res[-2].startswith(";") else ""
+                    # comment = res[-2][1:].strip() if res[-2].startswith(";") else ""
+                    assert res[-2].startswith('@Sub mess=')
+                    comment = res[-2][10:]
                     text = Text(
                         filename,
                         hitret_id,

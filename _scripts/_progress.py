@@ -12,13 +12,17 @@ def print_excluded(path, range_):
 
 from itertools import chain
 
-print(
-    sum(
-        [get_text_amount(p) for p in chain(
-            Path("../scenario/harem").iterdir(),
-            Path("../scenario/kyoka").iterdir(),
-            Path("../scenario/ririka").iterdir(),
-            Path("../scenario/yakumo").iterdir(),
-        ) if '_02.ks' not in p.name]
-    )
-)
+# print(
+#     sum(
+#         [get_text_amount(p) for p in chain(
+#             Path("../scenario/harem").iterdir(),
+#             Path("../scenario/kyoka").iterdir(),
+#             Path("../scenario/ririka").iterdir(),
+#             Path("../scenario/yakumo").iterdir(),
+#         ) if '_02.ks' not in p.name]
+#     )
+# )
+
+print(sum(
+    [get_text_amount(p) for p in Path('scenario_src').rglob('*.ks')]
+))
