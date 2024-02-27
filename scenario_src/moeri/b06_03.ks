@@ -24,7 +24,7 @@
 @Hitret id=16147
 @Talk name=心の声
 @Sub mess="すっかり『萌莉のことは俺へ』という構図ができてる␤みたいだ。"
-好像是在说『萌莉的事那肯定和你有关吧』。
+好像是在说“萌莉的事那肯定和你有关吧”。
 @Hitret id=16148
 @clearChar id=-1
 @char file=CB06A006M

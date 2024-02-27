@@ -130,7 +130,7 @@
 @Hitret id=34422
 @Talk name=心の声
 @Sub mess="『もっとして欲しい』という意思だと思うことにして、␤俺は秘所を撫でつけた。"
-我觉得是『想要更多』的意思，抚摸了秘密。
+我觉得是“想要更多”的意思，抚摸了秘密。
 @Hitret id=34423
 @playEnvSe file=SE146
 @cg file=EE13a

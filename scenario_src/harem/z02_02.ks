@@ -500,7 +500,7 @@
 @Hitret id=38601
 @Talk name=心の声
 @Sub mess="目的は『デザート』だと終始一貫したことを言っている。"
-始终坚持说目的是『甜点』。
+始终坚持说目的是“甜点”。
 @Hitret id=38602
 @cg file=EZ04dL pos=0,180,0
 @Talk name=八雲 voice=YKM070027

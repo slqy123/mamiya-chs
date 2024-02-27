@@ -125,7 +125,7 @@
 @Hitret id=24228
 @Talk name=心の声
 @Sub mess="俺は珠音に『あーん』をしてもらい、唇を重ね合わせる。"
-我让珠音做『啊』，把嘴唇重叠起来。
+我让珠音做“啊”，把嘴唇重叠起来。
 @Hitret id=24229
 @cg file=EC15c
 @playBgv file=TMN110002

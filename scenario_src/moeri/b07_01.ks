@@ -400,7 +400,7 @@
 @Hitret id=16325
 @Talk name=良太
 @Sub mess="「ホテルから見える景色、綺麗ですよね」"
-「从宾馆看到的景色，真漂亮啊」
+「从酒店看到的景色，真漂亮啊」
 @Hitret id=16326
 @face file=CE03A002M
 @Talk name=莉里香 voice=RRK020047

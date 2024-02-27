@@ -455,7 +455,7 @@
 @Hitret id=7846
 @Talk name=心の声
 @Sub mess="住まいがホテルだからこそできる芸当だ。"
-这是宾馆独有的方式。
+这是酒店独有的方式。
 @Hitret id=7847
 @char file=CF03A010M
 @Talk name=京花 voice=KYK000197
@@ -489,7 +489,7 @@
 @Hitret id=7853
 @Talk name=心の声
 @Sub mess="ホテルとはいえ女の子の住まいであることは間違いない。"
-虽说是宾馆，但毕竟是女孩子的住所。
+虽说是酒店，但毕竟是女孩子的住所。
 @Hitret id=7854
 @Talk name=心の声
 @Sub mess="だから、一人で行くのは少し失礼かもしれない。"
