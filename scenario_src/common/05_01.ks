@@ -247,7 +247,7 @@
 @Hitret id=4582
 @Talk name=良太
 @Sub mess="「昔って、小さい頃の話だろ？」"
-「"以前"说的是小时候的事吧？」
+「“以前”说的是小时候的事吧？」
 @Hitret id=4583
 @face file=CF06A005M
 @Talk name=京花 voice=KYK000125
@@ -295,7 +295,7 @@
 @face file=CF06A001M
 @Talk name=京花 voice=KYK000129
 @Sub mess="「もう一ついかが？　いくつでもあーんしてあげる」"
-「还要再来一个吗？不管多少个我都会给你"啊——"的哦」
+「还要再来一个吗？不管多少个我都会给你“啊——”的哦」
 @Hitret id=4593
 @Talk name=良太
 @Sub mess="「も、もう大丈夫だよ。おいしいのがよく分かったから」"

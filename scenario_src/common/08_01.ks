@@ -390,7 +390,7 @@
 @Sub mess="慌てて否定してるけど、だいぶ手遅れだ。"
 虽然急忙否定了，但大概是迟了吧。
 @Hitret id=7423
-; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 4"
+; @if exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 4”
 @Talk name=心の声
 @Sub mess="本当は最初から誘おうと思ってたのだけど、現在の␤お店とホテルの対立を考えると、四条院さんが␤来てくれるか自信が無かった。"
 本来一开始就想邀请四条院同学的，但是考虑到现在的我们店和酒店的对立关系，我没有自信四条院同学会不会来。
@@ -446,7 +446,7 @@
 @おじぎ id=莉里香
 @Talk name=心の声
 @Sub mess="ここに来た理由の説明から解放された安心感からか、␤四条院さんは得意げにポーズを取ってくれる。"
-也许是因为从"说明来这里的理由"的话题中解放出来而安心了吧，四条院同学又得意地摆起了姿势。
+也许是因为从“说明来这里的理由”的话题中解放出来而安心了吧，四条院同学又得意地摆起了姿势。
 @Hitret id=7435
 @Talk name=心の声
 @Sub mess="さすがにそこまでされると、目のやり場に困るな……"
@@ -530,7 +530,7 @@
 @Sub mess="なんて口に出して言ったら怒られそうだけど。"
 要是说出来的话会被骂的吧。
 @Hitret id=7449
-; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
+; @if exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0”
 @Talk name=心の声
 @Sub mess="ただ……"
 只是……
@@ -612,7 +612,7 @@
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7465
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1”
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -693,7 +693,7 @@
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7482
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2”
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -774,7 +774,7 @@
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7498
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3”
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -1277,7 +1277,7 @@
 @Sub mess="「はぅ！？　そ……そうだね、えっと……うん。私も␤気になる、かな……」"
 「哈唔！？对……对啊，那个……嗯。我也很在意，的吧……」
 @Hitret id=7604
-; @if exp="ChkFlagOn(31)"
+; @if exp=“ChkFlagOn(31)”
 @face file=CD05A015M
 @Talk name=音琴 voice=NKT000511
 @Sub mess="「前におっきい胸とちいさい胸、どっちが好きか␤聞いたけどあいまいなままだったし」"
@@ -1351,13 +1351,13 @@
 @Sub mess="ここは、ちゃんと答えるしかなさそうだ……"
 这种情况下，也只能好好回答了……
 @Hitret id=7619
-; @if exp="ChkGlobalFlagOn(21) && ChkGlobalFlagOn(22) && ChkGlobalFlagOn(23) && ChkGlobalFlagOn(24)"
+; @if exp=“ChkGlobalFlagOn(21) && ChkGlobalFlagOn(22) && ChkGlobalFlagOn(23) && ChkGlobalFlagOn(24)”
 @AddSelect text=好好考虑一下
 @AddSelect text=选一个什么的，太为难我了
 @StartSelect
-; @if exp="ChkSelect(1)"
+; @if exp=“ChkSelect(1)”
 @OnFlag id=33
-; @elsif exp="ChkSelect(2)"
+; @elsif exp=“ChkSelect(2)”
 @SelectTerminate
 @OnFlag id=34
 @SetParam arg=111,7
@@ -1803,7 +1803,7 @@
 @Sub mess="俺はよく冷えたジュースを受け取った。"
 我一手接过了冰镇的果汁。
 @Hitret id=7710
-; @if exp="(GetParam(105)+GetParam(106)) > GetParam(101) && (GetParam(105)+GetParam(106)) > GetParam(102) && (GetParam(105)+GetParam(106)) > GetParam(103) && (GetParam(105)+GetParam(106)) > GetParam(104)"
+; @if exp=“(GetParam(105)+GetParam(106)) > GetParam(101) && (GetParam(105)+GetParam(106)) > GetParam(102) && (GetParam(105)+GetParam(106)) > GetParam(103) && (GetParam(105)+GetParam(106)) > GetParam(104)”
 @場面転換３Ｐ bg=BG26a01 pos=-320,-180,0
 @Talk name=心の声
 @Sub mess="それから母さんに頼まれて他のみんなにも声を掛けに␤行った。"
@@ -1843,7 +1843,7 @@
 @stopEnvSe fade=1000
 @stopBgm fade=3000
 ; @Change target=08_02
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 0"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104) == 0”
 @SetParam arg=111,1
 @clearChar id=-1
 @Talk name=良太
@@ -1891,7 +1891,7 @@
 @stopEnvSe fade=1000
 @stopBgm fade=3000
 ; @Change target=a00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 1"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104) == 1”
 @SetParam arg=111,2
 @clearChar id=-1
 @Talk name=良太
@@ -1938,7 +1938,7 @@
 @Hitret id=7735
 @stopBgm fade=3000
 ; @Change target=b00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 2"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104) == 2”
 @SetParam arg=111,3
 @clearChar id=-1
 @Talk name=良太
@@ -1980,7 +1980,7 @@
 @stopEnvSe fade=1000
 @stopBgm fade=3000
 ; @Change target=c00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 3"
+; @elsif exp=“BiggerParamIndex(101, 102, 103, 104) == 3”
 @SetParam arg=111,4
 @clearChar id=-1
 @Talk name=良太

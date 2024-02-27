@@ -37,19 +37,19 @@
 @Sub mess="夜のリビングで、俺は改めてそう心に誓ったのだった。"
 夜晚的客厅里，我再次在心中暗暗发誓。
 @Hitret id=7757
-; @if exp="GetParam(111) == 1"
+; @if exp=“GetParam(111) == 1”
 ; @アイキャッチＢ八雲 bg=BG22a02 char=CA05A001L
 ; @Change target=a01_01
-; @elsif exp="GetParam(111) == 2"
+; @elsif exp=“GetParam(111) == 2”
 ; @アイキャッチＢ萌莉 bg=BG22a02 char=CB05A001L
 ; @Change target=b01_01
-; @elsif exp="GetParam(111) == 3"
+; @elsif exp=“GetParam(111) == 3”
 ; @アイキャッチＢ珠音 bg=BG22a02 char=CC05A001L
 ; @Change target=c00_03
-; @elsif exp="GetParam(111) == 4"
+; @elsif exp=“GetParam(111) == 4”
 ; @アイキャッチＢ音琴 bg=BG22a02 char=CD05A001L
 ; @Change target=d01_01
-; @elsif exp="GetParam(111) == 7"
+; @elsif exp=“GetParam(111) == 7”
 ; @stopBgm fade=2000
 ; @wait time=3000 hitCancel
 ; @hide wait
