@@ -1,22 +1,25 @@
 # LOG
+
 - 2024-02-07：初翻完成
 - 2024-02-07：检查翻译过程中是否不小心删改了脚本文件
-- 2024-02-07：注释了共通线选择部分的ifelse(:white_large_square:)
+- 2024-02-07：注释了共通线选择部分的 ifelse(:white_large_square:)
 - 2024-02-08：完成对游戏显示名称的翻译
 - 2024-02-11：完成了基本的安装脚本
 - 2024-02-11：统一引号的使用
 - 2024-02-23：添加基本的双语显示
-- 2024-02-24：修改ks文件，使用@Sub解析日语原文
+- 2024-02-24：修改 ks 文件，使用@Sub 解析日语原文
 - 2024-02-24：添加双语显示的开关和快捷键(S)
 - 2024-02-27：替换漏掉的引号使用，将半角引号替换为全角
 
 # TODO
+
 - 纠正错别字
 - 统一称呼(翻译)
 - b00_02 只翻了一半
 - 最后要检查 select 有没有漏翻的，特别是机翻的 HS
 - 检查各文本位置有名义上不小心输入的空格
 - 使用{COMMENT}标注注释
+
 # 注记
 
 ; TODO 表示此处翻译不太确定
@@ -25,23 +28,27 @@
 @Ruby 不需要的话，可以考虑删掉
 
 <!-- 游戏里的文本框框好像有两种类型 -->
+
 # 统一翻译
+
 - [x] イメージビデオ → 写真偶像视频 2024-02-23
 - [x] シフォンケーキ → 戚风蛋糕 2024-02-23
-- [x] 宾馆改成酒店 2024-02-27
+- [x] 宾馆 → 酒店 2024-02-27
+- [x] 图书室 → 图书馆 2024-02-29
 
 助っ人 的翻译问题
 珠音的语气词 はわわわ 统一翻译为 哈哇哇，はう 翻译为 哈唔
 音琴的口头禅 くすくす 翻译为 哧哧
 熱っぽい視線 炽热的视线
+
 <!-- 瞳.\*映 双眼中映照出我的样子 -->
 <!-- ついばむような 小鸡啄米般的 -->
+
 占いは、当たるも八卦当たらぬも八卦
 这个我翻译成了: 问卜占卦，灵也不灵
 
 フロア
 可以翻译为前厅
-
 
 マラサダ
 可以翻译成马拉萨达，但感觉有的时候翻译成甜甜圈更通顺点。
@@ -79,6 +86,7 @@
 職員室统一翻译成教师办公室？
 
 # 已解决(似乎全部校对完之后再弄比较好？)
+
 新メニュー
 新菜品
 
@@ -121,14 +129,18 @@
 
 間宮之类的日语名字，好像有的没有翻译成对应的简体(间宫)
 
-観光シーズン  统一翻译成观光季？
+観光シーズン 统一翻译成观光季？
 
 会计 经理
 
+部室 教室/社团活动室
+
 # 称呼
+
 TODO
 
 # 可能没检查的错字
+
 派队
 电心
 部够
@@ -156,166 +168,165 @@ TODO
 市重心
 姐第
 
-
 # 游戏进度
 
-|   文件名    |         翻译         |         校对         |
-| :---------: | :------------------: | :------------------: |
-|  01_01.ks   |  :white_check_mark:  ✕2 | :white_check_mark: |
-|  02_01.ks   |  :white_check_mark:  ✕2| :white_check_mark: |
-|  03_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  03_02a.ks  |  :white_check_mark:  | :white_large_square: |
-|  03_02b.ks  |  :white_check_mark:  | :white_large_square: |
-|  03_02c.ks  |  :white_check_mark:  | :white_large_square: |
-|  03_02d.ks  |  :white_check_mark:  | :white_large_square: |
-|  04_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  04_02a.ks  |  :white_check_mark:  | :white_large_square: |
-|  04_02b.ks  |  :white_check_mark:  | :white_large_square: |
-|  04_02c.ks  |  :white_check_mark:  | :white_large_square: |
-|  04_02d.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  05_02a.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_02b.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_02c.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_02d.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_02e.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_03.ks   |  :white_check_mark:  | :white_large_square: |
-|  05_04a.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_04b.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_04c.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_04d.ks  |  :white_check_mark:  | :white_large_square: |
-|  05_04e.ks  |  :white_check_mark:  | :white_large_square: |
-|  06_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  07_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  08_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  08_02.ks   |  :white_check_mark:  | :white_large_square: |
-|  09_01.ks   |  :white_check_mark:  | :white_large_square: |
-|  a00_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a00_02.ks  |  :white_check_mark:  | :white_large_square: |
-|  a01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a02_02.ks  | :white_large_square: | :white_large_square: |
-|  a02_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  a03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a03_02.ks  | :white_large_square: | :white_large_square: |
-|  a03_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  a04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a04_02.ks  | :white_large_square: | :white_large_square: |
-|  a04_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  a04_04.ks  |  :white_check_mark:  | :white_large_square: |
-|  a05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a06_02.ks  | :white_large_square: | :white_large_square: |
-|  a07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a08_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a09_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  a09_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  a09_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b00_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b00_02.ks  | :white_large_square: | :white_large_square: |
-|  b01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b01_02.ks  | :white_large_square: | :white_large_square: |
-|  b01_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b04_02.ks  | :white_large_square: | :white_large_square: |
-|  b05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b06_02.ks  | :white_large_square: | :white_large_square: |
-|  b06_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b07_02.ks  | :white_large_square: | :white_large_square: |
-|  b07_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b08_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b09_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b10_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  b10_02.ks  | :white_large_square: | :white_large_square: |
-|  b10_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  b11_01.ks  | :white_large_square: | :white_large_square: |
-|  b11_02.ks  | :white_large_square: | :white_large_square: |
-|  b11_03.ks  | :white_large_square: | :white_large_square: |
-| birthday.ks | :white_large_square: | :white_large_square: |
-|  c00_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c00_02.ks  | :white_large_square: | :white_large_square: |
-|  c00_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  c01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c04_02.ks  | :white_large_square: | :white_large_square: |
-|  c05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c05_02.ks  | :white_large_square: | :white_large_square: |
-|  c06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c06_02.ks  |  :white_check_mark:  | :white_large_square: |
-|  c07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c07_02.ks  | :white_large_square: | :white_large_square: |
-|  c08_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c09_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c09_02.ks  | :white_large_square: | :white_large_square: |
-|  c09_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  c10_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  c10_02.ks  | :white_large_square: | :white_large_square: |
-|  c10_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  d00_01.ks  | :white_large_square: | :white_large_square: |
-|  d00_02.ks  | :white_large_square: | :white_large_square: |
-|  d01_01.ks  | :white_large_square: | :white_large_square: |
-|  d01_02.ks  | :white_large_square: | :white_large_square: |
-|  d02_01.ks  | :white_large_square: | :white_large_square: |
-|  d02_02.ks  |  :white_check_mark:  | :white_large_square: |
-|  d03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d04_02.ks  | :white_large_square: | :white_large_square: |
-|  d04_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  d05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d07_02.ks  | :white_large_square: | :white_large_square: |
-|  d07_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  d08_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d08_02.ks  | :white_large_square: | :white_large_square: |
-|  d09_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d10_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  d10_02.ks  | :white_large_square: | :white_large_square: |
-|  d10_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  e00_01.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e01_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e02_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e02_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  e03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e04_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e04_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  e05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e05_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e05_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  e06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e06_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e06_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  e07_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e08_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  e08_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  e08_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  f01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  f02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  f02_02.ks  |  :white_check_mark:  | :white_large_square: |
-|  f03_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  f03_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  f03_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  f04_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  f04_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  f04_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  f04_04.ks  |  :white_check_mark:  | :white_large_square: |
-|  f05_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  f06_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  title.ks   |  :white_check_mark:  | :white_large_square: |
-|  z01_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  z02_01.ks  |  :white_check_mark:  | :white_large_square: |
-|  z02_02.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  z02_03.ks  |  :white_check_mark:  | :white_large_square: |
-|  z02_04.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  z02_05.ks  |  :white_check_mark:  | :white_large_square: |
-|  z02_06.ks  |  :heavy_check_mark:  | :white_large_square: |
-|  z03_01.ks  |  :white_check_mark:  | :white_large_square: |
+|   文件名    |         翻译          |         校对         |
+| :---------: | :-------------------: | :------------------: |
+|  01_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  02_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  03_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  03_02a.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  03_02b.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  03_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  03_02d.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  04_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  04_02a.ks  |  :white_check_mark:   | :white_large_square: |
+|  04_02b.ks  |  :white_check_mark:   | :white_large_square: |
+|  04_02c.ks  |  :white_check_mark:   | :white_large_square: |
+|  04_02d.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_01.ks   |  :white_check_mark:   | :white_large_square: |
+|  05_02a.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_02b.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_02c.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_02d.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_02e.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_03.ks   |  :white_check_mark:   | :white_large_square: |
+|  05_04a.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_04b.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_04c.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_04d.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_04e.ks  |  :white_check_mark:   | :white_large_square: |
+|  06_01.ks   |  :white_check_mark:   | :white_large_square: |
+|  07_01.ks   |  :white_check_mark:   | :white_large_square: |
+|  08_01.ks   |  :white_check_mark:   | :white_large_square: |
+|  08_02.ks   |  :white_check_mark:   | :white_large_square: |
+|  09_01.ks   |  :white_check_mark:   | :white_large_square: |
+|  a00_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a00_02.ks  |  :white_check_mark:   | :white_large_square: |
+|  a01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a02_02.ks  | :white_large_square:  | :white_large_square: |
+|  a02_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  a03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a03_02.ks  | :white_large_square:  | :white_large_square: |
+|  a03_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  a04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a04_02.ks  | :white_large_square:  | :white_large_square: |
+|  a04_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  a04_04.ks  |  :white_check_mark:   | :white_large_square: |
+|  a05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a06_02.ks  | :white_large_square:  | :white_large_square: |
+|  a07_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a09_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a09_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  a09_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  b00_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b00_02.ks  | :white_large_square:  | :white_large_square: |
+|  b01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b01_02.ks  | :white_large_square:  | :white_large_square: |
+|  b01_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  b02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b04_02.ks  | :white_large_square:  | :white_large_square: |
+|  b05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b06_02.ks  | :white_large_square:  | :white_large_square: |
+|  b06_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  b07_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b07_02.ks  | :white_large_square:  | :white_large_square: |
+|  b07_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  b08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b09_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b10_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  b10_02.ks  | :white_large_square:  | :white_large_square: |
+|  b10_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  b11_01.ks  | :white_large_square:  | :white_large_square: |
+|  b11_02.ks  | :white_large_square:  | :white_large_square: |
+|  b11_03.ks  | :white_large_square:  | :white_large_square: |
+| birthday.ks | :white_large_square:  | :white_large_square: |
+|  c00_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c00_02.ks  | :white_large_square:  | :white_large_square: |
+|  c00_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  c01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c04_02.ks  | :white_large_square:  | :white_large_square: |
+|  c05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c05_02.ks  | :white_large_square:  | :white_large_square: |
+|  c06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c06_02.ks  |  :white_check_mark:   | :white_large_square: |
+|  c07_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c07_02.ks  | :white_large_square:  | :white_large_square: |
+|  c08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c09_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c09_02.ks  | :white_large_square:  | :white_large_square: |
+|  c09_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  c10_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  c10_02.ks  | :white_large_square:  | :white_large_square: |
+|  c10_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  d00_01.ks  | :white_large_square:  | :white_large_square: |
+|  d00_02.ks  | :white_large_square:  | :white_large_square: |
+|  d01_01.ks  | :white_large_square:  | :white_large_square: |
+|  d01_02.ks  | :white_large_square:  | :white_large_square: |
+|  d02_01.ks  | :white_large_square:  | :white_large_square: |
+|  d02_02.ks  |  :white_check_mark:   | :white_large_square: |
+|  d03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d04_02.ks  | :white_large_square:  | :white_large_square: |
+|  d04_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  d05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d07_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d07_02.ks  | :white_large_square:  | :white_large_square: |
+|  d07_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  d08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d08_02.ks  | :white_large_square:  | :white_large_square: |
+|  d09_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d10_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  d10_02.ks  | :white_large_square:  | :white_large_square: |
+|  d10_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e00_01.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e01_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e02_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e02_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e04_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e04_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e05_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e05_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e06_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e06_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e07_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e08_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  e08_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  f01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f02_02.ks  |  :white_check_mark:   | :white_large_square: |
+|  f03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f03_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  f03_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  f04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f04_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  f04_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  f04_04.ks  |  :white_check_mark:   | :white_large_square: |
+|  f05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  title.ks   |  :white_check_mark:   | :white_large_square: |
+|  z01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  z02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  z02_02.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  z02_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  z02_04.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  z02_05.ks  |  :white_check_mark:   | :white_large_square: |
+|  z02_06.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  z03_01.ks  |  :white_check_mark:   | :white_large_square: |
