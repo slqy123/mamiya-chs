@@ -167,6 +167,9 @@ TODO
 就等
 市重心
 姐第
+俩个
+即遍
+彭
 
 # 游戏进度
 
@@ -180,10 +183,10 @@ TODO
 |  03_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  03_02d.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  04_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
-|  04_02a.ks  |  :white_check_mark:   | :white_large_square: |
-|  04_02b.ks  |  :white_check_mark:   | :white_large_square: |
-|  04_02c.ks  |  :white_check_mark:   | :white_large_square: |
-|  04_02d.ks  |  :white_check_mark:   | :white_large_square: |
+|  04_02a.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  04_02b.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  04_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  04_02d.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  05_01.ks   |  :white_check_mark:   | :white_large_square: |
 |  05_02a.ks  |  :white_check_mark:   | :white_large_square: |
 |  05_02b.ks  |  :white_check_mark:   | :white_large_square: |
