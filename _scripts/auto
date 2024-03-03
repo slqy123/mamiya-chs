@@ -7,7 +7,7 @@ if [ "$area" = "" ]
 end
 
 # swaymsg '[ class = "Code" ]' focus
-hyprctl dispatch focuswindow Code
+hyprctl dispatch focuswindow 'Code|code-url-handler'
 sleep 1
 set image (grim -g "$area" -)
 

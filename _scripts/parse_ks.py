@@ -75,6 +75,8 @@ def parse_ks(src: Path) -> list[str | Text]:
                     # comment = res[-2][1:].strip() if res[-2].startswith(";") else ""
                     assert res[-2].startswith('@Sub mess=')
                     comment = res[-2][10:]
+                    if comment[0] == comment[-1] == '"':
+                        comment = comment[1:-1]
                     text = Text(
                         filename,
                         hitret_id,

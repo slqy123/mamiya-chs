@@ -29,7 +29,7 @@ def ks2json(ks_path: Path):
         f.write(json.dumps(output, ensure_ascii=False, indent=4))
 
 
-def combine_json(ks_parse_result: list[Text | str], json_path: Path) -> str:
+def combine_json(ks_parse_result: list[Text | str], json_path: Path, check_id = lambda i: True) -> str:
     if not json_path.exists():
         print(f"File {json_path} does not exist")
         exit(1)
@@ -42,6 +42,8 @@ def combine_json(ks_parse_result: list[Text | str], json_path: Path) -> str:
     assert len(res_text) == len(json_data)
 
     for text, j in zip(res_text, json_data):
+        if not check_id(text.hitret_id):
+            continue
         assert isinstance(text, Text)
         if not j.get("translate"):
             if j.get("translate") is None:

@@ -135,6 +135,8 @@
 
 部室 教室/社团活动室
 
+单个的省略号…
+
 # 称呼
 
 TODO
@@ -187,12 +189,12 @@ TODO
 |  04_02b.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  04_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  04_02d.ks  |  :white_check_mark:   |  :white_check_mark:  |
-|  05_01.ks   |  :white_check_mark:   | :white_large_square: |
-|  05_02a.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_02b.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_02c.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_02d.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_02e.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  05_02a.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  05_02b.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  05_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
+|  05_02d.ks  |  :heavy_check_mark:   |  :white_check_mark:  |
+|  05_02e.ks  | :white_check_mark: ✕2 |  :white_check_mark:  |
 |  05_03.ks   |  :white_check_mark:   | :white_large_square: |
 |  05_04a.ks  |  :white_check_mark:   | :white_large_square: |
 |  05_04b.ks  |  :white_check_mark:   | :white_large_square: |
