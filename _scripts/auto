@@ -24,7 +24,9 @@ while true
       ydotool key 58:1 58:0  # esc(capslock)
       # press ctrl+s
       # ydotool key 29:1 31:1 31:0 29:0 
-      ydotool type '$v'
+      ydotool type '$'
+      sleep 0.2
+      ydotool type 'v'
       sleep 0.2
       if [ (wl-paste -p) != '"' ]
         if [ (wl-paste -p) = '�' ]

@@ -195,12 +195,12 @@ TODO
 |  05_02c.ks  |  :white_check_mark:   |  :white_check_mark:  |
 |  05_02d.ks  |  :heavy_check_mark:   |  :white_check_mark:  |
 |  05_02e.ks  | :white_check_mark: ✕2 |  :white_check_mark:  |
-|  05_03.ks   |  :white_check_mark:   | :white_large_square: |
-|  05_04a.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_04b.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_04c.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_04d.ks  |  :white_check_mark:   | :white_large_square: |
-|  05_04e.ks  |  :white_check_mark:   | :white_large_square: |
+|  05_03.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  05_04a.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  05_04b.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  05_04c.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  05_04d.ks  |  :heavy_check_mark:   | :white_large_square: |
+|  05_04e.ks  | :white_check_mark: ✕2 |  :white_check_mark:  |
 |  06_01.ks   |  :white_check_mark:   | :white_large_square: |
 |  07_01.ks   |  :white_check_mark:   | :white_large_square: |
 |  08_01.ks   |  :white_check_mark:   | :white_large_square: |
