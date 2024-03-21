@@ -663,7 +663,7 @@
 @clearChar id=八雲
 @Talk name=心の声
 @Sub mess="うーん、珠ちゃんはさすがです。"
-唔——，真不亏是珠音酱。
+唔——，真不愧是珠音酱。
 @Hitret id=9223
 @Talk name=心の声
 @Sub mess="感心しつつも、私は良ちゃんと萌ちゃんのことを思います。"

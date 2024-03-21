@@ -137,6 +137,10 @@
 
 单个的省略号…
 
+赌局 → 赌约
+
+小?城市 → 小镇
+
 # 称呼
 
 TODO
@@ -172,6 +176,8 @@ TODO
 俩个
 即遍
 彭
+对放
+边成
 
 # 游戏进度
 
@@ -201,10 +207,10 @@ TODO
 |  05_04c.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  05_04d.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  05_04e.ks  | :white_check_mark: ✕2 |  :white_check_mark:  |
-|  06_01.ks   |  :white_check_mark:   | :white_large_square: |
-|  07_01.ks   |  :white_check_mark:   | :white_large_square: |
-|  08_01.ks   |  :white_check_mark:   | :white_large_square: |
-|  08_02.ks   |  :white_check_mark:   | :white_large_square: |
+|  06_01.ks   |  :white_check_mark: ✕2   | :white_check_mark: |
+|  07_01.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
+|  08_01.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
+|  08_02.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
 |  09_01.ks   |  :white_check_mark:   | :white_large_square: |
 |  a00_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  a00_02.ks  |  :white_check_mark:   | :white_large_square: |

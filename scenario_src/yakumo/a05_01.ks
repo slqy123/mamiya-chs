@@ -620,7 +620,7 @@
 @char file=CA06A001M
 @Talk name=八雲 voice=YKM010810
 @Sub mess="「ふふ、頼りにしてます、店長代理さん」"
-「呵呵，拜托你了哦，店长代理」
+「呵呵，拜托你了哦，代理店长」
 @Hitret id=11726
 @char file=CA06A001L
 @おじぎ id=八雲
