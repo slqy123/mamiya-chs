@@ -75,8 +75,8 @@
 @Sub mess="俺は……"
 我……
 @Hitret id=28840
-@AddSelect text=メガネをかけたまま
-@AddSelect text=メガネは外してもらう
+@AddSelect text=就这么戴者眼镜做
+@AddSelect text=还是把眼镜摘了吧
 @StartSelect
 @if exp="ChkSelect(1)"
 @onFlag id=37
@@ -344,8 +344,8 @@
 @Sub mess="「ちゅぷ、ん、じゅりゅ……だして……らして、らして、␤いっぱい……せいえき、らして……っ」"
 「喂，啾，啾，啾……拿出来……啾，啾，啾，啾，啾……啾，啾……」
 @Hitret id=28897
-@AddSelect text=音琴の口内に出す
-@AddSelect text=音琴の顔にかける
+@AddSelect text=射在音琴的嘴里
+@AddSelect text=射在音琴的脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -557,8 +557,8 @@
 @recollect_end id=120
 *recollect2
 @if exp="IsRecollect(121)"
-@AddSelect text=メガネをかけたまま
-@AddSelect text=メガネは外してもらう
+@AddSelect text=就这么戴着眼镜
+@AddSelect text=还是把眼镜摘了吧
 @StartSelect
 @if exp="ChkSelect(1)"
 @onFlag id=37
@@ -645,8 +645,8 @@
 @Sub mess="「お兄ちゃん……もういっかい、選んで？　メガネ、␤あった方がいい？」"
 「欧尼酱……已经选了吗？戴眼镜比较好吗？」
 @Hitret id=28952
-@AddSelect text=メガネをかけたまま
-@AddSelect text=メガネは外してもらう
+@AddSelect text=就这么戴着眼镜做
+@AddSelect text=还是把眼镜摘了吧
 @StartSelect
 @if exp="ChkSelect(1)"
 @onFlag id=37
@@ -1055,8 +1055,8 @@
 @Sub mess="ペニスに熱が籠もり、竿が膨らんだ感覚がした。"
 肉棒上笼着热度，感觉肉棒鼓了起来。
 @Hitret id=29032
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=音琴の身体にかける
+@AddSelect text=射在音琴的体内
+@AddSelect text=射到音琴的身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

@@ -21,18 +21,19 @@ while true
     if [ "$image" = "$new_image" ]
       sleep 0.3
       ydotool key 15:1 15:0  # tab
-      ydotool key 58:1 58:0  # esc(capslock)
+      ydotool key 1:1 1:0  # esc
+      # ydotool key 58:1 58:0  # esc(capslock)
       # press ctrl+s
       # ydotool key 29:1 31:1 31:0 29:0 
       ydotool type '$'
       sleep 0.2
       ydotool type 'v'
       sleep 0.2
-      if [ (wl-paste -p) != '"' ]
-        if [ (wl-paste -p) = '�' ]
+      if [ "$(wl-paste -p)" != '"' ]
+        if [ "$(wl-paste -p)" = "�" ]
           ydotool type 'vddk'
           break
-        else if [ (wl-paste -p) = ';' ] || [ (wl-paste -p) = ']' ]
+        else if [ "$(wl-paste -p)" = ';' ] || [ (wl-paste -p) = ']' ]
           ydotool type 'x'
           echo Complete
           exit

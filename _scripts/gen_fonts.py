@@ -19,7 +19,10 @@ for origin_name, modifed_name in zip(origin_names, modifed_names):
         win.TComboBox1.select(modifed_name)
         win.TEdit2.set_text(str(size))
         for i in (1, 3, 4):
-            win[f'TCheckBox{i}'].check()
+            if not win[f'TCheckBox{i}'].get_check_state():
+                win[f'TCheckBox{i}'].click()
+            # check does not work in wine.
+            # win[f'TCheckBox{i}'].check()
         win.TEdit1.set_text((Path('fonts') / f'{origin_name}{size}.tft').absolute())
         win.TButton2.click()
         apps.append(app)

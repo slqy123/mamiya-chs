@@ -178,6 +178,10 @@ TODO
 彭
 对放
 边成
+医疗
+实破
+行迹可疑
+音亲(琴)
 
 # 游戏进度
 
@@ -207,10 +211,10 @@ TODO
 |  05_04c.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  05_04d.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  05_04e.ks  | :white_check_mark: ✕2 |  :white_check_mark:  |
-|  06_01.ks   |  :white_check_mark: ✕2   | :white_check_mark: |
-|  07_01.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
-|  08_01.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
-|  08_02.ks   |  :white_check_mark: ✕2  | :white_check_mark: |
+|  06_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  07_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  08_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
+|  08_02.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
 |  09_01.ks   |  :white_check_mark:   | :white_large_square: |
 |  a00_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  a00_02.ks  |  :white_check_mark:   | :white_large_square: |
@@ -279,27 +283,27 @@ TODO
 |  c10_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  c10_02.ks  | :white_large_square:  | :white_large_square: |
 |  c10_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  d00_01.ks  | :white_large_square:  | :white_large_square: |
-|  d00_02.ks  | :white_large_square:  | :white_large_square: |
-|  d01_01.ks  | :white_large_square:  | :white_large_square: |
-|  d01_02.ks  | :white_large_square:  | :white_large_square: |
-|  d02_01.ks  | :white_large_square:  | :white_large_square: |
-|  d02_02.ks  |  :white_check_mark:   | :white_large_square: |
-|  d03_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d04_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d04_02.ks  | :white_large_square:  | :white_large_square: |
-|  d04_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  d05_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d06_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d07_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d07_02.ks  | :white_large_square:  | :white_large_square: |
-|  d07_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  d08_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d08_02.ks  | :white_large_square:  | :white_large_square: |
-|  d09_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d10_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  d10_02.ks  | :white_large_square:  | :white_large_square: |
-|  d10_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  d00_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d00_02.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d01_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  d02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d02_02.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d03_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d04_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d04_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  d04_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d05_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d06_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d07_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d07_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  d07_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d08_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d08_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  d09_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d10_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  d10_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  d10_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e00_01.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  e01_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  e01_02.ks  |  :heavy_check_mark:   | :white_large_square: |

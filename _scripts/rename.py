@@ -1,12 +1,19 @@
 from os import name
 import re
 rename_rule = {
-    "八雲": "八云"
+    "八雲": "八云",
+    "占い部部長": "占卜部部长",
+    "占い部副部長": '占卜部副部长',
+    "占い部部員": '占卜部部员',
+    "六兵衛": "六兵卫",
+    "莉里香のお父さん": "莉里香的父亲",
+    "莉里香のお母さん": "莉莉香的母亲"
 }
 pan_rename_rule = {
     '？？？': '？？？',
     '困っている女の子': "一脸困扰的女子",
     '困っているお嬢さま（？）': "一脸困扰的大小姐（？）",
+    '女性記者': '女记者',
 }
 
 def rename(line: str):
@@ -16,11 +23,14 @@ def rename(line: str):
         assert False, f"Can't find name field in {line}"
     elm = name_filed.group(1)
     match elm.split('/'):
-        case [name, *pan]:
-            if pan and (n:=pan_rename_rule.get(pan[0])):
+        case [name]:
+            names = (name, rename_rule.get(name, name))
+
+        case [name, pan]:
+            if n:=pan_rename_rule.get(pan):
                 names = (name, n)
             else:
-                names = (name, rename_rule.get(name, name))
+                names = (name, pan)
         case _:
             assert False, f"Unknown name format {elm}"
     

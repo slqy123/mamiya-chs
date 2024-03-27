@@ -322,8 +322,8 @@
 @Sub mess="俺は音琴の軽い身体をぐいぐい突き上げた。"
 我用力推起了音琴轻盈的身体。
 @Hitret id=29663
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在音琴体内
+@AddSelect text=射到外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -931,8 +931,8 @@
 @Sub mess="指先で乳首をもてあそばれ、膣肉でペニスを揉まれて、␤俺の快感も爆発寸前だった。"
 用指尖玩弄乳头，用膣肉揉肉棒，我的快感也快要爆发了。
 @Hitret id=29795
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在音琴体内
+@AddSelect text=射在外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

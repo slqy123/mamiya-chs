@@ -2155,8 +2155,8 @@
 @char file=CD05B004M
 @Talk name=音琴 voice=NKT050016
 @Sub mess="「とってもセクシー……お兄ちゃんも、とっても␤セクシー、だね」"
-「非常的ＳＥＸＹ……欧尼酱也是，
-非常的ＳＥＸＹ哦」
+「非常的SEXY……欧尼酱也是，
+非常的SEXY哦」
 @Hitret id=32216
 @Talk name=良太
 @Sub mess="「俺のはセクシーとは言わないと思うぞ」"

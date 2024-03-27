@@ -470,8 +470,8 @@
 @Sub mess="ゾクッと音琴の背筋が震え始めた。"
 琴声的脊梁开始颤抖。
 @Hitret id=30632
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在音琴体内
+@AddSelect text=射在外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -968,8 +968,8 @@
 @Sub mess="ペニスを奥へ奥へ引っ張りこもうと動いて、絡み付く。"
 想把肉棒拉到里面，缠在一起。
 @Hitret id=30736
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=音琴の身体にかける
+@AddSelect text=射在音琴体内
+@AddSelect text=射到音琴身上
 @StartSelect finish_type2 terminate
 @if exp="ChkSelect(1)"
 @counter show count=0

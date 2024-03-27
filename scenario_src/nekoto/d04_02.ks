@@ -408,8 +408,8 @@
 @Sub mess="あまりの快感で暴発しそうになる性欲を堪えながら、␤俺も音琴の秘所に吸い付く。"
 我一边忍受着因为太过快感而快要暴发的性欲，一边吸着音琴的秘密。
 @Hitret id=27429
-@AddSelect text=音琴の口内に出す
-@AddSelect text=音琴の顔にかける
+@AddSelect text=射在音琴嘴里
+@AddSelect text=射到音琴脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -921,8 +921,8 @@
 @Sub mess="俺は…………"
 我…………
 @Hitret id=27539
-@AddSelect text=音琴のアナルに挿入する
-@AddSelect text=音琴のアナルに挿入しない
+@AddSelect text=插入音琴的后庭
+@AddSelect text=不插入音琴的后庭
 @StartSelect
 @if exp="ChkSelect(1)"
 @cg file=ED12fL pos=-320,180,0
