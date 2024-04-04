@@ -396,8 +396,8 @@
 @Sub mess="萌莉が激しく吸引してくる感覚に、激しく腰が震えるのを␤感じた。"
 萌莉激烈地吸引过来的感觉，让我感觉到腰剧烈地颤抖。
 @Hitret id=18371
-@AddSelect text=萌莉の口内に出す
-@AddSelect text=萌莉の顔にかける
+@AddSelect text=嘴在萌莉嘴里
+@AddSelect text=射到萌莉脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1150,8 +1150,8 @@
 @Sub mess="膣内の震えと一緒に、ペニスの興奮も昂ぶってきた。"
 随着阴道内的颤抖，肉棒的兴奋也随之高涨起来。
 @Hitret id=18537
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=萌莉の身体にかける
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到萌莉身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

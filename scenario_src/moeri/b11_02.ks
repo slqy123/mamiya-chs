@@ -622,8 +622,8 @@
 @Sub mess="対抗して萌莉の乳首を強めに摘むと、秘所がぎゅっと␤引き締まった。"
 对抗后用力掐了一下萌莉的乳头，秘处紧紧地绷紧了。
 @Hitret id=18919
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在萌莉体内
+@AddSelect text=射在外面
 @StartSelect finish_type2 terminate
 @if exp="ChkSelect(1)"
 @counter show count=0

@@ -38,8 +38,11 @@ while true
           echo Complete
           exit
         else
-          ydotool type 'F:ls '
-          continue
+          ydotool type 'va",'
+          ydotool key 1:1 1:0  # esc
+          break
+          # ydotool type 'F:ls '
+          # continue
         end
       end
         ydotool type 'v'

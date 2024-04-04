@@ -10,6 +10,9 @@
 - 2024-02-24：修改 ks 文件，使用@Sub 解析日语原文
 - 2024-02-24：添加双语显示的开关和快捷键(S)
 - 2024-02-27：替换漏掉的引号使用，将半角引号替换为全角
+- 2024-03-21：完成共通线的重翻与较对
+- 2024-03-26：完成音琴线较对
+- 2024-04-05：完成萌莉线较对
 
 # TODO
 
@@ -182,6 +185,8 @@ TODO
 实破
 行迹可疑
 音亲(琴)
+只前
+变话
 
 # 游戏进度
 
@@ -237,30 +242,30 @@ TODO
 |  a09_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  a09_02.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  a09_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  b00_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b00_02.ks  | :white_large_square:  | :white_large_square: |
-|  b01_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b01_02.ks  | :white_large_square:  | :white_large_square: |
-|  b01_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  b02_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b03_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b04_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b04_02.ks  | :white_large_square:  | :white_large_square: |
-|  b05_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b06_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b06_02.ks  | :white_large_square:  | :white_large_square: |
-|  b06_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  b07_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b07_02.ks  | :white_large_square:  | :white_large_square: |
-|  b07_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  b08_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b09_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b10_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  b10_02.ks  | :white_large_square:  | :white_large_square: |
-|  b10_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  b11_01.ks  | :white_large_square:  | :white_large_square: |
-|  b11_02.ks  | :white_large_square:  | :white_large_square: |
-|  b11_03.ks  | :white_large_square:  | :white_large_square: |
+|  b00_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b00_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b01_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b01_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b03_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b04_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b04_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b05_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b06_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b06_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b06_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b07_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b07_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b07_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b08_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b09_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b10_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b10_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b10_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  b11_01.ks  | :white_check_mark:  | :white_check_mark: |
+|  b11_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  b11_03.ks  | :white_check_mark:  | :white_check_mark: |
 | birthday.ks | :white_large_square:  | :white_large_square: |
 |  c00_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  c00_02.ks  | :white_large_square:  | :white_large_square: |

@@ -374,8 +374,8 @@
 @Sub mess="「うあ……っ！」"
 「啊……！」
 @Hitret id=14447
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

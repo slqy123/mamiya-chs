@@ -1254,8 +1254,8 @@
 @Sub mess="限界を感じて、俺は腰遣いをもっと早めた。"
 感觉到了极限，我坐得更快了。
 @Hitret id=14059
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=萌莉の身体にかける
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到萌莉身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

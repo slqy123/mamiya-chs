@@ -617,8 +617,8 @@
 @Sub mess="膣肉の熱い感触に、欲望は決壊寸前になっていた。"
 膣肉的热的触感，欲望快要决口了。
 @Hitret id=15456
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=萌莉の身体にかける
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到萌莉身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

@@ -471,8 +471,8 @@
 @Sub mess="根元から持って行かれるような吸引に、射精欲が␤駆り立てられた。"
 从根部被带走的吸引，激发了射精欲。
 @Hitret id=15952
-@AddSelect text=萌莉の口内に出す
-@AddSelect text=萌莉の顔にかける
+@AddSelect text=射在萌莉嘴里
+@AddSelect text=射到萌莉脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1124,8 +1124,8 @@
 @Sub mess="淫らがましい匂いに包まれながら、俺は射精欲の爆発を␤意識した。"
 被淫荡的气味包围着，我意识到射精欲的爆发。
 @Hitret id=16092
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=萌莉の身体にかける
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到萌莉身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

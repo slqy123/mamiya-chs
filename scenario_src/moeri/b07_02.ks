@@ -840,8 +840,8 @@
 @Sub mess="お互いの限界が近いのは、もう明らかだった。"
 彼此的界限很近，已经很明显了。
 @Hitret id=16752
-@AddSelect text=萌莉の膣内に出す
-@AddSelect text=萌莉の身体にかける
+@AddSelect text=射在萌莉体内
+@AddSelect text=射到萌莉身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
