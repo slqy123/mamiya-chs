@@ -718,8 +718,8 @@
 @Sub mess="痺れるような快感が、腰奥からだんだんと昇ってきていた。"
 麻木的快感，从腰里面渐渐升起。
 @Hitret id=21624
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=外に出す
+@AddSelect text=射在珠音体内
+@AddSelect text=射在外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

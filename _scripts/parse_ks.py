@@ -73,7 +73,7 @@ def parse_ks(src: Path) -> list[str | Text]:
                     content_NL = text_NL(content_buffer)
                     content_strip = text_strip(content_buffer)
                     # comment = res[-2][1:].strip() if res[-2].startswith(";") else ""
-                    assert res[-2].startswith('@Sub mess=')
+                    assert res[-2].startswith('@Sub mess='), res[-2]
                     comment = res[-2][10:]
                     if comment[0] == comment[-1] == '"':
                         comment = comment[1:-1]

@@ -343,8 +343,8 @@
 @Sub mess="俺の限界も、もうすぐそこだった。"
 我的极限也快到了。
 @Hitret id=24752
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @stopEnvSe fade=1000
@@ -939,8 +939,8 @@
 @Sub mess="「ああ、もうイきそうだ……っ」"
 「啊，已经快来了……」
 @Hitret id=24883
-@AddSelect text=珠音の口内に出す
-@AddSelect text=珠音の顔にかける
+@AddSelect text=射在珠音嘴里
+@AddSelect text=射到珠音脸上
 @StartSelect finish_type1 terminate
 @if exp="ChkSelect(1)"
 @counter show count=0

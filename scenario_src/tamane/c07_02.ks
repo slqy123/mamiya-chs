@@ -460,8 +460,8 @@
 @Sub mess="「珠音……っ！」"
 「珠音……！」
 @Hitret id=23480
-@AddSelect text=珠音の口内に出す
-@AddSelect text=珠音の顔にかける
+@AddSelect text=射在珠音嘴里
+@AddSelect text=射到珠音脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1068,8 +1068,8 @@
 @Sub mess="膣襞の蠕動が激しくなって、珠音の快感の極限を␤感じた。"
 阴道褶蠕动加剧，感受到珠音快感的极限。
 @Hitret id=23612
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @cg file=EC14f

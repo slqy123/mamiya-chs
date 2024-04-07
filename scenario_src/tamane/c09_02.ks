@@ -1117,8 +1117,8 @@
 @Sub mess="「あぅぅぅうううっ！　も……らめ、らめぇ……がまん、␤できないよぉっ……イきたい、イきたいよぉっ……！」"
 「啊，嗯！也……啊，啊……忍耐，做不到啊……想做，想做啊……！」
 @Hitret id=24453
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

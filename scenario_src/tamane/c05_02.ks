@@ -464,8 +464,8 @@
 @Sub mess="部屋中に響く淫靡な音を聞きながら、ラストスパートに␤強く抽送をした。"
 一边听着房间里回响的淫靡的声音，一边用力地抽了最后的冲刺。
 @Hitret id=22164
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1193,8 +1193,8 @@
 @Sub mess="堪えることはもうできそうにない。"
 已经无法忍受了。
 @Hitret id=22323
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

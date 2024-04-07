@@ -600,8 +600,8 @@
 @Sub mess="珠音からの行為も一際激しくなり、自分も限界が␤すぐそこまで来ていることを感じる。"
 来自珠音的行为也变得更加激烈，自己也感到界限马上就到了那里。
 @Hitret id=19679
-@AddSelect text=珠音の口内に出す
-@AddSelect text=珠音の顔にかける
+@AddSelect text=射在珠音嘴里
+@AddSelect text=射到珠音脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1231,8 +1231,8 @@
 @Sub mess="珠音の膣内が再び激しい収縮を始める。"
 珠音阴道内再次开始剧烈收缩。
 @Hitret id=19816
-@AddSelect text=珠音の膣内に出す
-@AddSelect text=珠音の身体にかける
+@AddSelect text=射在珠音体内
+@AddSelect text=射到珠音身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
