@@ -187,6 +187,8 @@ TODO
 音亲(琴)
 只前
 变话
+股股
+股起
 
 # 游戏进度
 
@@ -267,27 +269,27 @@ TODO
 |  b11_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  b11_03.ks  | :white_check_mark:  | :white_check_mark: |
 | birthday.ks | :white_large_square:  | :white_large_square: |
-|  c00_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c00_02.ks  | :white_large_square:  | :white_large_square: |
-|  c00_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  c01_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c02_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c03_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c04_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c04_02.ks  | :white_large_square:  | :white_large_square: |
-|  c05_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c05_02.ks  | :white_large_square:  | :white_large_square: |
-|  c06_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c06_02.ks  |  :white_check_mark:   | :white_large_square: |
-|  c07_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c07_02.ks  | :white_large_square:  | :white_large_square: |
-|  c08_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c09_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c09_02.ks  | :white_large_square:  | :white_large_square: |
-|  c09_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  c10_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  c10_02.ks  | :white_large_square:  | :white_large_square: |
-|  c10_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  c00_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c00_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  c00_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c03_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c04_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c04_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  c05_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c05_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  c06_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c06_02.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c07_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c07_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  c08_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c09_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c09_02.ks  | :heavy_check_mark:  | :white_check_mark: |
+|  c09_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c10_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  c10_02.ks  | :white_large_square:  | :white_check_mark: |
+|  c10_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  d00_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  d00_02.ks  |  :white_check_mark:   | :white_check_mark: |
 |  d01_01.ks  |  :white_check_mark:   | :white_check_mark: |

@@ -848,7 +848,7 @@
 @Hitret id=4196
 @Talk name=心の声
 @Sub mess="萌莉は照れ隠しのような怒り顔だった。"
-萌莉一副气股股的样子，像是在掩饰自己的羞涩一样。
+萌莉一副气鼓鼓的样子，像是在掩饰自己的羞涩一样。
 @Hitret id=4197
 @cg file=EB05h
 @Talk name=八雲 voice=YKM000313
