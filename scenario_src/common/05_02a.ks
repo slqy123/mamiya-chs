@@ -731,7 +731,7 @@
 @Hitret id=4906
 @Talk name=良太
 @Sub mess="「や、八雲姉、なんで今撮るんだ！？」"
-「八，八雲姐姐，为什么现在还要要拍啊！？」
+「八，八雲姐姐，为什么现在还要拍啊！？」
 @Hitret id=4907
 @cg file=EA06kL pos=-320,-180,0
 @Talk name=八雲 voice=YKM000381

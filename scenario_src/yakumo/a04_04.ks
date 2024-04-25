@@ -556,7 +556,7 @@
 @Sub mess="ラジオ体操で体力を使ったはずなのに元気ということは、␤規則正しい生活が一番身体に良いってことなんだろうな。"
 明明在广播体操中消耗了那么多体力，
 但还是这么精神饱满，
-这就是规律的生活对身体的好处所在吧。
+这就是规律的生活对身体的好处吧。
 @Hitret id=11178
 @Talk name=心の声
 @Sub mess="八雲姉と一緒なら、毎朝通ってもいいくらいかもしれない。"
@@ -574,7 +574,7 @@
 @Hitret id=11181
 @Talk name=良太
 @Sub mess="「ラジオ体操だよ。砂浜で学園生が手伝ってたんだ」"
-「广播体操哦。我们学校的有些学生在沙滩上帮忙」
+「广播体操哦。和我们学校的学生在沙滩上帮忙」
 @Hitret id=11182
 @char file=CB06A012M
 @Talk name=萌莉 voice=MER010064
@@ -619,7 +619,7 @@
 @Talk name=萌莉 voice=MER010066
 @Sub mess="「それくらいちゃんと察しないと駄目よ。その……か、␤彼氏でしょ」"
 「要是连这点事情都不能察觉到可不行哦。
-那个……男，男朋友不是吗」
+那个……你可是男，男朋友啊」
 @Hitret id=11190
 @leave id=萌莉
 @Talk name=心の声
@@ -633,7 +633,7 @@
 @Hitret id=11192
 @Talk name=心の声
 @Sub mess="確信できないところが、八雲姉を怒らせてしまうん␤だろうか。"
-虽然不是很确定，但是被八雲姐姐生气了啊。
+虽然不是很确定，但总之是被八雲姐姐生气了啊。
 @Hitret id=11193
 @enter file=CA06A009M
 @Talk name=八雲 voice=YKM010684
@@ -891,7 +891,7 @@
 @clearChar id=-1
 @Talk name=心の声
 @Sub mess="そのままパソコンを起動して、映画を観はじめて……"
-就这样我们启动了电脑，一起看起了电影……
+就这样我们启动了电脑，一同看起了电影……
 @Hitret id=11245
 @stopBgm fade=3000
 @フェード出しＰ bg=BG26c01 pos=0,0,-128
@@ -1609,6 +1609,7 @@
 @Talk name=八雲 voice=YKM010717
 @Sub mess="「まさか、浮気ですか！？　間宮家姉妹補完計画……！？」"
 「难不成，是出轨吗！？　……间宫家姐妹补完计划！？」
+{COMMENT: EVA neta}
 @Hitret id=11383
 @Talk name=良太
 @Sub mess="「俺が恋人として好きなのは八雲姉だけだよ」"
@@ -2288,8 +2289,8 @@
 @Talk name=八雲 voice=YKM010766
 @Sub mess="「大丈夫ですよ、蝶のように舞って蜂のように␤刺すんですっ！」"
 「别担心哦，像蝴蝶一样轻盈，如蜜蜂一般出击！」
-（出自拳王阿里（Muhammad Ali）的一段自我描述：
-Float like a butterfly, sting like a bee）
+{COMMENT 出自拳王阿里（Muhammad Ali）的一段自我描述：
+Float like a butterfly, sting like a bee}
 @Hitret id=11515
 @font size=21
 @Talk name=良太

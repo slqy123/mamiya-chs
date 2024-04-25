@@ -352,8 +352,8 @@
 我一边兴奋着放荡的声音，一边加快活塞运动。
 @Hitret id=10573
 @cg file=EA13e
-@AddSelect text=八雲姉の膣内に出す
-@AddSelect text=八雲姉の身体にかける
+@AddSelect text=射在八雲姐姐体内
+@AddSelect text=射到八雲姐姐身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

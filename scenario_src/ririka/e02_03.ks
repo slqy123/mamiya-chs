@@ -728,7 +728,7 @@
 @Hitret id=32906
 @Talk name=良太
 @Sub mess="「注文を取るのは、メニューを覚えてないとできない␤ことなんだ」"
-「毕竟想要点单，就需要要先把菜单记住嘛」
+「毕竟想要点单，就需要先把菜单记住嘛」
 @Hitret id=32907
 @char file=CE05B008M
 @Talk name=莉里香 voice=RRK050539

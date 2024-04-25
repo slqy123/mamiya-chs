@@ -385,8 +385,8 @@
 @Sub mess="「くはぁ、ぁっ、んぅぅうう、わたし、もう限界ですっ、␤あぁぁぁ、もうイくの、我慢できないっ……！」"
 「哇，哇，哇，哇，我已经到极限了，啊啊，已经受不了了……！」
 @Hitret id=9052
-@AddSelect text=八雲姉の膣内に出す
-@AddSelect text=八雲姉の身体にかける
+@AddSelect text=射在八云姐姐体内
+@AddSelect text=射到八云姐姐身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

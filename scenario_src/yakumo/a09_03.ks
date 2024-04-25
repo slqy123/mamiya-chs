@@ -128,7 +128,7 @@
 @char file=CD05B015M
 @Talk name=音琴 voice=NKT010108
 @Sub mess="「んぅ……だって、本当のこと、だよ」"
-「嗯……毕竟，这是实话，哦」
+「嗯……可是，这是实话，哦」
 @Hitret id=13470
 @Talk name=心の声
 @Sub mess="家族にはお見通しだったのを忘れてた。"
@@ -295,7 +295,7 @@
 @Talk name=音琴 voice=NKT010109
 @Sub mess="「んぅ……愛ゆえの過ちもある、かな」"
 「嗯……这就是，因为爱情而犯下的错，吧」
-（高达梗，原文为：“因为年轻而犯下的错”）
+{COMMENT 高达梗，原文为：“因为年轻而犯下的错”}
 @Hitret id=13500
 @char file=CE05A011M
 @おじぎ id=莉里香
@@ -528,8 +528,8 @@
 @char file=CG05B006M
 @Talk name=小次郎 voice=KJR010046
 @Sub mess="「それが驚きなんだけどな、例の借金の話や、良太を婿に␤取るっていう話は――」"
-「这还真是吃惊啊，原来那个借款的话，
-还有要让良太成为女婿的话——」  ; TODO 什么话？
+「这还真是吃惊啊，原来那个借款的事，
+还有要让良太成为女婿的事——」
 @HitWait id=13544
 @clearChar id=-1
 @char file=CH05B008M
@@ -624,8 +624,7 @@
 @おじぎ id=京花
 @Talk name=京花 voice=KYK010065
 @Sub mess="「さ、早くフロアに戻ってあげて。八雲ちゃんも、␤四条院さんも、きっとお待ちかねよ」"
-「好了，快点去前台吧。
-八雲酱还有四条院同学，
+「好了，快点去前台吧。八雲酱还有四条院同学
 肯定都等得不耐烦了」
 @Hitret id=13560
 @Talk name=良太
@@ -704,7 +703,7 @@
 @char file=CD05B001M
 @Talk name=音琴 voice=NKT010110
 @Sub mess="「……これも愛、かな？」"
-「……这也能叫做爱，吗？」
+「……这也能叫作爱，吗？」
 @Hitret id=13575
 @char file=CE05A010M
 @Talk name=莉里香 voice=RRK010114

@@ -542,7 +542,7 @@
 @Hitret id=636
 @Talk name=良太
 @Sub mess="「それより、すごく良い香りだな。店に出すのか？」"
-「话说这么香的面包，是是要放店里卖的吗？」
+「话说这么香的面包，是要放店里卖的吗？」
 @Hitret id=637
 @cg file=EC01a
 @face file=CC06A001M

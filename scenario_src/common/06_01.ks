@@ -421,7 +421,7 @@
 @Hitret id=6684
 @Talk name=心の声
 @Sub mess="委員会の仕事を終えたのか、萌莉が教室に駆け込んでくる。"
-大概是是委员会的工作结束了吧，萌莉跑进了教室。
+大概是委员会的工作结束了吧，萌莉跑进了教室。
 @Hitret id=6685
 @charRelate flip
 @autoPosition

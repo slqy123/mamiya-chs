@@ -435,8 +435,8 @@
 @Sub mess="「ひぅぁっ、あっあっ、だめ、穴ぺろぺろされるのだけで、␤気持ち良かったのに……そんなにされたらイっちゃうっ」"
 「啊，啊，不行，只是被坑了一下，心情很好……那样的话就好了」
 @Hitret id=9832
-@AddSelect text=八雲姉の口内に出す
-@AddSelect text=八雲姉の顔にかける
+@AddSelect text=射在八云姐姐嘴里
+@AddSelect text=射到八云姐姐脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -909,8 +909,8 @@
 @Sub mess="絶頂の予感を感じながら、狂おしいほどの強さで性器を␤擦り合う。"
 一边感受着绝顶的预感，一边以疯狂的强度互相摩擦生殖器。
 @Hitret id=9939
-@AddSelect text=八雲姉の膣内に出す
-@AddSelect text=八雲姉の身体にかける
+@AddSelect text=射在八云姐姐体内
+@AddSelect text=射到八云姐姐身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

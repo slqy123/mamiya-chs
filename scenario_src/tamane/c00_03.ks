@@ -766,7 +766,7 @@
 @おじぎ id=音琴
 @Talk name=音琴 voice=NKT030016
 @Sub mess="「お兄ちゃんとたまちゃんのため、だから」"
-「这都是是为了欧尼酱和珠音酱应该做的」
+「这都是为了欧尼酱和珠音酱应该做的」
 @Hitret id=20015
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN030173

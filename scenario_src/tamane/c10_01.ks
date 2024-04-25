@@ -48,7 +48,7 @@
 @Hitret id=24608
 @Talk name=心の声
 @Sub mess="なんて健気なんだろう、としみじみ感動してしまう。"
-真是精神可嘉啊，我我真切地感叹道。
+真是精神可嘉啊，我真切地感叹道。
 @Hitret id=24609
 @char file=CC05B013M
 @Talk name=珠音 voice=TMN031293

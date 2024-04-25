@@ -13,6 +13,8 @@
 - 2024-03-21：完成共通线的重翻与较对
 - 2024-03-26：完成音琴线较对
 - 2024-04-05：完成萌莉线较对
+- 2024-04-15：完成珠音线较对
+- 2024-04-25：完成八雲线较对
 
 # TODO
 
@@ -189,6 +191,16 @@ TODO
 变话
 股股
 股起
+要要
+[^卿]我我
+还还
+是是
+会会
+坚辛
+好无
+事请
+称为
+叫作 叫做
 
 # 游戏进度
 
@@ -223,27 +235,27 @@ TODO
 |  08_01.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
 |  08_02.ks   | :white_check_mark: ✕2 |  :white_check_mark:  |
 |  09_01.ks   |  :white_check_mark:   | :white_large_square: |
-|  a00_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a00_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  a00_02.ks  |  :white_check_mark:   | :white_large_square: |
-|  a01_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a02_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a02_02.ks  | :white_large_square:  | :white_large_square: |
-|  a02_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  a03_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a03_02.ks  | :white_large_square:  | :white_large_square: |
-|  a03_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  a04_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a04_02.ks  | :white_large_square:  | :white_large_square: |
-|  a04_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  a04_04.ks  |  :white_check_mark:   | :white_large_square: |
-|  a05_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a06_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a06_02.ks  | :white_large_square:  | :white_large_square: |
-|  a07_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a08_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  a09_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  a01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a02_02.ks  | :heavy_check_mark:  | :white_large_square: |
+|  a02_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a03_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a03_02.ks  | :heavy_check_mark:  | :white_large_square: |
+|  a03_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a04_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a04_02.ks  | :heavy_check_mark:  | :white_large_square: |
+|  a04_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a04_04.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a05_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a06_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a06_02.ks  | :heavy_check_mark:  | :white_large_square: |
+|  a07_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a08_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  a09_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  a09_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  a09_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  a09_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  b00_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  b00_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  b01_01.ks  |  :white_check_mark:   | :white_check_mark: |

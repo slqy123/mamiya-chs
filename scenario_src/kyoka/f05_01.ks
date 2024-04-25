@@ -734,7 +734,7 @@
 @ジャンプ id=八雲
 @Talk name=八雲 voice=YKM060013
 @Sub mess="「きゃあ、良ちゃんパパになるんですかっ！？」"
-「呀，小良要要当爸爸了吗！？」
+「呀，小良要当爸爸了吗！？」
 @Hitret id=38145
 @clearChar id=-1
 @char file=CC06A016M

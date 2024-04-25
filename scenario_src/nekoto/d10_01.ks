@@ -494,7 +494,7 @@
 @Hitret id=30433
 @Talk name=良太
 @Sub mess="「でも俺は、やっぱり音琴もすごいと思うよ」"
-「但我我还觉得音琴也很厉害」
+「但我觉得音琴也很厉害哦」
 @Hitret id=30434
 @char file=CD06A002M
 @Talk name=心の声
