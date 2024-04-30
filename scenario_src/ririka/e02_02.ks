@@ -387,8 +387,8 @@
 @Sub mess="「いいですわ……んん、あなたの精液、受け止めて␤あげます……からぁ……ん、んぅぅっ……」"
 「好啊……嗯，我会接受你的精液……所以……嗯……」
 @Hitret id=32575
-@AddSelect text=莉里香の口内に出す
-@AddSelect text=莉里香の顔にかける
+@AddSelect text=射在莉里香嘴里
+@AddSelect text=射到莉里香脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1000,8 +1000,8 @@
 @Sub mess="「んぅぅっ！　ああぁぁぁっ出してっ、出してくださいっ、␤精液、わたくしに、んんっ、くださいませっ……！」"
 「“嗯！啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊」
 @Hitret id=32709
-@AddSelect text=莉里香の膣内に出す
-@AddSelect text=莉里香の身体にかける
+@AddSelect text=射在莉里香体内
+@AddSelect text=射到莉里香身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

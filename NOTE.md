@@ -10,11 +10,12 @@
 - 2024-02-24：修改 ks 文件，使用@Sub 解析日语原文
 - 2024-02-24：添加双语显示的开关和快捷键(S)
 - 2024-02-27：替换漏掉的引号使用，将半角引号替换为全角
-- 2024-03-21：完成共通线的重翻与较对
-- 2024-03-26：完成音琴线较对
-- 2024-04-05：完成萌莉线较对
-- 2024-04-15：完成珠音线较对
-- 2024-04-25：完成八雲线较对
+- 2024-03-21：完成共通线的重翻与校对
+- 2024-03-26：完成音琴线校对
+- 2024-04-05：完成萌莉线校对
+- 2024-04-15：完成珠音线校对
+- 2024-04-25：完成八雲线校对
+- 2024-04-30：完成莉莉香线校对
 
 # TODO
 
@@ -201,6 +202,11 @@ TODO
 事请
 称为
 叫作 叫做
+换清
+搬回
+设计 涉及
+大话
+西魔
 
 # 游戏进度
 
@@ -324,25 +330,25 @@ TODO
 |  d10_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
 |  d10_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e00_01.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e01_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e01_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e01_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e02_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e02_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e02_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e02_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  e03_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  e04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e02_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e03_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e04_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e04_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e04_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  e05_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e04_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e05_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e05_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e05_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  e06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e05_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e06_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e06_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e06_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  e07_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  e08_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  e06_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e07_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  e08_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e08_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  e08_03.ks  |  :white_check_mark:   | :white_large_square: |
+|  e08_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  f01_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  f02_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  f02_02.ks  |  :white_check_mark:   | :white_large_square: |

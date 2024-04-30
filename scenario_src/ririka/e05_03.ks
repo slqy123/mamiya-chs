@@ -597,7 +597,7 @@
 @playBgm file=BGM15 fade=3000
 @Talk name=良太
 @Sub mess="「俺が行ってきてもいいか？」"
-「我也可以一起去吗？」
+「可以让我也一起去吗？」
 @Hitret id=34813
 @char file=CH03A007M
 @char file=CG03A007M
@@ -793,8 +793,8 @@
 @空スクロール bg=BG26c01
 @Talk name=心の声
 @Sub mess="莉里香のご両親が家に帰って来るタイミングで、俺たちは␤挨拶へ行くことになった。"
-等莉里香的父母到家后，
-我们就动身上门拜访。
+在等莉里香的父母回来的这段时间，
+我们决定要主动上门拜访。
 @Hitret id=34847
 @face file=CE03A008M
 @Talk name=莉里香 voice=RRK050978_E01

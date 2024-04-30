@@ -882,7 +882,6 @@
 @Talk name=音琴 voice=NKT030120
 @Sub mess="「昨日の敵は、今日の友だち……」"
 「此所谓昨日之敌，或为今日之友……」
-; {COMMENT 比喻命运无常，将来难料}
 @Hitret id=22812
 @char file=CE05A008M
 @Talk name=莉里香 voice=RRK030022

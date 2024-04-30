@@ -1175,8 +1175,8 @@
 @Sub mess="「俺は……っ」"
 「我……」
 @Hitret id=34662
-@AddSelect text=莉里香のアナルの中に出す
-@AddSelect text=外に出す
+@AddSelect text=射在莉莉香的屁穴里
+@AddSelect text=射到外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

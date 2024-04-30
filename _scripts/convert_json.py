@@ -137,7 +137,7 @@ def combine_json(ks_parse_result: list[Text | str], json_path: Path, check_id = 
         if not j.get("translate"):
             if j.get("translate") is None:
                 print(f"Warning: translate of {j['text']} is None")
-            j['translate'] = text.content_origin
+            j['translate'] = text.content_origin.strip()
             # assert False, f"translate not found in {json_data}"
 
         if text.comment[0] in ("「", "『") and text.comment[-1] in ("」", "』"):
