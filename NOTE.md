@@ -17,6 +17,7 @@
 - 2024-04-25：完成八雲线校对
 - 2024-04-30：完成莉莉香线校对
 - 2024-04-30：完成京花线校对
+- 2024-05-01：完成后宫线校对
 
 # TODO
 
@@ -366,11 +367,11 @@ TODO
 |  f05_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  f06_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  title.ks   |  :white_check_mark:   | :white_large_square: |
-|  z01_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  z02_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  z02_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  z02_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  z02_04.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  z02_05.ks  |  :white_check_mark:   | :white_large_square: |
+|  z01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  z02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  z02_02.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  z02_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  z02_04.ks  |  :heavy_check_mark:   | :white_check_mark: |
+|  z02_05.ks  |  :white_check_mark:   | :white_check_mark: |
 |  z02_06.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  z03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  z03_01.ks  |  :white_check_mark:   | :white_check_mark: |
