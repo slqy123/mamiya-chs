@@ -16,6 +16,7 @@
 - 2024-04-15：完成珠音线校对
 - 2024-04-25：完成八雲线校对
 - 2024-04-30：完成莉莉香线校对
+- 2024-04-30：完成京花线校对
 
 # TODO
 
@@ -207,6 +208,9 @@ TODO
 设计 涉及
 大话
 西魔
+很真
+防风
+像要
 
 # 游戏进度
 
@@ -349,18 +353,18 @@ TODO
 |  e08_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  e08_02.ks  |  :heavy_check_mark:   | :white_large_square: |
 |  e08_03.ks  |  :white_check_mark:   | :white_check_mark: |
-|  f01_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  f02_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  f02_02.ks  |  :white_check_mark:   | :white_large_square: |
-|  f03_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f01_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f02_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f02_02.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f03_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  f03_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  f03_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  f04_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f03_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f04_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  f04_02.ks  |  :heavy_check_mark:   | :white_large_square: |
-|  f04_03.ks  |  :white_check_mark:   | :white_large_square: |
-|  f04_04.ks  |  :white_check_mark:   | :white_large_square: |
-|  f05_01.ks  |  :white_check_mark:   | :white_large_square: |
-|  f06_01.ks  |  :white_check_mark:   | :white_large_square: |
+|  f04_03.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f04_04.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f05_01.ks  |  :white_check_mark:   | :white_check_mark: |
+|  f06_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  title.ks   |  :white_check_mark:   | :white_large_square: |
 |  z01_01.ks  |  :white_check_mark:   | :white_large_square: |
 |  z02_01.ks  |  :white_check_mark:   | :white_large_square: |

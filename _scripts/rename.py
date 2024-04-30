@@ -1,4 +1,3 @@
-from os import name
 import re
 rename_rule = {
     "八雲": "八云",
