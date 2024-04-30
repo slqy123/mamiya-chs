@@ -1095,7 +1095,7 @@
 @ジャンプ id=八雲
 @Talk name=八雲 voice=YKM010709
 @Sub mess="「わあ、びっくりしましたよ。ねこちゃんはくノ一さん␤みたいですね」"
-「哇啊，吓我一跳。neko酱就像是女忍者一样呢」
+「哇啊，吓我一跳。NEKO酱就像是女忍者一样呢」
 @Hitret id=11281
 @char file=CD03B015M
 @Talk name=音琴 voice=NKT010066
@@ -1741,7 +1741,7 @@
 @char file=CA02A006L
 @Talk name=八雲 voice=YKM010727
 @Sub mess="「それで、ねこちゃんと取り引きしてたんですね？」"
-「所以你刚才才和neko酱做交易呢？」
+「所以你刚才才和NEKO酱做交易呢？」
 @Hitret id=11410
 @Talk name=良太
 @Sub mess="「ああ」"
@@ -1754,7 +1754,7 @@
 @char file=CA02A007L
 @Talk name=八雲 voice=YKM010728
 @Sub mess="「ねこちゃんにもおみやげ買って帰らないとですね」"
-「也得给neko酱买点礼物回来呢」
+「也得给NEKO酱买点礼物回来呢」
 @Hitret id=11413
 @Talk name=良太
 @Sub mess="「持ち帰れるものがあればな」"
@@ -2361,7 +2361,7 @@ Float like a butterfly, sting like a bee}
 @char file=CA03A001L
 @Talk name=八雲 voice=YKM010771
 @Sub mess="「ねこちゃんへのおみやげもちゃんと買えましたね。␤さすが良ちゃんです！」"
-「给neko酱的礼物也好好地买到了呢。不愧是小良！」
+「给NEKO酱的礼物也好好地买到了呢。不愧是小良！」
 @Hitret id=11527
 @Talk name=良太
 @Sub mess="「八雲姉も協力してくれただろ。二人で音琴に渡そう」"

@@ -737,7 +737,7 @@
 @噴飯２ id=珠音
 @Talk name=珠音 voice=TMN030322
 @Sub mess="「はうぅ！？　な、なんのことかな、ねこちゃん！？」"
-「哇呜！？  你在说什么啊，neko酱！？」
+「哇呜！？  你在说什么啊，NEKO酱！？」
 @Hitret id=20543
 @clearChar id=-1
 @char file=CB03A013M

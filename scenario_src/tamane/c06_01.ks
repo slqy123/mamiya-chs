@@ -574,7 +574,7 @@
 @Talk name=珠音 voice=TMN030790
 @Sub mess="「うん、今、前のメニューを作り終えたところだから……␤はい、ねこちゃん、お願い！」"
 「嗯，我现在刚刚把之前订单结束……
-给，neko酱，拜托了！」
+给，NEKO酱，拜托了！」
 @Hitret id=22481
 @char file=CD05B001M
 @Talk name=音琴 voice=NKT030103
@@ -719,7 +719,7 @@
 @char file=CC05B004M
 @Talk name=珠音 voice=TMN030797
 @Sub mess="「あ、ねこちゃん。焼きそば、出来たから運んでもらえる␤かな。良くん、何番テーブルだっけ？」"
-「啊，neko酱。炒面做好了，能帮我端上去吗？
+「啊，NEKO酱。炒面做好了，能帮我端上去吗？
 良君，是几号桌来着？」
 @Hitret id=22506
 @Talk name=良太

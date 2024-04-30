@@ -311,7 +311,7 @@
 @char file=CC02A012M
 @Talk name=珠音 voice=TMN010050
 @Sub mess="「ねこちゃん、それじゃなにか含みがある感じに␤なっちゃうよ」"
-「neko酱，你这话很容易让人误解哦」
+「NEKO酱，你这话很容易让人误解哦」
 @Hitret id=10673
 @Talk name=良太
 @Sub mess="「二人とも、いつの間に。っていうか、そんな意味深な␤ことじゃないから」"

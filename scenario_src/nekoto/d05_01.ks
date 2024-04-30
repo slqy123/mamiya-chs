@@ -699,7 +699,7 @@ JUNGLE……？
 @char file=CC02A007M
 @Talk name=珠音 voice=TMN040056
 @Sub mess="「ふふ、ねこちゃんは最近、良くんとくっつくの␤好きみたいだもんね？」"
-「呵呵，neko酱最近好像很喜欢黏着良君呢？」
+「呵呵，NEKO酱最近好像很喜欢黏着良君呢？」
 @Hitret id=27927
 @stopSe fade=1000
 @clearChar id=音琴
@@ -908,7 +908,7 @@ JUNGLE……？
 @char file=CC02A004M
 @Talk name=珠音 voice=TMN040058
 @Sub mess="「じゃあお昼ごはんどうしよっか？　先に聞いてたから、␤ねこちゃんの分は作っておいたんだけど……」"
-「那午饭怎么办呢？neko酱那边之前听她说过，
+「那午饭怎么办呢？NEKO酱那边之前听她说过，
 所以她的份倒是提前做好了……」
 @Hitret id=27966
 @Talk name=良太
@@ -1130,7 +1130,7 @@ JUNGLE……？
 @Hitret id=28007
 @Talk name=占い部副部長 voice=NPC130004
 @Sub mess="「ねこちゃんに任せておけば安心ですね」"
-「交给neko酱的话那我就放心了」
+「交给NEKO酱的话那我就放心了」
 @Hitret id=28008
 @clearChar id=-1
 @Talk name=良太

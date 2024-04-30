@@ -135,7 +135,7 @@
 @Talk name=珠音 voice=TMN030009
 @Sub mess="「私なんか……八雲ちゃんと萌莉ちゃんみたいに␤スタイルよくないし、ねこちゃんみたいに␤可愛くないし……」"
 「我这样子……既没有八雲和萌莉那样的身材，
-又不像neko酱那样可爱……」
+又不像NEKO酱那样可爱……」
 @Hitret id=19501
 @char file=CC05A015M
 @Talk name=珠音 voice=TMN030010

@@ -115,7 +115,7 @@
 @char file=CC06A006M
 @Talk name=珠音 voice=TMN070033
 @Sub mess="「ふふ、ねこちゃんは猫の鳴き真似好きだよね」"
-「呵呵，neko酱真的很喜欢模仿猫叫呢」
+「呵呵，NEKO酱真的很喜欢模仿猫叫呢」
 @Hitret id=38710
 @char file=CD06A001M
 @Talk name=音琴 voice=NKT070033

@@ -666,7 +666,7 @@
 @噴飯２ id=珠音
 @Talk name=珠音 voice=TMN000031
 @Sub mess="「ひゃわあっ！？　ねこちゃんっ！？」"
-「呀啊！？　neko酱！？」
+「呀啊！？　NEKO酱！？」
 @Hitret id=660
 @autoPosition
 @Talk name=良太
@@ -704,7 +704,7 @@
 @ジャンプ２回 id=珠音
 @Talk name=珠音 voice=TMN000032
 @Sub mess="「二回言わなくてもいいよね、ねこちゃん！？　それに␤変なところで区切ったら別の意味に聞こえちゃうよ！？」"
-「不用特意说两遍吧，neko酱！？
+「不用特意说两遍吧，NEKO酱！？
 而且如果在奇怪的地方停顿的话，
 会被理解成其它的意思哦！？」
 @Hitret id=667
@@ -2404,7 +2404,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN000044
 @Sub mess="「ね、ねこちゃん、そんな言い方したら、四条院さんにも␤お父さんたちにも悪いよ」"
-「ne，neko酱，这种说法，
+「ne，NEKO酱，这种说法，
 对四条院同学和爸爸都不太尊敬哦」
 @Hitret id=973
 @char file=CE02A011M
@@ -2969,7 +2969,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN000049
 @Sub mess="「はぅぅ、ねこちゃん……少女まんがは素敵だけど、␤良くんの人生が賭かってることだからね……？」"
-「哈呜，neko酱……虽然少女漫画的展开确实很棒，
+「哈呜，NEKO酱……虽然少女漫画的展开确实很棒，
 但现在可是赌上了良君的人生哦……？」
 @Hitret id=1070
 @Talk name=心の声
@@ -3189,7 +3189,7 @@
 @char file=CC02A005M
 @Talk name=珠音 voice=TMN000053
 @Sub mess="「ねこちゃん……」"
-「neko酱……」
+「NEKO酱……」
 @Hitret id=1109
 @char file=CA02A009M
 @ジャンプ id=八雲

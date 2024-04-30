@@ -1017,7 +1017,7 @@
 @char file=CA06A002M
 @Talk name=八雲 voice=YKM020084
 @Sub mess="「それじゃ私たちも行きましょう、ねこちゃん」"
-「那我们也一起来吧，neko酱」
+「那我们也一起来吧，NEKO酱」
 @Hitret id=18095
 @char file=CD06A015M
 @Talk name=音琴 voice=NKT020056

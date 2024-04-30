@@ -147,7 +147,7 @@
 @ジャンプ id=八雲
 @Talk name=八雲 voice=YKM000541
 @Sub mess="「わわわ、珠ちゃんにねこちゃんも？　もう␤起きちゃったんですか」"
-「哇，小珠还有neko酱吗？已经起床了吗？」
+「哇，小珠还有NEKO酱吗？已经起床了吗？」
 @Hitret id=19028
 @stopSe fade=1000
 @clearChar id=-1
@@ -729,7 +729,7 @@
 @char file=CC03A001M
 @Talk name=珠音 voice=TMN000500
 @Sub mess="「ねこちゃんがお手伝いしてくれると、すごく助かるから␤大丈夫だよ」"
-「如果neko酱能帮忙的话，就帮大忙了，没关系的」
+「如果NEKO酱能帮忙的话，就帮大忙了，没关系的」
 @Hitret id=19140
 @char file=CD03B004M
 @Talk name=音琴 voice=NKT000532
@@ -1017,7 +1017,7 @@
 @char file=CA03A001M
 @Talk name=八雲 voice=YKM000562
 @Sub mess="「じゃあ、良ちゃんとねこちゃんと私は、お家の␤飾りつけを考えましょうか」"
-「那么，小良、neko酱和我，考虑一下家里的装饰吧」
+「那么，小良、NEKO酱和我，考虑一下家里的装饰吧」
 @Hitret id=19193
 @char file=CD03B006M
 @おじぎ id=音琴
@@ -1646,7 +1646,7 @@
 @face file=CC05A014M
 @Talk name=珠音 voice=TMN000519
 @Sub mess="「ふぇぇっ！？　ねこちゃんまで……ひゃうっ！」"
-「哼！？连neko酱都……哎呀！」
+「哼！？连NEKO酱都……哎呀！」
 @Hitret id=19314
 @face file=CB05A002M
 @Talk name=萌莉 voice=MER000614
@@ -1939,7 +1939,7 @@
 @char file=CC03A001M
 @Talk name=珠音 voice=TMN000526
 @Sub mess="「ねこちゃんも飾り付け頑張ってくれたから……␤それに、良くんたちも料理作ってくれたもんね」"
-「因为neko酱也努力装饰了……而且，良君他们也给我做了料理」
+「因为NEKO酱也努力装饰了……而且，良君他们也给我做了料理」
 @Hitret id=19368
 @Talk name=良太
 @Sub mess="「ほとんど萌莉が考えてくれたんだよ。萌莉、␤料理上手くなったよな」"
@@ -2305,7 +2305,7 @@
 @char file=CC03A012M
 @Talk name=珠音 voice=TMN000533
 @Sub mess="「八雲ちゃん、ねこちゃん？　どうしたの、そんなに␤ニヤニヤして……」"
-「八雲，neko酱？怎么了，这么嬉皮笑脸的……」
+「八雲，NEKO酱？怎么了，这么嬉皮笑脸的……」
 @Hitret id=19438
 @Talk name=良太
 @Sub mess="「そうだな。ちょっと怪しい笑いになってるぞ」"
@@ -2316,7 +2316,7 @@
 @否定 id=八雲
 @Talk name=八雲 voice=YKM000596
 @Sub mess="「いえいえ、ただ身体をしっかり温める方法を思いついた␤だけですよ。ねぇ、ねこちゃん」"
-「不，不，我只是想办法让身体暖和起来。喂，neko酱」
+「不，不，我只是想办法让身体暖和起来。喂，NEKO酱」
 @Hitret id=19440
 @char file=CD03B004M
 @Talk name=音琴 voice=NKT000570

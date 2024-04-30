@@ -308,7 +308,7 @@
 @char file=CC01A007M order=601
 @Talk name=珠音 voice=TMN040037
 @Sub mess="「ねこちゃんの記事、立派に載っててすごいね。␤おめでとう」"
-「neko酱的文章漂亮地刊登了呢，太厉害了。恭喜你」
+「NEKO酱的文章漂亮地刊登了呢，太厉害了。恭喜你」
 @Hitret id=27722
 @char file=CD01A014M order=600
 @Talk name=音琴 voice=NKT040675
@@ -329,7 +329,7 @@
 @Talk name=珠音 voice=TMN040039
 @Sub mess="「姉妹の中で、一番仲良しなんじゃないかな？　良くん、␤ねこちゃんに頼みごとされてる時も一番嬉しそうだもん」"
 「兄弟姐妹中，你们的关系不是最好的吗？
-良君，在被neko酱拜托的时候，看起来非常的开心呢」
+良君，在被NEKO酱拜托的时候，看起来非常的开心呢」
 @Hitret id=27726
 @Talk name=心の声
 @Sub mess="たまちゃんはクスクス笑ってる。"
@@ -357,7 +357,7 @@
 @噴飯２ id=珠音
 @Talk name=珠音 voice=TMN040040
 @Sub mess="「ひゃあっ！？　ね、ねこちゃぁん……っ！」"
-「呀啊！？ne，neko酱……！」
+「呀啊！？ne，NEKO酱……！」
 @Hitret id=27730
 @stopSe fade=1000
 @playSe file=SE060+SE060
@@ -402,7 +402,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN040042
 @Sub mess="「はわわわわ、ねこちゃん、おっぱい触りすぎ、だよぉ……␤恥ずかしい、からぁ……」"
-「哇，neko酱，别再摸我的胸了……好害羞啊……」
+「哇，NEKO酱，别再摸我的胸了……好害羞啊……」
 @Hitret id=27736
 @stopSe fade=1000
 @char file=CD01A015M order=600
@@ -479,7 +479,7 @@
 @char file=CC01A012M
 @Talk name=珠音 voice=TMN040046
 @Sub mess="「ねこちゃん、なんだかにこにこしてないかな？」"
-「neko酱，感觉你好像一脸坏笑的样子啊？」
+「NEKO酱，感觉你好像一脸坏笑的样子啊？」
 @Hitret id=27750
 @char file=CD01A008M
 @否定 id=音琴
@@ -520,7 +520,7 @@
 @char file=CC01A015M
 @Talk name=珠音 voice=TMN040047
 @Sub mess="「やっぱりニヤニヤしてるよ、ねこちゃん。なにか␤隠してるでしょう？」"
-「neko酱，还说你不是在坏笑呢，
+「NEKO酱，还说你不是在坏笑呢，
 肯定有什么事瞒着我吧？」
 @Hitret id=27757
 @Talk name=心の声
@@ -544,7 +544,7 @@
 @char file=CD01A007M
 @Talk name=珠音 voice=TMN040048
 @Sub mess="「ねこちゃん、白状しないと私の方からこしょこしょ␤しちゃうよ」"
-「neko酱，不坦白的话，我就要挠痒痒了哦」
+「NEKO酱，不坦白的话，我就要挠痒痒了哦」
 @Hitret id=27762
 @hide
 @move id=珠音 mx=-350 cycle=250
@@ -574,7 +574,7 @@
 @ううっ id=音琴
 @Talk name=珠音 voice=TMN040049
 @Sub mess="「ふふ、ねこちゃんが無抵抗なの、珍しいね。もっと␤こしょこしょしちゃうよぉ」"
-「呵呵，neko酱没有抵抗力的样子，真少见呢。
+「呵呵，NEKO酱没有抵抗力的样子，真少见呢。
 我要加大力度了哦」
 @Hitret id=27766
 @char file=CD01A008M
@@ -587,7 +587,7 @@
 @char file=CC01A013M
 @Talk name=珠音 voice=TMN040050
 @Sub mess="「そうかな？　ねこちゃんが雑誌に載ったの、␤私も嬉しかったから……かな？」"
-「是吗？neko酱上了杂志，所以我也很开心……也许吧？」
+「是吗？NEKO酱上了杂志，所以我也很开心……也许吧？」
 @Hitret id=27768
 @Talk name=心の声
 @Sub mess="わたしの占いがシーモアの役に立ったのは、初めてだと␤思う。"
@@ -656,7 +656,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN040053
 @Sub mess="「ああっ！　ねこちゃんがさっきからにこにこしてたの、␤良くんと約束してたからなんだ」"
-「啊！neko酱从刚才开始就笑嘻嘻的，
+「啊！NEKO酱从刚才开始就笑嘻嘻的，
 原来是和良君约好了啊」
 @Hitret id=27781
 @Talk name=良太
@@ -704,7 +704,7 @@
 @char file=CC01A014M
 @Talk name=珠音 voice=TMN040054
 @Sub mess="「もう……ねこちゃん、あんないたずらしちゃだめだよ」"
-「真是的……neko酱，可不能这么淘气哦」
+「真是的……NEKO酱，可不能这么淘气哦」
 @Hitret id=27789
 @char file=CD01A015M
 @Talk name=音琴 voice=NKT040688

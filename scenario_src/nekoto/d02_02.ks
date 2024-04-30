@@ -126,7 +126,7 @@
 @否定 id=珠音
 @Talk name=珠音 voice=TMN040012
 @Sub mess="「そんな、ねこちゃんより先に進んでるのなんて␤二、三ページだけだよ」"
-「哪有啊，我也就是比neko酱快个两三页罢了」
+「哪有啊，我也就是比NEKO酱快个两三页罢了」
 @Hitret id=26362
 @clearChar id=音琴
 @Talk name=心の声
@@ -144,7 +144,7 @@
 @char file=CC03A005M
 @Talk name=珠音 voice=TMN040013
 @Sub mess="「ねこちゃん、どうしたの？」"
-「neko酱，怎么了？」
+「NEKO酱，怎么了？」
 @Hitret id=26366
 @char file=CD03B002M
 @Talk name=音琴 voice=NKT040325
@@ -427,7 +427,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN040017
 @Sub mess="「ねこちゃん、良くんのためになにかしたいって␤言ってたよね」"
-「neko酱，你之前说过想为良君做点什么吧」
+「NEKO酱，你之前说过想为良君做点什么吧」
 @Hitret id=26420
 @char file=CD04A008M
 @Talk name=音琴 voice=NKT040341
@@ -446,7 +446,7 @@
 @char file=CC04A007M
 @Talk name=珠音 voice=TMN040018
 @Sub mess="「ふふ。私はねこちゃんと一緒にいるだけで楽しいよ？」"
-「呵呵。我的话只要和neko酱在一起就很开心了哦」
+「呵呵。我的话只要和NEKO酱在一起就很开心了哦」
 @Hitret id=26424
 @char file=CD04A004M
 @Talk name=音琴 voice=NKT040342
@@ -505,7 +505,7 @@
 @Talk name=珠音 voice=TMN040021
 @Sub mess="「ほら、この前チラシを配ってたでしょう？　今度は␤ねこちゃんと良くんの二人で配ってみるっていうのは␤どうかな？」"
 「还记得之前一起发传单吗？
-下次让neko酱和良君两个人一起去，不就成了吗？」
+下次让NEKO酱和良君两个人一起去，不就成了吗？」
 @Hitret id=26435
 @char file=CD04A002M
 @Talk name=音琴 voice=NKT040344
@@ -1367,7 +1367,7 @@
 @char file=CD06A006M
 @Talk name=音琴 voice=NKT040400
 @Sub mess="「『ねこちゃん』だから？」"
-「因为我是“neko酱”？」
+「因为我是“NEKO酱”？」
 @Hitret id=26609
 @Talk name=心の声
 @Sub mess="冗談なのか本気なのか分からないけど、音琴が言うと␤信憑性がある。"
@@ -1585,7 +1585,7 @@
 @char file=CD06A015M
 @Talk name=音琴 voice=NKT040414
 @Sub mess="「んぅ……わたしが『ねこちゃん』だから、かな」"
-「嗯……因为我是“neko酱”嘛」
+「嗯……因为我是“NEKO酱”嘛」
 @Hitret id=26652
 @Talk name=心の声
 @Sub mess="どうやらこのフレーズがお気に入りらしい。"
@@ -1878,7 +1878,7 @@
 @Hitret id=26713
 @Talk name=良太
 @Sub mess="「へえ、さすが『ねこちゃん』だな」"
-「欸，真不愧是“neko酱”啊」
+「欸，真不愧是“NEKO酱”啊」
 @Hitret id=26714
 @stopSe fade=1000
 @char file=CD06A004M
@@ -2358,7 +2358,7 @@
 @char file=CC04A006M
 @Talk name=珠音 voice=TMN040023
 @Sub mess="「そろそろ電気消すよ、ねこちゃん」"
-「差不多该关灯了，neko酱」
+「差不多该关灯了，NEKO酱」
 @Hitret id=26813
 @char file=CD04A001M
 @Talk name=音琴 voice=NKT040468
@@ -2408,7 +2408,7 @@
 @Talk name=珠音 voice=TMN040025
 @Sub mess="「ふふ、役に立てて良かったぁ。私の方こそ、␤ねこちゃんが楽しいなら嬉しいよ。ありがとう」"
 「呵呵，能帮上忙就好。其实我也是，
-看到neko酱这么开心我也很开心哦。谢谢」
+看到NEKO酱这么开心我也很开心哦。谢谢」
 @Hitret id=26821
 @hide
 @move id=音琴 mx=150 cycle=250

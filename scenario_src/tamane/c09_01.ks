@@ -594,7 +594,7 @@
 @char file=CC05B008M
 @Talk name=珠音 voice=TMN031119
 @Sub mess="「えへへ、良くんとねこちゃんがいっぱい手伝って␤くれたからできたことだよ」"
-「诶嘿嘿，是因为良君和neko酱也帮了很多忙哦」
+「诶嘿嘿，是因为良君和NEKO酱也帮了很多忙哦」
 @Hitret id=24035
 @Talk name=良太
 @Sub mess="「珠音の姿を見ていて、触発されただけだよ」"
@@ -671,7 +671,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN031122
 @Sub mess="「ふぇぇ、ねこちゃん！？」"
-「呼欸，neko酱！？」
+「呼欸，NEKO酱！？」
 @Hitret id=24050
 @char file=CB05B011M
 @おじぎ id=萌莉

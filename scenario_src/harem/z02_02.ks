@@ -765,7 +765,7 @@
 @Hitret id=38656
 @Talk name=珠音 voice=TMN070029
 @Sub mess="「んっ……ねこちゃんも……ちゅりゅ、れぢゅ……精液、␤いっぱい顔にかかってる……ちゅ、んれぅ……」"
-「嗯……neko酱也……」
+「嗯……NEKO酱也……」
 @Hitret id=38657
 @stopBgv
 @Talk name=心の声

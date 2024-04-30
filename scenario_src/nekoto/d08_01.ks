@@ -27,7 +27,7 @@
 @char file=CD04A006L x=300
 @Talk name=八雲 voice=YKM040042
 @Sub mess="「あっ、今日もねこちゃんに先越されちゃいました。最近␤早起きですねぇ」"
-「啊，今天也被neko酱抢先了啊。最近都起得好早呢」
+「啊，今天也被NEKO酱抢先了啊。最近都起得好早呢」
 @Hitret id=29233
 @char file=CD04A005L
 @おじぎ id=音琴
@@ -50,7 +50,7 @@
 @エモーション・キラキラ id=八雲
 @Talk name=八雲 voice=YKM040043
 @Sub mess="「ふふ、そっかぁ。ねこちゃん……愛ですね！」"
-「呵呵，这样啊。neko酱……这就是爱呢！」
+「呵呵，这样啊。NEKO酱……这就是爱呢！」
 @Hitret id=29237
 @char file=CD04A001L
 @おじぎ id=音琴
@@ -125,7 +125,7 @@
 @enter file=CC03A004M x=-300
 @Talk name=珠音 voice=TMN040107
 @Sub mess="「ねこちゃん、お母さんが新しく仕入れたお茶の淹れ方␤相談したいって……」"
-「neko酱，妈妈想和你商量一下
+「NEKO酱，妈妈想和你商量一下
 新进货的茶叶要怎么泡……」
 @Hitret id=29251
 @Talk name=良太
@@ -215,7 +215,7 @@
 @char file=CC03A001M
 @Talk name=珠音 voice=TMN040109
 @Sub mess="「ほら、ねこちゃんも行こう、着替えないと。␤私、髪の毛とかしてあげるから」"
-「好了，neko酱也一起走吧，
+「好了，NEKO酱也一起走吧，
 还要换衣服呢。我来帮你理一理头发吧」
 @Hitret id=29267
 @char file=CD04A009M
@@ -795,7 +795,7 @@
 @char file=CI03A001M
 @Talk name=六兵衛 voice=RKB040024
 @Sub mess="「そうだよなぁ。ねこちゃんだったら、␤完全に守られる側のタイプだろ」"
-「是啊。neko酱的话，百分百是被守护的那方吧」
+「是啊。NEKO酱的话，百分百是被守护的那方吧」
 @Hitret id=29376
 @char file=CE03A011M
 @Talk name=莉里香 voice=RRK040182
@@ -1170,7 +1170,7 @@
 @Hitret id=29444
 @Talk name=占い部副部長 voice=NPC130007
 @Sub mess="「ねこちゃんの様子がおかしいことは、私たちも␤心配してるんです。早めに解決してあげてくださいね」"
-「neko酱的样子很奇怪，
+「NEKO酱的样子很奇怪，
 我们也很担心她。一定要早日把问题解决啊」
 @Hitret id=29445
 @Talk name=良太

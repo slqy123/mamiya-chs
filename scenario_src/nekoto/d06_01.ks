@@ -131,10 +131,10 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN040063
 @Sub mess="「わあ、ねこちゃんの猫ちゃんだね。それをねこちゃんが␤運んできてくれたら、嬉しいかも」"
-「哇啊，那就是neko酱的neko酱了呢。
-这样一杯咖啡要是让neko酱端上来的话，
+「哇啊，那就是NEKO酱的NEKO酱了呢。
+这样一杯咖啡要是让NEKO酱端上来的话，
 客人肯定会很高兴的」
-{COMMENT 谐音梗，音琴外号neko酱的，此处指猫图案拉花的咖啡}
+{COMMENT 谐音梗，音琴外号NEKO酱的，此处指猫图案拉花的咖啡}
 @Hitret id=28137
 @Talk name=心の声
 @Sub mess="ダジャレみたいなものだけど、雑誌にも載っていた␤ことだし、評判にはなりそうだ。"
@@ -185,7 +185,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN040065
 @Sub mess="「わあ、すごく可愛いよねこちゃん！」"
-「哇，好可爱啊，neko酱！」
+「哇，好可爱啊，NEKO酱！」
 @Hitret id=28146
 @Talk name=良太
 @Sub mess="「可愛いけど、キャラじゃないだろう……」"
@@ -531,7 +531,7 @@
 @char file=CE03A007M
 @Talk name=占い部部員 voice=NPC110010
 @Sub mess="「わあ、さすがねこ先輩！　トランプ専門の私より先に␤間違いに気付けちゃうなんて」"
-「哇，不愧是neko前辈！
+「哇，不愧是NEKO前辈！
 竟然比专精于扑克牌占卜的我还要早发现问题」
 @Hitret id=28211
 @Talk name=良太
@@ -598,7 +598,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN040071
 @Sub mess="「ねこちゃんが起きてるの、珍しいね、占いするの？」"
-「neko酱还没睡呢，真是稀奇，是要占卜吗？」
+「NEKO酱还没睡呢，真是稀奇，是要占卜吗？」
 @Hitret id=28222
 @char file=CD04A005M
 @おじぎ id=音琴
@@ -629,7 +629,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN040073
 @Sub mess="「どう、ねこちゃん？　良い結果、出た？」"
-「怎么样，neko酱？结果，还好吗？」
+「怎么样，NEKO酱？结果，还好吗？」
 @Hitret id=28228
 @Talk name=心の声
 @Sub mess="ソワソワしてる声。たまちゃんも、お兄ちゃんの運勢は␤気になるみたい。"
@@ -696,7 +696,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN040077
 @Sub mess="「でも、ねこちゃんがそんな風にヤキモチ妬くの珍しいね。␤いつもなら、もっと直接からかったりしてたのに」"
-「不过，neko酱吃醋的样子还真是少见啊。
+「不过，NEKO酱吃醋的样子还真是少见啊。
 平时的话，都是一副游刃有余的样子开着玩笑呢」
 @Hitret id=28242
 @char file=CD04A009M
@@ -741,7 +741,7 @@
 @Talk name=珠音 voice=TMN040079
 @Sub mess="「健康？　それも大事だけど、恋愛運の方を␤占いたいんじゃないかな、今のねこちゃんは」"
 「健康？这也是很重要的事呢，现在的情况下，
-neko酱肯定更想占卜恋爱方面的运势不是吗」
+NEKO酱肯定更想占卜恋爱方面的运势不是吗」
 @Hitret id=28250
 @Talk name=心の声
 @Sub mess="たまちゃんがあんまり見たことない顔になってる。"
@@ -757,7 +757,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @Talk name=珠音 voice=TMN040080
 @Sub mess="「はわわわっ……そ、そうかな。ごめんね、ねこちゃんが␤かわいくて、つい……」"
 「哈哇哇哇……是，是吗？
-对不起，neko酱太可爱了，不知不觉就……」
+对不起，NEKO酱太可爱了，不知不觉就……」
 @Hitret id=28253
 @Talk name=心の声
 @Sub mess="いつもなら、わたしがからかう方なのに。"
@@ -927,7 +927,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @char file=CC04A012M
 @Talk name=珠音 voice=TMN040086
 @Sub mess="「大丈夫だよ、ねこちゃん。占いは、当たることもある␤けど、外れることもあるもんね？」"
-「没关系的哦，neko酱。
+「没关系的哦，NEKO酱。
 占卜就是这样，有时很准有时也不准的不是吗？」
 @Hitret id=28285
 @char file=CD04A013M
@@ -947,7 +947,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN040087
 @Sub mess="「そ……そうだねこちゃん、ラテアートのおさらいしよう。␤メモ見ながら、イメージトレーニング。ね？」"
-「对……对了，neko酱，来复习一下拿铁拉花吧。
+「对……对了，NEKO酱，来复习一下拿铁拉花吧。
 一边看笔记，一边在脑海中回忆具体动作」
 @Hitret id=28289
 @char file=CD04A009M
@@ -1207,7 +1207,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @char file=CC06A015M
 @Talk name=珠音 voice=TMN040091
 @Sub mess="「お母さん、あのね、たぶんねこちゃんは……」"
-「妈妈，那个，neko酱可能是……」
+「妈妈，那个，NEKO酱可能是……」
 @Hitret id=28338
 @char file=CD06A015L
 @Talk name=音琴 voice=NKT040766
@@ -1265,7 +1265,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @Talk name=珠音 voice=TMN040092
 @Sub mess="「良くん、お願い。今日は特に暑いから、ねこちゃん␤すごく心配してるんだと思うの」"
 「良君，拜托了。因为今天特别热，
-所以neko酱才这么担心吧」
+所以NEKO酱才这么担心吧」
 @Hitret id=28349
 @clearChar id=音琴
 @Talk name=良太
@@ -1359,7 +1359,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @Talk name=珠音 voice=TMN040094
 @Sub mess="「えへへ……私は良くんもねこちゃんも、二人とも␤大好きだから」"
 「诶嘿嘿……因为我对良君，
-还有neko酱，两个人都最喜欢了」
+还有NEKO酱，两个人都最喜欢了」
 @Hitret id=28365
 @char file=CD06A004M
 @Talk name=音琴 voice=NKT040771
@@ -1376,7 +1376,7 @@ neko酱肯定更想占卜恋爱方面的运势不是吗」
 @action id=珠音 action=ActionAdvWave width=5 height=0 cycle=500 count=1
 @Talk name=珠音 voice=TMN040095
 @Sub mess="「はわわっ、ねこちゃん！？」"
-「啊哇哇，neko酱！？」
+「啊哇哇，NEKO酱！？」
 @Hitret id=28367
 @char file=CH06A010M x=-400
 @否定 id=陽菜

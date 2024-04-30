@@ -444,7 +444,7 @@
 @char file=CC02A006M
 @Talk name=珠音 voice=TMN030605
 @Sub mess="「それじゃ、八雲ちゃんとねこちゃんのかばんを持って、␤廊下で待ってよっか」"
-「既然这样，那就拿着八雲酱和neko酱的包，
+「既然这样，那就拿着八雲酱和NEKO酱的包，
 在走廊等她们吧」
 @Hitret id=21749
 @Talk name=良太
@@ -625,7 +625,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN030607
 @Sub mess="「ひゃあ！？　ね、ねこちゃん……」"
-「呀啊！？  ne，neko酱……」  ; TODO REVISE
+「呀啊！？  ne，NEKO酱……」  ; TODO REVISE
 @Hitret id=21781
 @char file=CD05B007M
 @Talk name=音琴 voice=NKT030083
@@ -640,7 +640,7 @@
 @char file=CC05B002M
 @Talk name=珠音 voice=TMN030608
 @Sub mess="「だ、大丈夫だよっ！　それよりもねこちゃん！␤その水着似合ってるね！」"
-「没，没关系的！  比起这个neko酱，
+「没，没关系的！  比起这个NEKO酱，
 你的泳衣真合身呢！」
 @Hitret id=21784
 @char file=CD05B001M
@@ -669,7 +669,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN030610
 @Sub mess="「も、もうっ！　ねこちゃん！　胸のことは␤言わないでよぅっ！」"
-「真，真是的。  neko酱！  不要说胸部的事啊！」
+「真，真是的。  NEKO酱！  不要说胸部的事啊！」
 @Hitret id=21789
 @char file=CD05B008M
 @Talk name=音琴 voice=NKT030086
@@ -729,7 +729,7 @@
 @char file=CC05B002M
 @Talk name=珠音 voice=TMN030615
 @Sub mess="「ファイトだよっ！　ねこちゃん！」"
-「加油！  neko酱！」
+「加油！  NEKO酱！」
 @Hitret id=21799
 @char file=CD05B011M
 @おじぎ id=音琴
@@ -764,7 +764,7 @@
 @Hitret id=21804
 @Talk name=心の声
 @Sub mess="ねこちゃん、もしかして気付いちゃってる……？"
-neko酱，难道已经发现了……？
+NEKO酱，难道已经发现了……？
 @Hitret id=21805
 @clearChar id=-1
 @char file=CB05B009M
@@ -801,7 +801,7 @@ neko酱，难道已经发现了……？
 @focus id=音琴
 @Talk name=心の声
 @Sub mess="さっきは誤魔化そうとして、ねこちゃんの水着を␤褒めたけど……"
-刚才为了蒙混过关，还夸了下neko酱的泳衣来着…
+刚才为了蒙混过关，还夸了下NEKO酱的泳衣来着…
 @Hitret id=21811
 @Talk name=心の声
 @Sub mess="スレンダーな身体だから、大きめのフリルがついてる␤水着だとますます細く見えて、すごくかわいい。"
@@ -951,7 +951,7 @@ neko酱，难道已经发现了……？
 @face file=CC05B005M
 @Talk name=珠音 voice=TMN030619
 @Sub mess="「ちょっとねこちゃん、ごめんね」"
-「neko酱，对不起，我确认一下」
+「NEKO酱，对不起，我确认一下」
 @Hitret id=21836
 @face file=CD05B007M
 @Talk name=音琴 voice=NKT030092
@@ -962,7 +962,7 @@ neko酱，难道已经发现了……？
 @おっぱい
 @Talk name=心の声
 @Sub mess="軽く断りを入れてから、ねこちゃんのお腹を触ってみる。"
-事先说明后，我摸了摸neko酱的肚子。
+事先说明后，我摸了摸NEKO酱的肚子。
 @Hitret id=21838
 @Talk name=心の声
 @Sub mess="……………………"
@@ -1087,7 +1087,7 @@ neko酱，难道已经发现了……？
 @face file=CC05B003M
 @Talk name=珠音 voice=TMN030621
 @Sub mess="「ダ、ダイジョウブダヨ、ネコチャン……」"
-「莈，莈問趧哋呃，neko醬……」  ; TODO
+「莈，莈問趧哋呃，NEKO醬……」  ; TODO
 @Hitret id=21863
 @face file=CD05B001M
 @Talk name=音琴 voice=NKT030095
@@ -1097,12 +1097,12 @@ neko酱，难道已经发现了……？
 @face file=CC05B003M
 @Talk name=珠音 voice=TMN030622
 @Sub mess="「アリガトウ、ネコチャン……」"
-「塮塮沵，neko醬」  ; TODO
+「塮塮沵，NEKO醬」  ; TODO
 @Hitret id=21865
 @clearChar id=-1
 @Talk name=心の声
 @Sub mess="ねこちゃんの声もほとんど聞こえていなかった。"
-已经完全听不进neko酱的声音了。
+已经完全听不进NEKO酱的声音了。
 @Hitret id=21866
 @Talk name=心の声
 @Sub mess="ただ、一つの考えだけが頭の中を支配していた。"

@@ -264,7 +264,7 @@
 @char file=CI03A006M
 @Talk name=六兵衛 voice=RKB040035
 @Sub mess="「良太とねこちゃんじゃないか。どうしたんだ、␤二人とも普段着で。もしかしてシーモアは休みなのか？」"
-「不是良太和neko酱吗？
+「不是良太和NEKO酱吗？
 怎么，两个人都穿着便服。是因为今天西摩尔休假吗？」
 @Hitret id=29928
 @autoPosition
@@ -894,7 +894,7 @@
 @char file=CA06A006M
 @Talk name=八雲 voice=YKM040050
 @Sub mess="「ちょっと前まで、ねこちゃんは心配でしたけどね」"
-「前不久，neko酱还很担心呢」
+「前不久，NEKO酱还很担心呢」
 @Hitret id=30047
 @Talk name=良太
 @Sub mess="「ああ。でも、もう大丈夫だ。最近の音琴は、大活躍␤だろう？」"
@@ -905,7 +905,7 @@
 @おじぎ id=珠音
 @Talk name=珠音 voice=TMN040117
 @Sub mess="「そうだよね。ねこちゃん、お店の人気者だもんね」"
-「是啊，neko酱，是店里的大红人哦」
+「是啊，NEKO酱，是店里的大红人哦」
 @Hitret id=30049
 @char file=CF06A001M
 @Talk name=京花 voice=KYK040051

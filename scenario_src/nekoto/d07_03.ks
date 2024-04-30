@@ -550,7 +550,7 @@
 @ジャンプ id=八雲
 @Talk name=八雲 voice=YKM040041
 @Sub mess="「おかえりなさい、ねこちゃん。待ってましたよっ」"
-「欢迎回来，neko酱。等你好久了哦」
+「欢迎回来，NEKO酱。等你好久了哦」
 @Hitret id=29190
 @char file=CD03A007M
 @Talk name=音琴 voice=NKT040990

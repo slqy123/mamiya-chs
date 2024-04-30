@@ -417,7 +417,7 @@
 @char file=CC06A004M
 @Talk name=珠音 voice=TMN020020
 @Sub mess="「みんなって……八雲ちゃんもねこちゃんも？」"
-「大家……把八雲和neko酱都叫过来吗？」
+「大家……把八雲和NEKO酱都叫过来吗？」
 @Hitret id=14894
 @Talk name=良太
 @Sub mess="「一体どうして？　夕食だってもう用意してあるのに」"

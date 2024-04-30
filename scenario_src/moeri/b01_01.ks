@@ -674,7 +674,7 @@
 @char file=CC02A006M
 @Talk name=珠音 voice=TMN020014
 @Sub mess="「そっかぁ。じゃあ、二人で帰ろっか、ねこちゃん」"
-「这样啊。那就我们俩一块回去吧，neko酱」
+「这样啊。那就我们俩一块回去吧，NEKO酱」
 @Hitret id=14237
 @clearChar id=八雲
 @char file=CD02A001M

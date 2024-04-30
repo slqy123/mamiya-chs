@@ -167,7 +167,7 @@
 @エモーション・びっくり id=珠音
 @Talk name=珠音/珠音＆良太 voice=TMN031300
 @Sub mess="「ふぁぁ、ねこちゃんっ！？」␤「うわああっ！？」"
-「哇啊啊，neko酱！？」「呜哇啊！？」
+「哇啊啊，NEKO酱！？」「呜哇啊！？」
 @Hitret id=24631
 @playEnvSe file=SE045
 @restartBgm
@@ -193,7 +193,7 @@
 @char file=CC05B008M
 @Talk name=珠音 voice=TMN031301
 @Sub mess="「ねこちゃん、どうしたの？　お掃除は私たちだけで␤やるって話だったはずだけど……」"
-「neko酱，怎么了？
+「NEKO酱，怎么了？
 我应该说了大扫除交给我们两个就行了吧……」
 @Hitret id=24636
 @char file=CD06A006M
@@ -316,7 +316,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN031304
 @Sub mess="「はうう、ねこちゃんっ！　へ、変なこと言っちゃ␤だめだよっ」"
-「哈呜呜，neko酱！　不，不要说那种奇怪的话啊」
+「哈呜呜，NEKO酱！　不，不要说那种奇怪的话啊」
 @Hitret id=24660
 @char file=CD06A004M
 @Talk name=音琴 voice=NKT030174
@@ -338,7 +338,7 @@
 @char file=CC05B008M
 @Talk name=珠音 voice=TMN031305
 @Sub mess="「ねこちゃん……えっと、その……ありがとう」"
-「neko酱……那个……谢谢你」
+「NEKO酱……那个……谢谢你」
 @Hitret id=24664
 @char file=CD06A011M
 @Talk name=音琴 voice=NKT030176

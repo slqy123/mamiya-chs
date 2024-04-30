@@ -319,7 +319,7 @@
 @char file=CA03A002M
 @Talk name=八雲 voice=YKM040015
 @Sub mess="「ねこちゃんの占いで保証済みなら、安心してプッシュ␤できるって思ったんですけど……」"
-「有neko酱的占卜来保证的话，
+「有NEKO酱的占卜来保证的话，
 我想应该就可以安心推行了……」
 @Hitret id=26895
 @char file=CD03B006M
@@ -1190,12 +1190,12 @@ H的样子，想看吗……？」
 @enter file=CC04A004M x=300
 @Talk name=珠音 voice=TMN040031
 @Sub mess="「あ……良くんのところに居たんだね、ねこちゃん」"
-「啊……原来你在良君这里啊，neko酱」
+「啊……原来你在良君这里啊，NEKO酱」
 @Hitret id=27062
 @char file=CA04A006M
 @Talk name=八雲 voice=YKM040016
 @Sub mess="「珠ちゃんが、ねこちゃんが部屋に戻って来ないって␤言ってたから探しにきたんですよ」"
-「珠音酱说neko酱还没回房间，所以我们就来这找你了」
+「珠音酱说NEKO酱还没回房间，所以我们就来这找你了」
 @Hitret id=27063
 @Talk name=良太
 @Sub mess="「ああ、なるほど……」"

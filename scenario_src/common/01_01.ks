@@ -408,7 +408,7 @@
 @face file=CC06A001M
 @Talk name=珠音 voice=TMN000010
 @Sub mess="「うん！　了解だよ、ねこちゃん」"
-「嗯！　我明白了，neko酱」
+「嗯！　我明白了，NEKO酱」
 @Hitret id=79
 @背景スクロール bg=BG02a01 time=20000
 @Talk name=心の声

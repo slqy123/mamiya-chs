@@ -898,7 +898,7 @@
 @ジャンプ id=珠音
 @Talk name=珠音 voice=TMN030494
 @Sub mess="「ひゃあ！　な、なんのことかな、ねこちゃん！？」"
-「呀啊！  你，你在说什么啊，neko酱！？」
+「呀啊！  你，你在说什么啊，NEKO酱！？」
 @Hitret id=21325
 @char file=CA03A014M
 @Talk name=八雲 voice=YKM030054
@@ -1033,7 +1033,7 @@
 @ジャンプ２回 id=珠音
 @Talk name=珠音 voice=TMN030499
 @Sub mess="「もうっ！　ねこちゃんっ！」"
-「真是的！  neko酱！」
+「真是的！  NEKO酱！」
 @Hitret id=21348
 @char file=CD03B015M
 @Talk name=音琴 voice=NKT030076

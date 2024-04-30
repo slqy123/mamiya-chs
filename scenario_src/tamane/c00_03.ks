@@ -574,7 +574,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN030165
 @Sub mess="「ねこちゃんが、提案したいことがあるって言ってるの」"
-「neko酱说她有一个提案」
+「NEKO酱说她有一个提案」
 @Hitret id=19976
 @Talk name=良太
 @Sub mess="「提案？　どんな？」"
@@ -685,7 +685,7 @@
 @ううっ id=珠音
 @Talk name=珠音 voice=TMN030169
 @Sub mess="「え……えっと、ねこちゃんがお料理研究を勧めて␤くれるのは嬉しいけど、具体的になにをすれば␤いいのかな？」"
-「那……那个，neko酱推荐我们研究料理我很高兴，
+「那……那个，NEKO酱推荐我们研究料理我很高兴，
 但具体来说应该做什么呢？」
 @Hitret id=19999
 @Talk name=良太
@@ -771,7 +771,7 @@
 @char file=CC04A001M
 @Talk name=珠音 voice=TMN030173
 @Sub mess="「ねこちゃん……」"
-「neko酱……」
+「NEKO酱……」
 @Hitret id=20016
 @Talk name=良太
 @Sub mess="「いろいろありがとうな、音琴」"
@@ -1028,7 +1028,7 @@
 @face file=CC06A008M
 @Talk name=珠音 voice=TMN030181
 @Sub mess="「うん。ほら……今日、ねこちゃんが提案してくれた␤ピクニックでしょう？」"
-「嗯。就是那个……昨天neko酱不是提议要我们野餐吗？」
+「嗯。就是那个……昨天NEKO酱不是提议要我们野餐吗？」
 @Hitret id=20064
 @Talk name=良太
 @Sub mess="「そうだな。すごく楽しみにしてるよ」"
@@ -2042,7 +2042,7 @@
 @char file=CC05A002M
 @Talk name=珠音 voice=TMN030251
 @Sub mess="「えへへ、いっぱいやる気でてきちゃった。ねこちゃんの␤おかげだね」"
-「诶嘿嘿，浑身都充满了干劲呢。多亏了neko酱」
+「诶嘿嘿，浑身都充满了干劲呢。多亏了NEKO酱」
 @Hitret id=20259
 @Talk name=良太
 @Sub mess="「そうだな。今日のこと、セッティングしてくれたのは␤音琴だもんな」"

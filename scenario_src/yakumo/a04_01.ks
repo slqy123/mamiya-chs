@@ -445,7 +445,7 @@
 @char file=CA03A015M
 @Talk name=八雲 voice=YKM010458
 @Sub mess="「お使いで来るとしても、珠ちゃんやねこちゃんとが␤多いですもんね」"
-「就算是出去跑腿，更多的也是拜托珠音酱和neko酱呢」
+「就算是出去跑腿，更多的也是拜托珠音酱和NEKO酱呢」
 @Hitret id=10195
 @Talk name=良太
 @Sub mess="「そうだけど……」"
@@ -703,7 +703,7 @@
 @font size=39
 @Talk name=八雲 voice=YKM010473
 @Sub mess="「ねこちゃんっ！？」"
-「neko酱！？」
+「NEKO酱！？」
 @Hitret id=10247
 @Talk name=心の声
 @Sub mess="キスの寸前で、飛ぶように離れた。"
@@ -922,7 +922,7 @@
 @char file=CA03A006M
 @Talk name=八雲 voice=YKM010482
 @Sub mess="「ねこちゃん、ドリンク担当ですもんね。ストローにまで␤こだわってるのは初耳です」"
-「neko酱是店里的饮料担当呢。
+「NEKO酱是店里的饮料担当呢。
 就连吸管都有这样的讲究我还是第一次听说呢」
 @Hitret id=10290
 @char file=CD03A014M

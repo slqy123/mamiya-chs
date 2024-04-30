@@ -45,7 +45,7 @@
 @char file=CC02A004M
 @Talk name=珠音 voice=TMN050029
 @Sub mess="「私は商店街でお使いしてから帰るけど、ねこちゃん␤どうする？」"
-「我去商店街给店里买点东西，neko酱你呢？」
+「我去商店街给店里买点东西，NEKO酱你呢？」
 @Hitret id=33183
 @clearChar id=八雲
 @clearChar id=萌莉
@@ -1563,7 +1563,7 @@
 @ジャンプ２回 id=珠音
 @Talk name=珠音 voice=TMN050036
 @Sub mess="「はわわわ、ねこちゃん！？　前からマッサージするのは、␤なんだかちょっと、そのぅ……」"
-「哇哇哇哇，neko酱！？前面的按摩什么的，
+「哇哇哇哇，NEKO酱！？前面的按摩什么的，
 总感觉有点，那个……」
 @Hitret id=33463
 @Talk name=良太
