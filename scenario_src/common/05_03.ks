@@ -615,10 +615,6 @@
 @if exp="ChkFlagOn(26)"
 @Change target=05_04e
 @else
-; @AddSelect text=八雲姉と萌莉の部屋に行ってみる hint=八雲/萌莉
-; @AddSelect text=リビングに行ってみる hint=萌莉/珠音
-; @AddSelect text=珠音と音琴の部屋に行ってみる hint=珠音/音琴
-; @AddSelect text=もう寝ることにする hint=音琴/八雲
 @AddSelect text=去八雲姐姐和萌莉的房间看看 hint=八雲/萌莉
 @AddSelect text=去客厅看看 hint=萌莉/珠音
 @AddSelect text=去珠音和音琴的房间看看 hint=珠音/音琴

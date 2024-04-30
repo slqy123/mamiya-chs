@@ -796,7 +796,7 @@
 @Sub mess="だけど、自覚してるからと言って不安が消えるわけじゃ␤ないんだ。"
 但是，虽说是有了自觉，不安感也不会消失。
 @Hitret id=7070
-; @if exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0”
+; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
 @cg file=BG02a01
 @Talk name=良太
 @Sub mess="「あ……そうだ」"
@@ -924,7 +924,7 @@
 @Sub mess="閉店ぎりぎりまで、しっかり頑張ろうと思えるくらいの␤笑顔だった。"
 让我能够充满干劲地努力到关店。
 @Hitret id=7096
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
 @cg file=BG02a01
 @Talk name=良太
 @Sub mess="「あ……そうだ」"
@@ -1070,7 +1070,7 @@
 @Sub mess="俺は深呼吸をして、ひとまず店のことへと意識を␤向け直した。"
 我做了个深呼吸，暂时先把意识转向店里的事情。
 @Hitret id=7125
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
 @cg file=BG02a01
 @Talk name=良太
 @Sub mess="「あ……そうだ」"
@@ -1193,7 +1193,7 @@
 @Sub mess="珠音はとても可愛らしいはにかみ顔で、俺を送り出して␤くれたのだった。"
 珠音一脸非常可爱又有些腼腆的表情，把我送出了厨房。
 @Hitret id=7149
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
 @cg file=BG02a01
 @Talk name=良太
 @Sub mess="「……どうも気が沈んで駄目だな。なにか気分転換でも␤できればいいんだけど……」"
@@ -2073,25 +2073,25 @@
 @Sub mess="『そうかそうか。それなら良かった』"
 『这样啊，那还不错』
 @Hitret id=7314
-; @if exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0”
+; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
 @face file=CG04A003M
 @Talk name=小次郎 voice=KJR000049
 @Sub mess="『……それにしても、八雲の話がずいぶん多いな』"
 『……不过话说回来，你好像一直在说关于八雲的事啊』
 @Hitret id=7315
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000050
 @Sub mess="『……でも、萌莉の話ばかりしすぎじゃないか？』"
 『……不过话说，你好像光顾着在说萌莉的事不是吗？』
 @Hitret id=7316
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000051
 @Sub mess="『珠音の話ばかりなのが、ちょっと気になるけどな』"
 『感觉你好像一直在说珠音的事啊，稍微有点在意呢』
 @Hitret id=7317
-; @elsif exp=“BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3”
+; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
 @face file=CG04A002M
 @Talk name=小次郎 voice=KJR000052
 @Sub mess="『ずいぶん音琴と仲良くしてたように聞こえるが』"

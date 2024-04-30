@@ -16,7 +16,9 @@ def filt(o: str|Text) -> bool:
         return False
     if o.startswith('*'):
         return True
-    if o.startswith('@Ruby'):
+    if o.startswith('@Ruby') or o.startswith('; @Ruby'):
+        return False
+    if o.startswith('@Sub'):
         return False
     else:
         return True
@@ -43,7 +45,7 @@ for tf in trans.rglob('*.ks'):
                     ['; @if', '; @elsif', '; @else', '; @endif', '; @Change']
                 )
             ):
-                assert l1[2:] == l2
+                assert l1[2:] == l2, (l1, l2)
                 continue
             if l1[2:] != l2:
                 print(f'{tf} and {sf} differ at {l1} and {l2}')
