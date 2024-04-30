@@ -38,6 +38,8 @@ def parse_ks(src: Path) -> list[str | Text]:
         content_buffer = ""
         talker = ""
         while line := f.readline():
+            line = line.split(';', 1)[0] or line
+            line = line if line[-1] == '\n' else line + '\n'
             raw_line = line
             line = line.strip()
             if not line or line.encode("utf-16le")[:2] == b"\xff\xfe":
