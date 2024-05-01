@@ -1733,7 +1733,7 @@
 @なでなで id=音琴
 @Talk name=音琴 voice=NKT000556
 @Sub mess="「はふ……もっとなでなで、ほしい……」"
-「哈哈……希望你能再抚摸我一点…」
+「哈哈……希望你能再抚摸我一点……」
 @Hitret id=19329
 @char file=CA05A006M
 @Talk name=八雲 voice=YKM000582
