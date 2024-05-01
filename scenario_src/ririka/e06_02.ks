@@ -689,7 +689,7 @@
 @Hitret id=35352
 @Talk name=心の声
 @Sub mess="俺は堪らなくなって、莉里香を抱きしめながら␤ベッドに横たわった。"
-我受不了了，抱着莉莉香躺在床上。
+我受不了了，抱着莉里香躺在床上。
 @Hitret id=35353
 @recollect_end id=141
 *recollect2

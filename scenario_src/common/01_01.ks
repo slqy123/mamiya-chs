@@ -1598,7 +1598,7 @@
 @Hitret id=306
 @Talk name=心の声
 @Sub mess="思ったより深刻な事態だった。"
-事请比我想象的要严重。
+事情比我想象的要严重。
 @Hitret id=307
 @Talk name=良太
 @Sub mess="「交番には届けましたか？」"
