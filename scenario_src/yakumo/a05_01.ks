@@ -52,7 +52,7 @@
 @Hitret id=11617
 @Talk name=心の声
 @Sub mess="職員室の前で、京花先生が待っていてくれました。"
-京花老师在职员室前等着我。
+京花老师在办公室前等着我。
 @Hitret id=11618
 @clearChar id=-1
 @Talk name=心の声
