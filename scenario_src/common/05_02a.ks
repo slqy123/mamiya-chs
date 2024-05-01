@@ -132,7 +132,7 @@
 @Hitret id=4775
 @Talk name=心の声
 @Sub mess="囁かれた声が艶っぽく聞こえて、妙に興奮してしまう。"
-低声细语的声音听起来格外性感，让人非常兴奋。
+低声细语的声音听起来格外妩媚，让人非常兴奋。
 @Hitret id=4776
 @char file=CA02A001L
 @Talk name=八雲 voice=YKM000334
