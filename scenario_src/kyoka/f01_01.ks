@@ -5,7 +5,7 @@
 @messageFrame type=京花
 @Talk name=心の声
 @Sub mess="夏休み期間に入ってから、浜之崎は毎日晴天が␤続いている。"
-进入暑假之后，滨之崎每天都是晴天。
+进入暑假之后，浜之崎每天都是晴天。
 @Hitret id=36020
 @stopEnvSe fade=3000
 @場面転換４Ｐ bg=BG10a01

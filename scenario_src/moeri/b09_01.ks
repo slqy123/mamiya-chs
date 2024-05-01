@@ -364,7 +364,7 @@
 @enter file=CE03A002M
 @Talk name=莉里香 voice=RRK020088
 @Sub mess="「浜之崎アメシストホテルには売ってますわ！」"
-「滨之崎紫晶大酒店有卖哦！」
+「浜之崎紫晶大酒店有卖哦！」
 @Hitret id=17600
 @メッセージ揺らし
 @Talk name=良太

@@ -14,7 +14,7 @@
 @Hitret id=32769
 @Talk name=心の声
 @Sub mess="浜之崎に越してきて以来、初めてじゃないかしら。"
-自从搬到滨之崎以来，这还是第一次吧。
+自从搬到浜之崎以来，这还是第一次吧。
 @Hitret id=32770
 @char file=CE04A008M
 @Talk name=莉里香 voice=RRK050508
