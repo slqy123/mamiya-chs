@@ -417,7 +417,7 @@
 @char file=CC06A004M
 @Talk name=珠音 voice=TMN020020
 @Sub mess="「みんなって……八雲ちゃんもねこちゃんも？」"
-「大家……把八雲和NEKO酱都叫过来吗？」
+「大家……把八云和NEKO酱都叫过来吗？」
 @Hitret id=14894
 @Talk name=良太
 @Sub mess="「一体どうして？　夕食だってもう用意してあるのに」"
@@ -472,7 +472,7 @@
 @Hitret id=14904
 @Talk name=心の声
 @Sub mess="八雲姉たちも呼んで、席へ座って待つ。"
-八雲姐姐和音琴她们也被叫了过来，在座位上等着。
+八云姐姐和音琴她们也被叫了过来，在座位上等着。
 @Hitret id=14905
 @Talk name=心の声
 @Sub mess="期待と、若干の不安が入り交じった気分でいると、␤厨房から良い香りが漂ってきた。"
@@ -555,13 +555,13 @@
 @Hitret id=14921
 @Talk name=心の声
 @Sub mess="空腹のせいかふらふらしていて、今にもお皿に␤倒れこみそうだ。"
-可能是已经饿坏了吧，八雲姐姐身体摇摇晃晃的，
+可能是已经饿坏了吧，八云姐姐身体摇摇晃晃的，
 眼看着就要倒进盘子里去了。
 @Hitret id=14922
 @face file=CC06A004M
 @Talk name=珠音 voice=TMN020021
 @Sub mess="「はわわわ、大丈夫八雲ちゃん？」"
-「哈哇哇，没事吧八雲酱？」
+「哈哇哇，没事吧八云酱？」
 @Hitret id=14923
 @face file=CH06A001
 @Talk name=陽菜 voice=HRN020014
@@ -917,7 +917,7 @@
 @Hitret id=14992
 @Talk name=心の声
 @Sub mess="萌莉が赤くなりながら八雲姉を制した。"
-萌莉一脸通红地制住了八雲姐姐。
+萌莉一脸通红地制住了八云姐姐。
 @Hitret id=14993
 @clearChar id=八雲
 @char file=CB06A001M

@@ -59,14 +59,14 @@
 @Hitret id=38700
 @Talk name=心の声
 @Sub mess="いきなり視界が八雲姉でいっぱいになった。"
-八雲姐姐突然便充满了我的视野。
+八云姐姐突然便充满了我的视野。
 @Hitret id=38701
 @stopSe fade=1000
 @char file=CB06A004M order=600
 @ジャンプ id=萌莉
 @Talk name=萌莉 voice=MER070057
 @Sub mess="「こら八雲、そんなに勢いよく抱きついたら制服が␤しわになるわよ」"
-「喂，八雲，抱得那么紧，制服会皱的」
+「喂，八云，抱得那么紧，制服会皱的」
 @Hitret id=38702
 @hide
 @char file=CB06A013M order=600
@@ -79,7 +79,7 @@
 @ううっ id=八雲
 @Talk name=心の声
 @Sub mess="べりべりと八雲姉を萌莉が引きはがした。"
-萌莉一点点把八雲姐姐从我身上扯了下来。
+萌莉一点点把八云姐姐从我身上扯了下来。
 @Hitret id=38703
 @char file=CB06A015M order=600
 @Talk name=萌莉 voice=MER070058
@@ -365,7 +365,7 @@
 @Hitret id=38757
 @Talk name=心の声
 @Sub mess="さっきまで皿磨きをしていた八雲姉が近づいてきた。"
-刚才还在刷盘子的八雲姐姐朝我走来。
+刚才还在刷盘子的八云姐姐朝我走来。
 @Hitret id=38758
 @Talk name=良太
 @Sub mess="「ああ。なんでも言ってくれ」"
@@ -385,7 +385,7 @@
 @clearChar id=-1
 @Talk name=心の声
 @Sub mess="首を傾げつつも、八雲姉の言う通りにした。"
-虽然有些疑惑，但我还是按照八雲姐姐的话做了。
+虽然有些疑惑，但我还是按照八云姐姐的话做了。
 @Hitret id=38762
 @stopBgm fade=3000
 @目閉じ

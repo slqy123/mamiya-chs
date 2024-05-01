@@ -141,7 +141,7 @@
 @Hitret id=21182
 @Talk name=心の声
 @Sub mess="八雲姉が元気な声をあげて、オムライスを口に運んだ。"
-八雲姐姐发出精神饱满的声音，把蛋包饭送入嘴里。
+八云姐姐发出精神饱满的声音，把蛋包饭送入嘴里。
 @Hitret id=21183
 @stopBgm fade=3000
 @Talk name=心の声
@@ -157,7 +157,7 @@
 @face file=CC06A003M
 @Talk name=珠音 voice=TMN030472
 @Sub mess="「ど、どうかな、八雲ちゃん……？」"
-「怎，怎么样，八雲酱……？」
+「怎，怎么样，八云酱……？」
 @Hitret id=21186
 @playBgm file=BGM10
 @face file=CA03A002M
@@ -289,7 +289,7 @@
 @Hitret id=21211
 @Talk name=良太
 @Sub mess="「八雲姉まで！？」"
-「八雲姐姐怎么也！？」
+「八云姐姐怎么也！？」
 @Hitret id=21212
 @face file=CD03B004M
 @Talk name=音琴 voice=NKT030067
@@ -669,7 +669,7 @@
 @Hitret id=21282
 @Talk name=心の声
 @Sub mess="八雲姉も音琴も、頼もしく頷いてくれた。"
-八雲姐姐和音琴都非常信任地向我点了点头。
+八云姐姐和音琴都非常信任地向我点了点头。
 @Hitret id=21283
 @clearChar id=-1
 @char file=CH03A001M
@@ -745,7 +745,7 @@
 @Hitret id=21296
 @Talk name=心の声
 @Sub mess="体力自慢の八雲姉が、身を乗り出して意気込んだ。"
-以体力为特长的八雲姐姐，意气风发地站了起来。
+以体力为特长的八云姐姐，意气风发地站了起来。
 @Hitret id=21297
 @char file=CD03B001M
 @Talk name=音琴 voice=NKT030070
@@ -909,7 +909,7 @@
 @否定 id=珠音
 @Talk name=珠音 voice=TMN030495
 @Sub mess="「な、なんでもないよっ、八雲ちゃん！」"
-「什，什么都没有哦，八雲酱！」
+「什，什么都没有哦，八云酱！」
 @Hitret id=21327
 @Talk name=心の声
 @Sub mess="いつものように姉妹がじゃれあっていて微笑ましいな……"
@@ -959,7 +959,7 @@
 @Hitret id=21334
 @Talk name=心の声
 @Sub mess="店内を見回しながら、八雲姉がはしゃいでいる。"
-八雲姐姐在店内尽情地奔跑着。
+八云姐姐在店内尽情地奔跑着。
 @Hitret id=21335
 @clearChar id=-1
 @Talk name=心の声
@@ -1236,7 +1236,7 @@
 @Hitret id=21383
 @Talk name=心の声
 @Sub mess="八雲姉が音頭を取って決意を表明した。"
-八雲姐姐带头表明了决心。
+八云姐姐带头表明了决心。
 @Hitret id=21384
 @char file=CD03B001M
 @Talk name=音琴 voice=NKT030079

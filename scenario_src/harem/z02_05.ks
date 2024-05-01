@@ -196,7 +196,7 @@
 @action id=萌莉 action=ActionAdvWave width=5 height=0 cycle=500 count=1
 @Talk name=心の声
 @Sub mess="八雲姉と萌莉も、それに続く。"
-八雲姐姐和萌莉也紧随其后。
+八云姐姐和萌莉也紧随其后。
 @Hitret id=39026
 @clearChar id=-1
 @playSe file=SE065

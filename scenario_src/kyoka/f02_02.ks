@@ -1175,7 +1175,7 @@
 @Hitret id=36593
 @Talk name=良太
 @Sub mess="「大丈夫だよ、今日は八雲姉も萌莉も店にいるから」"
-「没关系的哦。今天八雲姐姐和萌莉都在店里」
+「没关系的哦。今天八云姐姐和萌莉都在店里」
 @Hitret id=36594
 @char file=CF03A001M
 @Talk name=京花 voice=KYK060122

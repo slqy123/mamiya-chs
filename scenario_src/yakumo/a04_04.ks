@@ -23,7 +23,7 @@
 @Hitret id=11072
 @Talk name=心の声
 @Sub mess="そろそろ、八雲姉が潜り込んできていても驚かなく␤なっていた。"
-时至今日，我对八雲姐姐的潜入已经不会感到惊讶了。
+时至今日，我对八云姐姐的潜入已经不会感到惊讶了。
 @Hitret id=11073
 @Talk name=心の声
 @Sub mess="これも付き合っているからだろうか。"
@@ -85,7 +85,7 @@
 @Hitret id=11085
 @Talk name=心の声
 @Sub mess="八雲姉は本当に、いろんな部へ行ってるんだな。"
-八雲姐姐还真是去过各种各样的社团啊。
+八云姐姐还真是去过各种各样的社团啊。
 @Hitret id=11086
 @face file=CA04A011M
 @Talk name=八雲 voice=YKM010658
@@ -109,7 +109,7 @@
 @Hitret id=11090
 @Talk name=心の声
 @Sub mess="起き上がると、八雲姉はパジャマの前を整えた。"
-起身后，八雲姐姐整理了一下睡衣。
+起身后，八云姐姐整理了一下睡衣。
 @Hitret id=11091
 @stopSe fade=1000
 @char file=CA04A002M
@@ -151,7 +151,7 @@
 @抱き締め
 @Talk name=心の声
 @Sub mess="八雲姉はそっとしなだれかかって、身体を撫で回してくる。"
-八雲姐姐轻轻地靠在我身上，抚摸着我的身体。
+八云姐姐轻轻地靠在我身上，抚摸着我的身体。
 @Hitret id=11099
 @Talk name=良太
 @Sub mess="「うくっ……」"
@@ -165,11 +165,11 @@
 @Hitret id=11101
 @Talk name=良太
 @Sub mess="「や……八雲姉、ラジオ体操に行くんだろ」"
-「八……八雲姐姐，不是说要去做广播体操的吗」
+「八……八云姐姐，不是说要去做广播体操的吗」
 @Hitret id=11102
 @Talk name=心の声
 @Sub mess="この状況と八雲姉の手つきに、ラジオ体操という健全な␤言葉はアンバランスだ。"
-当下八雲姐姐的手法，和广播体操这个词语显得有些不搭。
+当下八云姐姐的手法，和广播体操这个词语显得有些不搭。
 @Hitret id=11103
 @stopSe fade=1000
 @char file=CA04A012L
@@ -182,7 +182,7 @@
 @char file=CA04A012M
 @Talk name=心の声
 @Sub mess="八雲姉はスルリと離れた。"
-八雲姐姐轻快地离开了我。
+八云姐姐轻快地离开了我。
 @Hitret id=11105
 @char file=CA04A002M
 @Talk name=八雲 voice=YKM010665
@@ -197,7 +197,7 @@
 @時間経過１ bg=BG01a01
 @Talk name=心の声
 @Sub mess="玄関の前でしばらく待っていると、八雲姉がやってきた。"
-在门口等了一会儿，八雲姐姐终于来了。
+在门口等了一会儿，八云姐姐终于来了。
 @Hitret id=11108
 @enter file=CA03A011M
 @Talk name=八雲 voice=YKM010666
@@ -225,7 +225,7 @@
 @抱きつき char=CA03A007L
 @Talk name=心の声
 @Sub mess="八雲姉はぐいっと腕を抱きしめてきた。"
-八雲姐姐一把抱住了我的胳膊。
+八云姐姐一把抱住了我的胳膊。
 @Hitret id=11114
 @Talk name=良太
 @Sub mess="「うん？」"
@@ -238,7 +238,7 @@
 @Hitret id=11116
 @Talk name=心の声
 @Sub mess="上目遣いの瞳は、どこか拗ねているようだった。"
-八雲姐姐目光抬起看向我，稍微有些闹别扭的样子。
+八云姐姐目光抬起看向我，稍微有些闹别扭的样子。
 @Hitret id=11117
 @Talk name=良太
 @Sub mess="「こんな朝早くに？」"
@@ -273,7 +273,7 @@
 @Hitret id=11124
 @Talk name=心の声
 @Sub mess="しっかり絡んだままの腕を指差す。"
-用我用手指了指八雲姐姐紧紧地缠着我的手腕。
+用我用手指了指八云姐姐紧紧地缠着我的手腕。
 @Hitret id=11125
 @char file=CA03A007L
 @おじぎ id=八雲
@@ -287,12 +287,12 @@
 @Hitret id=11127
 @Talk name=心の声
 @Sub mess="シーモアが忙しかったり、八雲姉も部活の助っ人が␤あったりと、なかなかこういう時間は少ない。"
-西摩尔的工作很忙，八雲姐姐也时常要去社团活动帮忙，
+西摩尔的工作很忙，八云姐姐也时常要去社团活动帮忙，
 因此留给约会的时间确实不是很多。
 @Hitret id=11128
 @Talk name=心の声
 @Sub mess="せっかく八雲姉が誘ってくれたデートだ。"
-难得八雲姐姐邀请我约会。
+难得八云姐姐邀请我约会。
 @Hitret id=11129
 @Talk name=心の声
 @Sub mess="少しくらい誰かに見られるようなことがあっても、␤こうして寄り添って歩く嬉しさには代えられない。"
@@ -366,7 +366,7 @@
 @Hitret id=11141
 @Talk name=心の声
 @Sub mess="八雲姉に引っ張られただけの俺とは違うな。"
-和被八雲姐姐强行拉来的我可不一样啊。
+和被八云姐姐强行拉来的我可不一样啊。
 @Hitret id=11142
 @char file=CI03A011M
 @Talk name=六兵衛 voice=RKB010048
@@ -426,7 +426,7 @@
 @Hitret id=11152
 @Talk name=良太
 @Sub mess="「ああ、八雲姉」"
-「嗯，八雲姐姐」
+「嗯，八云姐姐」
 @Hitret id=11153
 @char file=CA03A014M
 @Talk name=八雲 voice=YKM010676
@@ -436,7 +436,7 @@
 @autoPosition
 @Talk name=心の声
 @Sub mess="八雲姉は六兵衛の顔を見て首を傾げた。"
-八雲姐姐疑惑地看向六兵卫。
+八云姐姐疑惑地看向六兵卫。
 @Hitret id=11155
 @char file=CI03A002M
 @おじぎ id=六兵衛
@@ -451,7 +451,7 @@
 @Hitret id=11157
 @Talk name=良太
 @Sub mess="「八雲姉は、助っ人で来たわけじゃないだろ」"
-「八雲姐姐可不是为了帮忙才来的吧」
+「八云姐姐可不是为了帮忙才来的吧」
 @Hitret id=11158
 @char file=CA03A012M
 @char file=CI03A003M
@@ -518,11 +518,11 @@
 @抱き締め
 @Talk name=良太
 @Sub mess="「や……八雲姉？」"
-「八……八雲姐姐？」
+「八……八云姐姐？」
 @Hitret id=11171
 @Talk name=心の声
 @Sub mess="誰も見てなさそうだからか、八雲姉が寄り添ってきた。"
-也不知道周围有没有人在看，八雲姐姐就这样抱了上来。
+也不知道周围有没有人在看，八云姐姐就这样抱了上来。
 @Hitret id=11172
 @stopSe fade=1000
 @char file=CA03A010L
@@ -537,7 +537,7 @@
 @Hitret id=11174
 @Talk name=心の声
 @Sub mess="デートができないことで、八雲姉にも寂しい思いを␤させてしまってるんだろうか。"
-因为没机会约会，八雲姐姐肯定也会寂寞的吧。
+因为没机会约会，八云姐姐肯定也会寂寞的吧。
 @Hitret id=11175
 @Talk name=心の声
 @Sub mess="今度は俺がデートに誘う番だな。"
@@ -560,13 +560,13 @@
 @Hitret id=11178
 @Talk name=心の声
 @Sub mess="八雲姉と一緒なら、毎朝通ってもいいくらいかもしれない。"
-如果是和八雲姐姐在一起的话，
+如果是和八云姐姐在一起的话，
 就算每天早上都去也没关系。
 @Hitret id=11179
 @char file=CB06A009M
 @Talk name=萌莉 voice=MER010063
 @Sub mess="「今朝はどこに行ってたのよ。八雲と一緒だったん␤でしょ？」"
-「你今天早上去哪里了。肯定是和八雲在一起吧？」
+「你今天早上去哪里了。肯定是和八云在一起吧？」
 @Hitret id=11180
 @Talk name=心の声
 @Sub mess="ちょうど今朝のことを思い出していたら、萌莉が声を␤掛けてきた。"
@@ -599,7 +599,7 @@
 @Hitret id=11186
 @Talk name=良太
 @Sub mess="「や……八雲姉？」"
-「八……八雲姐姐？」
+「八……八云姐姐？」
 @Hitret id=11187
 @hide
 @clearChar id=八雲
@@ -629,11 +629,11 @@
 @Talk name=心の声
 @Sub mess="『彼氏』という単語自体が恥ずかしいのか、八雲姉と␤俺を指してるからなのか……"
 是因为觉得“男朋友”这个词有些害羞呢，
-还是因为指的是八雲姐姐和我的缘故呢……
+还是因为指的是八云姐姐和我的缘故呢……
 @Hitret id=11192
 @Talk name=心の声
 @Sub mess="確信できないところが、八雲姉を怒らせてしまうん␤だろうか。"
-虽然不是很确定，但总之是被八雲姐姐生气了啊。
+虽然不是很确定，但总之是被八云姐姐生气了啊。
 @Hitret id=11193
 @enter file=CA06A009M
 @Talk name=八雲 voice=YKM010684
@@ -642,18 +642,18 @@
 @Hitret id=11194
 @Talk name=心の声
 @Sub mess="萌莉と入れ替わりに、八雲姉が来た。"
-八雲姐姐代替萌莉来到了我的身边。
+八云姐姐代替萌莉来到了我的身边。
 @Hitret id=11195
 @Talk name=良太
 @Sub mess="「八雲姉」"
-「八雲姐姐」
+「八云姐姐」
 @Hitret id=11196
 @char file=CA06A009L
 @update
 @抱き締め
 @Talk name=心の声
 @Sub mess="ぐいっと手を引かれ、耳打ちされる。"
-八雲姐姐用力拉过我的手，向我耳语道。
+八云姐姐用力拉过我的手，向我耳语道。
 @Hitret id=11197
 @char file=CA06A005L
 @font size=21
@@ -667,7 +667,7 @@
 @Hitret id=11199
 @Talk name=心の声
 @Sub mess="少し拗ねた声で言われて、ハッとした。"
-八雲姐姐的声音有些闹别扭的样子，吓了我一跳。
+八云姐姐的声音有些闹别扭的样子，吓了我一跳。
 @Hitret id=11200
 @Talk name=良太
 @Sub mess="「朝のデートだから、だよな」"
@@ -687,7 +687,7 @@
 @char file=CA06A002L
 @Talk name=八雲 voice=YKM010687
 @Sub mess="「恋人とのデートは大切にしてくださいね。␤八雲お姉ちゃんとの約束ですよ」"
-「答应八雲姐姐，要好好珍惜和恋人的约会哦」
+「答应八云姐姐，要好好珍惜和恋人的约会哦」
 @Hitret id=11204
 @Talk name=良太
 @Sub mess="「ああ、分かった。約束するよ」"
@@ -695,7 +695,7 @@
 @Hitret id=11205
 @Talk name=心の声
 @Sub mess="八雲姉が嬉しそうに笑ってくれる。"
-八雲姐姐高兴地笑了。
+八云姐姐高兴地笑了。
 @Hitret id=11206
 @Talk name=心の声
 @Sub mess="デートは大切に、か。覚えておこう。"
@@ -748,7 +748,7 @@
 @Hitret id=11216
 @Talk name=心の声
 @Sub mess="当然、八雲姉のことだよな……"
-只能是八雲姐姐了吧……
+只能是八云姐姐了吧……
 @Hitret id=11217
 @playSe file=SE010
 @enter file=CA04A007M
@@ -763,12 +763,12 @@
 @Hitret id=11219
 @Talk name=心の声
 @Sub mess="いきなり思考の中心人物、八雲姉が入ってきた。"
-心中正思考着，八雲姐姐便突然出现在了我的面前。
+心中正思考着，八云姐姐便突然出现在了我的面前。
 @Hitret id=11220
 @char file=CA04A006M
 @Talk name=八雲 voice=YKM010689
 @Sub mess="「もう寝ちゃうところでしたか？　八雲お姉ちゃんの␤子守唄がなくても眠れそうですか？」"
-「要睡觉了吗？没有八雲姐姐的摇篮曲
+「要睡觉了吗？没有八云姐姐的摇篮曲
 也要睡觉了吗？」
 @Hitret id=11221
 @Talk name=良太
@@ -819,7 +819,7 @@
 @Hitret id=11229
 @Talk name=良太
 @Sub mess="「相変わらず、八雲姉は顔が広いな……」"
-「八雲姐姐还是一如既往的社交面广啊……」
+「八云姐姐还是一如既往的社交面广啊……」
 @Hitret id=11230
 @Talk name=心の声
 @Sub mess="学園中の部と関わりがあるんじゃないかと思えるくらいだ。"
@@ -833,7 +833,7 @@
 @メッセージ揺らし
 @Talk name=良太
 @Sub mess="「あっ、八雲姉……！」"
-「啊，八雲姐姐……！」
+「啊，八云姐姐……！」
 @Hitret id=11233
 @Talk name=心の声
 @Sub mess="ちょうど話題は映画だし誘うなら今なんじゃ……"
@@ -882,7 +882,7 @@
 @Hitret id=11242
 @Talk name=心の声
 @Sub mess="八雲姉が腕に抱きついてくる。"
-八雲姐姐抱住了我的胳膊。
+八云姐姐抱住了我的胳膊。
 @Hitret id=11243
 @Talk name=心の声
 @Sub mess="完全に誘うタイミングを逸してしまった……情けない。"
@@ -911,7 +911,7 @@
 @waitUpdate
 @Talk name=心の声
 @Sub mess="翌朝、八雲姉が俺の上に寝転んでいた。"
-第二天，八雲姐姐压在我身上睡着了。
+第二天，八云姐姐压在我身上睡着了。
 @Hitret id=11248
 @playBgm file=BGM08
 @face file=CA04A006M
@@ -963,7 +963,7 @@
 @カメラ揺らし
 @Talk name=心の声
 @Sub mess="八雲姉は俺の身体の上でもぞもぞと身じろぎしてくる。"
-八雲姐姐在我的身体上扭捏着身体。
+八云姐姐在我的身体上扭捏着身体。
 @Hitret id=11258
 @Talk name=良太
 @Sub mess="「う、あっ……！？」"
@@ -973,7 +973,7 @@
 @face file=CA04A002M
 @Talk name=八雲 voice=YKM010702
 @Sub mess="「ほらほらぁ……八雲お姉ちゃんの身体に、␤魅力を感じてくれてますか……？」"
-「看吧看吧……八雲姐姐的身体，不觉得很有魅力吗……？」
+「看吧看吧……八云姐姐的身体，不觉得很有魅力吗……？」
 @Hitret id=11260
 @Talk name=良太
 @Sub mess="「わ、分かった……分かったから、離れてくれ」"
@@ -989,7 +989,7 @@
 @Hitret id=11262
 @Talk name=心の声
 @Sub mess="八雲姉は、豊満な二つの弾力をグリグリ押し付けてくる。"
-八雲姐姐用丰满的两团肉球在我身上来回摩擦。
+八云姐姐用丰满的两团肉球在我身上来回摩擦。
 @Hitret id=11263
 @おっぱい
 @face file=CA04A001M
@@ -1030,7 +1030,7 @@
 @Talk name=心の声
 @Sub mess="朝なのに、みんながいるのに、つい八雲姉の艶っぽさに␤流されてしまいそうになる。"
 明明是早上，明明大家都在，
-我却还是被八雲姐姐的魅力所裹挟，
+我却还是被八云姐姐的魅力所裹挟，
 一直被牵着鼻子走。
 @Hitret id=11271
 @stopEnvSe fade=3000
@@ -1039,17 +1039,17 @@
 @場面転換３Ｐ bg=BG08a01
 @Talk name=良太
 @Sub mess="「八雲姉、ストップ」"
-「八雲姐姐，快停下」
+「八云姐姐，快停下」
 @Hitret id=11272
 @Talk name=心の声
 @Sub mess="肩を押さえて起き上がり、パジャマを整えた。"
-我用手按住八雲姐姐的肩膀，坐了起来，整理了一下睡衣。
+我用手按住八云姐姐的肩膀，坐了起来，整理了一下睡衣。
 @Hitret id=11273
 @char file=CA04A005M
 @否定 id=八雲
 @Talk name=八雲 voice=YKM010707
 @Sub mess="「うう、八雲お姉ちゃんの彼氏さんはイケズですね……」"
-「唔唔，八雲姐姐的男朋友真是个坏心眼……」
+「唔唔，八云姐姐的男朋友真是个坏心眼……」
 @Hitret id=11274
 @Talk name=心の声
 @Sub mess="わざとらしいくらいシュンとしたかと思えば、ぱっと␤顔を上げる。"
@@ -1100,7 +1100,7 @@
 @char file=CD03B015M
 @Talk name=音琴 voice=NKT010066
 @Sub mess="「くすくす……八雲お姉ちゃんの方がすごいよ。␤萌莉お姉ちゃんに見つからずに、ここへ来てる、から」"
-「哧哧……八雲姐姐也很厉害哦。
+「哧哧……八云姐姐也很厉害哦。
 能够瞒着萌莉姐姐来到这里」
 @Hitret id=11282
 @char file=CA04A012M
@@ -1115,7 +1115,7 @@
 @Hitret id=11284
 @Talk name=心の声
 @Sub mess="八雲姉ならありえそうで、ちょっと動悸が早くなる。"
-八雲姐姐的话可能真的会这样，我不禁心跳加速。
+八云姐姐的话可能真的会这样，我不禁心跳加速。
 @Hitret id=11285
 @char file=CD03B004M
 @Talk name=音琴 voice=NKT010067
@@ -1161,7 +1161,7 @@
 @playSe file=SE010
 @Talk name=心の声
 @Sub mess="八雲姉も少し恥ずかしくなったのか、部屋を出て行った。"
-八雲姐姐似乎也有些害羞，就这么离开了我的房间。
+八云姐姐似乎也有些害羞，就这么离开了我的房间。
 @Hitret id=11294
 @autoPosition
 @Talk name=良太
@@ -1279,7 +1279,7 @@
 @focus id=八雲
 @Talk name=心の声
 @Sub mess="早く八雲姉を誘わないと。"
-必须要早点邀请八雲姐姐才行。
+必须要早点邀请八云姐姐才行。
 @Hitret id=11317
 @Talk name=心の声
 @Sub mess="家族を外出に誘うのに、どうしてこんなに緊張してるん␤だろう。"
@@ -1287,7 +1287,7 @@
 @Hitret id=11318
 @Talk name=心の声
 @Sub mess="八雲姉が恋人だからか。"
-因为八雲姐姐是我的恋人吗。
+因为八云姐姐是我的恋人吗。
 @Hitret id=11319
 @Talk name=心の声
 @Sub mess="デートだと意識してるからか。"
@@ -1446,7 +1446,7 @@
 @char file=CD06A006L
 @Talk name=音琴 voice=NKT010081
 @Sub mess="「八雲お姉ちゃんを誘うの？」"
-「是打算邀请八雲姐姐吗？」
+「是打算邀请八云姐姐吗？」
 @Hitret id=11351
 @Talk name=良太
 @Sub mess="「あ……ああ。誘うつもりだったんだけど……」"
@@ -1518,7 +1518,7 @@
 @enter file=CA02A007L right=100
 @Talk name=八雲 voice=YKM010713
 @Sub mess="「八雲お姉ちゃんも、なでなでしてほしいですっ」"
-「八雲姐姐也希望你能摸一摸」
+「八云姐姐也希望你能摸一摸」
 @Hitret id=11366
 @char file=CA02A007M x=-300
 @char file=CD06A007M x=300
@@ -1531,12 +1531,12 @@
 @char file=CD06A001M
 @Talk name=音琴 voice=NKT010087
 @Sub mess="「んぅ……八雲お姉ちゃん」"
-「唔……八雲姐姐」
+「唔……八云姐姐」
 @Hitret id=11368
 @Talk name=心の声
 @Sub mess="後ろからの衝撃が来たかと思えば、八雲姉が忍び寄って␤きてたらしい。"
 刚疑惑着从背后传来的冲击，
-一回神八雲姐姐就已经悄无声息地贴在了我的身边。
+一回神八云姐姐就已经悄无声息地贴在了我的身边。
 @Hitret id=11369
 @autoPosition
 @Talk name=心の声
@@ -1546,7 +1546,7 @@
 @clearChar id=音琴
 @Talk name=良太
 @Sub mess="「お帰り、八雲姉。映画研究部の人達はどうだった？」"
-「欢迎回来，八雲姐姐。电影研究部那边怎么说？」
+「欢迎回来，八云姐姐。电影研究部那边怎么说？」
 @Hitret id=11371
 @char file=CA02A006M
 @おじぎ id=八雲
@@ -1613,7 +1613,7 @@
 @Hitret id=11383
 @Talk name=良太
 @Sub mess="「俺が恋人として好きなのは八雲姉だけだよ」"
-「我作为恋人而喜欢的只有八雲姐姐一个哦」
+「我作为恋人而喜欢的只有八云姐姐一个哦」
 @Hitret id=11384
 @Talk name=心の声
 @Sub mess="恥ずかしいけど、それだけは断言できる。"
@@ -1627,17 +1627,17 @@
 @Hitret id=11386
 @Talk name=心の声
 @Sub mess="八雲姉は目をうるうるさせる。"
-八雲姐姐眼睛湿润了。
+八云姐姐眼睛湿润了。
 @Hitret id=11387
 @playSe file=SE070
 @主人公おじぎ
 @Talk name=心の声
 @Sub mess="俺は八雲姉をなだめて、封筒からチケットを出した。"
-为了安慰八雲姐姐，我从信封里将电影票拿了出来。
+为了安慰八云姐姐，我从信封里将电影票拿了出来。
 @Hitret id=11388
 @Talk name=良太
 @Sub mess="「八雲姉、今夜一緒にここへ行かないか？」"
-「八雲姐姐，今晚一起去怎么样？」
+「八云姐姐，今晚一起去怎么样？」
 @Hitret id=11389
 @stopSe fade=1000
 @char file=CA02A003M
@@ -1658,7 +1658,7 @@
 @Hitret id=11392
 @Talk name=心の声
 @Sub mess="八雲姉が顔を真っ赤にさせる。"
-八雲姐姐满脸通红。
+八云姐姐满脸通红。
 @Hitret id=11393
 @Talk name=良太
 @Sub mess="「商店街で、夜に映画を上映するらしいんだ」"
@@ -1676,7 +1676,7 @@
 @clearChar id=-1
 @Talk name=心の声
 @Sub mess="チケットを渡すと、八雲姉は目をキラキラさせて␤読み始める。"
-我把票递给八雲姐姐，她立刻开始双眼冒光地读了起来。
+我把票递给八云姐姐，她立刻开始双眼冒光地读了起来。
 @Hitret id=11397
 @char file=CA02A014M
 @ジャンプ id=八雲
@@ -1711,11 +1711,11 @@
 @Hitret id=11403
 @Talk name=心の声
 @Sub mess="抱きつきながら飛び跳ねられて、視界が揺れる。"
-八雲姐姐抱着我蹦蹦跳跳的，我的视线也跟着晃动了起来。
+八云姐姐抱着我蹦蹦跳跳的，我的视线也跟着晃动了起来。
 @Hitret id=11404
 @Talk name=心の声
 @Sub mess="こんなに喜んでくれるなら、誘って良かった。"
-能让八雲姐姐这么开心，
+能让八云姐姐这么开心，
 下定决心邀请她真是太好了。
 @Hitret id=11405
 @char file=CA02A006L
@@ -1749,7 +1749,7 @@
 @Hitret id=11411
 @Talk name=心の声
 @Sub mess="頷くと、八雲姉はくすくすと楽しげな笑みを浮かべた。"
-我点了点头，八雲姐姐露出了开心的笑容。
+我点了点头，八云姐姐露出了开心的笑容。
 @Hitret id=11412
 @char file=CA02A007L
 @Talk name=八雲 voice=YKM010728
@@ -1773,7 +1773,7 @@
 @Talk name=心の声
 @Sub mess="家じゅうの明かりが消えてから、時間を置いて八雲姉を␤呼び出した。"
 等家里的灯都熄灭之后，我稍隔了一段时间后，
-把八雲姐姐叫了出来。
+把八云姐姐叫了出来。
 @Hitret id=11417
 @playBgm file=BGM16
 @enter file=CA03A001M right=100
@@ -1813,7 +1813,7 @@
 @Hitret id=11423
 @Talk name=心の声
 @Sub mess="もし先生に見つかった時は八雲姉だけ先に逃げてもらおう、␤なんてシミュレーションまでしていた。"
-如果被老师发现了的话，就让八雲姐姐先逃走吧，
+如果被老师发现了的话，就让八云姐姐先逃走吧，
 我在心里模拟了一下可能的情况。
 @Hitret id=11424
 @Talk name=心の声
@@ -1828,7 +1828,7 @@
 @font size=21
 @Talk name=良太
 @Sub mess="「しーっ、八雲姉、静かに」"
-「嘘，八雲姐姐，安静」
+「嘘，八云姐姐，安静」
 @Hitret id=11427
 @char file=CA03A003M
 @ジャンプ id=八雲
@@ -1854,7 +1854,7 @@
 @メッセージ揺らし
 @Talk name=心の声
 @Sub mess="八雲姉が、俺の手に指を絡めてきた。いわゆる恋人繋ぎだ。"
-八雲姐姐将手指和我的手指缠在了一起。
+八云姐姐将手指和我的手指缠在了一起。
 也就是所谓的恋人之间的十指相扣吧。
 @Hitret id=11431
 @char file=CA03A002L
@@ -1902,7 +1902,7 @@
 @Hitret id=11439
 @Talk name=心の声
 @Sub mess="八雲姉は列の人に目を配ると、ほっと吐息した。"
-八雲姐姐扫了眼队伍中的人，松了一口气说道。
+八云姐姐扫了眼队伍中的人，松了一口气说道。
 @Hitret id=11440
 @Talk name=良太
 @Sub mess="「良かったな」"
@@ -1923,7 +1923,7 @@
 @右カメラ移動＋位置固定 bg=BG12c01
 @Talk name=心の声
 @Sub mess="八雲姉と別れて、列の最後に並んだ。"
-和八雲姐姐分开后，我排在了队伍的最后面。
+和八云姐姐分开后，我排在了队伍的最后面。
 @Hitret id=11444
 @Talk name=心の声
 @Sub mess="上映時間は二時間弱。終わるころには、普段ならとっくに␤寝ているような時間だ。"
@@ -1957,7 +1957,7 @@
 @おじぎ id=八雲
 @Talk name=心の声
 @Sub mess="八雲姉がスッと密着してくる。"
-八雲姐姐迅速紧紧地抱住了我。
+八云姐姐迅速紧紧地抱住了我。
 @Hitret id=11451
 @Talk name=良太
 @Sub mess="「どうしたんだ？」"
@@ -1980,7 +1980,7 @@
 @Hitret id=11455
 @Talk name=良太
 @Sub mess="「俺は八雲姉ほど有名人じゃないからな」"
-「毕竟我不像八雲姐姐那样是个大名人呢」
+「毕竟我不像八云姐姐那样是个大名人呢」
 @Hitret id=11456
 @char file=CA03A008L
 @否定 id=八雲
@@ -1997,7 +1997,7 @@
 @Talk name=八雲 voice=YKM010744
 @Sub mess="「これからは、特に八雲お姉ちゃんとは相思相愛な␤良ちゃんで有名になってくださいね！」"
 「从今往后，小良就请尽情地
-靠着和八雲姐姐相思相爱出名吧！」
+靠着和八云姐姐相思相爱出名吧！」
 @Hitret id=11459
 @Talk name=良太
 @Sub mess="「まあ……恋人同士に見えてたんなら、大丈夫なんじゃ␤ないか？」"
@@ -2012,7 +2012,7 @@
 @おじぎ id=八雲
 @Talk name=心の声
 @Sub mess="八雲姉が顔をのぞきこんでくる。"
-八雲盯着我的脸。
+八云盯着我的脸。
 @Hitret id=11462
 @Talk name=良太
 @Sub mess="「な……なんだ？」"
@@ -2065,7 +2065,7 @@
 @Hitret id=11473
 @Talk name=良太
 @Sub mess="「八雲姉は可愛いよ」"
-「八雲姐姐很可爱哦」
+「八云姐姐很可爱哦」
 @Hitret id=11474
 @char file=CA03A008L
 @Talk name=八雲 voice=YKM010750
@@ -2088,7 +2088,7 @@
 @Hitret id=11478
 @Talk name=良太
 @Sub mess="「魔性の女の勉強なんて、八雲姉には全く必要なさそうだ」"
-「八雲姐姐完全没必要去学习成为一个魅惑人心的女人哦」
+「八云姐姐完全没必要去学习成为一个魅惑人心的女人哦」
 @Hitret id=11479
 @char file=CA03A001L
 @Talk name=八雲 voice=YKM010752
@@ -2108,7 +2108,7 @@
 @おっぱい
 @Talk name=心の声
 @Sub mess="八雲姉が、腕を抱きしめて胸を押し付けてくる。"
-八雲姐姐抱住我的胳膊，将胸部压了上来。
+八云姐姐抱住我的胳膊，将胸部压了上来。
 @Hitret id=11483
 @char file=CA03A007L
 @Talk name=八雲 voice=YKM010754
@@ -2129,13 +2129,13 @@
 @Hitret id=11486
 @Talk name=心の声
 @Sub mess="八雲姉は、不意に寂しげな表情をした。"
-八雲姐姐不禁意间露出了寂寞的表情。
+八云姐姐不禁意间露出了寂寞的表情。
 @Hitret id=11487
 @Talk name=良太
 @Sub mess="「これから何度でもデートに誘うよ。八雲姉に誘われて␤ばかりじゃ『可愛い』って言われっぱなしになるもんな」"
 「这之后不管多少次我都会邀请你约会的哦。
-如果只是一味地被八雲姐姐邀请的话，
-肯定会一直被八雲姐姐说“可爱”的吧」
+如果只是一味地被八云姐姐邀请的话，
+肯定会一直被八云姐姐说“可爱”的吧」
 @Hitret id=11488
 @char file=CA03A002L
 @Talk name=八雲 voice=YKM010756
@@ -2149,7 +2149,7 @@
 @Hitret id=11490
 @Talk name=良太
 @Sub mess="「まあ、八雲姉に言われるなら……」"
-「嘛，如果是被八雲姐姐说的话……」
+「嘛，如果是被八云姐姐说的话……」
 @Hitret id=11491
 @char file=CA03A012L
 @Talk name=八雲 voice=YKM010758
@@ -2205,7 +2205,7 @@
 @Hitret id=11501
 @Talk name=良太
 @Sub mess="「八雲姉？」"
-「八雲姐姐？」
+「八云姐姐？」
 @Hitret id=11502
 @hide
 @playBgm file=BGM13
@@ -2216,7 +2216,7 @@
 @左カメラ移動
 @Talk name=心の声
 @Sub mess="跳び上がったかと思えば、俺の腕を引いて背中に庇おうと␤する。"
-刚想着八雲姐姐怎么吓了一跳，
+刚想着八云姐姐怎么吓了一跳，
 她便抓住我的手腕将我护在了背后。
 @Hitret id=11503
 @cg file=BG12c01 pos=0,0,-128
@@ -2230,13 +2230,13 @@
 @font size=21
 @Talk name=八雲 voice=YKM010762
 @Sub mess="「他の先生たちもいるみたいです。ここは␤八雲お姉ちゃんに任せてくださいっ」"
-「好像还有其他的老师在。这里就交给八雲姐姐吧」
+「好像还有其他的老师在。这里就交给八云姐姐吧」
 @Hitret id=11505
 @cg file=BG12c01 center=640,540
 @font size=21
 @Talk name=良太
 @Sub mess="「逆だろ。八雲姉、俺の後ろに隠れて」"
-「反了吧。八雲姐姐，快躲到我身后去」
+「反了吧。八云姐姐，快躲到我身后去」
 @Hitret id=11506
 @char file=CA03A003L
 @ううっ id=八雲
@@ -2263,7 +2263,7 @@
 @Hitret id=11510
 @Talk name=心の声
 @Sub mess="だけど、八雲姉の名残惜しそうな表情をそのままにして␤帰るのは辛いな。"
-但是，看着八雲姐姐那副恋恋不舍的表情，
+但是，看着八云姐姐那副恋恋不舍的表情，
 想着就这么回去也太难受了吧。
 @Hitret id=11511
 @playBgm file=BGM16 fade=3000
@@ -2313,7 +2313,7 @@ Float like a butterfly, sting like a bee}
 @おじぎ id=八雲
 @Talk name=八雲 voice=YKM010768
 @Sub mess="「はいっ！　八雲お姉ちゃんにお任せですっ！」"
-「嗯！　交给你八雲姐姐吧！」
+「嗯！　交给你八云姐姐吧！」
 @Hitret id=11519
 @pauseBgm
 @cg file=BG12c01 pos=0,0,-128
@@ -2343,7 +2343,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11523
 @Talk name=心の声
 @Sub mess="八雲姉の体温を腕に感じながら、先生方の目を逃れた。"
-感受着八雲姐姐的体温，我们躲避着老师们的目光。
+感受着八云姐姐的体温，我们躲避着老师们的目光。
 @Hitret id=11524
 @restartBgm
 @playEnvSe file=SE045
@@ -2356,7 +2356,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11525
 @Talk name=心の声
 @Sub mess="帰り道、俺と八雲姉は手を繋ぎながら歩いていた。"
-回家的路上，我和八雲姐姐手牵手走着。
+回家的路上，我和八云姐姐手牵手走着。
 @Hitret id=11526
 @char file=CA03A001L
 @Talk name=八雲 voice=YKM010771
@@ -2365,7 +2365,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11527
 @Talk name=良太
 @Sub mess="「八雲姉も協力してくれただろ。二人で音琴に渡そう」"
-「八雲姐姐也帮忙了不是吗。两人一起交给音琴吧」
+「八云姐姐也帮忙了不是吗。两人一起交给音琴吧」
 @Hitret id=11528
 @Talk name=心の声
 @Sub mess="おみやげといっても、売ってたのは映画のポストカード␤くらいだった。"
@@ -2396,7 +2396,7 @@ Float like a butterfly, sting like a bee}
 @メッセージ揺らし
 @Talk name=心の声
 @Sub mess="八雲姉の手に、やんわりと力が入る。"
-我用力握紧了八雲姐姐的手。
+我用力握紧了八云姐姐的手。
 @Hitret id=11533
 @Talk name=心の声
 @Sub mess="指と指が絡んで、肌が汗ばんだ。"
@@ -2410,14 +2410,14 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11535
 @Talk name=良太
 @Sub mess="「俺の方こそ、八雲姉がデートしてくれて嬉しかったよ。␤これ以上魔性の女になられると困るけどな」"
-「我才是，八雲姐姐能和我约会，我很高兴哦。
-不过要是八雲姐姐因此变成了
+「我才是，八云姐姐能和我约会，我很高兴哦。
+不过要是八云姐姐因此变成了
 魅惑人心的女人那我就困扰了」
 @Hitret id=11536
 @char file=CA03A008L
 @Talk name=八雲 voice=YKM010775
 @Sub mess="「ふふっ。八雲お姉ちゃんは良ちゃんに夢中でいてもらう␤ためなら、いっぱい頑張りたいんですよ」"
-「呵呵。八雲姐姐为了让小良迷上，会全力以赴的哦」
+「呵呵。八云姐姐为了让小良迷上，会全力以赴的哦」
 @Hitret id=11537
 @Talk name=良太
 @Sub mess="「今でももう充分なのに」"
@@ -2431,16 +2431,16 @@ Float like a butterfly, sting like a bee}
 @char file=CA03A005M
 @Talk name=心の声
 @Sub mess="八雲姉はふいに立ち止まった。"
-八雲姐姐突然停了下来。
+八云姐姐突然停了下来。
 @Hitret id=11540
 @Talk name=良太
 @Sub mess="「八雲姉？」"
-「八雲姐姐？」
+「八云姐姐？」
 @Hitret id=11541
 @char file=CA03A001M
 @Talk name=心の声
 @Sub mess="俺も立ち止まると、八雲姉は優しい表情を浮かべた。"
-我也停下了脚步，八雲姐姐脸上浮现出温柔的表情。
+我也停下了脚步，八云姐姐脸上浮现出温柔的表情。
 @Hitret id=11542
 @char file=CA03A002M
 @Talk name=八雲 voice=YKM010777
@@ -2462,7 +2462,7 @@ Float like a butterfly, sting like a bee}
 @ジャンプ id=八雲
 @Talk name=八雲 voice=YKM010779
 @Sub mess="「良ちゃんに恋してもらえた八雲お姉ちゃんは、最強␤なんですっ！」"
-「被小良爱上的八雲姐姐，此时此刻正是最强的哦！」
+「被小良爱上的八云姐姐，此时此刻正是最强的哦！」
 @Hitret id=11546
 @Talk name=良太
 @Sub mess="「最強……」"
@@ -2489,7 +2489,7 @@ Float like a butterfly, sting like a bee}
 @メッセージ揺らし横
 @Talk name=心の声
 @Sub mess="八雲姉は、いきなり俺の頬をぐにぐにと揉んできた。"
-八雲姐姐突然揉起了我的脸颊。
+八云姐姐突然揉起了我的脸颊。
 @Hitret id=11551
 @メッセージ揺らし
 @Talk name=良太
@@ -2525,7 +2525,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11557
 @Talk name=心の声
 @Sub mess="八雲姉は俺の顔を揉んでいた手を止めた。"
-八雲姐姐停住了揉着我的脸的手。
+八云姐姐停住了揉着我的脸的手。
 @Hitret id=11558
 @char file=CA03A008L
 @おじぎ id=八雲
@@ -2536,7 +2536,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11559
 @Talk name=良太
 @Sub mess="「八雲姉……」"
-「八雲姐姐……」
+「八云姐姐……」
 @Hitret id=11560
 @char file=CA03A010L
 @Talk name=八雲 voice=YKM010786
@@ -2545,7 +2545,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11561
 @Talk name=心の声
 @Sub mess="八雲姉が目を閉じる。"
-八雲姐姐闭上了双眼。
+八云姐姐闭上了双眼。
 @Hitret id=11562
 @キス id=八雲 char=CA03A010L
 @Talk name=八雲 voice=YKM010787
@@ -2554,7 +2554,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11563
 @Talk name=良太
 @Sub mess="「俺も、八雲姉とのキス、好きだ……」"
-「我也是，和八雲姐姐接吻，好开心……」
+「我也是，和八云姐姐接吻，好开心……」
 @Hitret id=11564
 @ううっ id=八雲
 @Talk name=八雲 voice=YKM010788
@@ -2563,11 +2563,11 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11565
 @Talk name=心の声
 @Sub mess="八雲姉は、キスをしながら名前をささやいてくる。"
-八雲姐姐接吻的同时在我的耳边低声念着我的名字。
+八云姐姐接吻的同时在我的耳边低声念着我的名字。
 @Hitret id=11566
 @Talk name=良太
 @Sub mess="「八雲姉……」"
-「八雲姐姐……」
+「八云姐姐……」
 @Hitret id=11567
 @ううっ id=八雲
 @Talk name=八雲 voice=YKM010789
@@ -2591,7 +2591,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11571
 @Talk name=心の声
 @Sub mess="赤い顔でもじもじしてる八雲姉は、普段とのギャップが␤大きくて可愛すぎた。"
-看着满脸通红扭扭捏捏的八雲姐姐，
+看着满脸通红扭扭捏捏的八云姐姐，
 这种和平时判若两人的反差，真是太可爱了，
 @Hitret id=11572
 @char file=CA03A014L
@@ -2603,7 +2603,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11573
 @Talk name=良太
 @Sub mess="「違うんだ。八雲姉が可愛すぎて……っ」"
-「不是。是因为八雲姐姐太可爱了……」
+「不是。是因为八云姐姐太可爱了……」
 @Hitret id=11574
 @char file=CA03A008L
 @Talk name=八雲 voice=YKM010792
@@ -2613,12 +2613,12 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11575
 @Talk name=心の声
 @Sub mess="からかい口調の八雲姉だけど、顔は真っ赤だった。"
-八雲姐姐虽然是戏弄的语调，但脸上却是一片通红。
+八云姐姐虽然是戏弄的语调，但脸上却是一片通红。
 @Hitret id=11576
 @Talk name=良太
 @Sub mess="「そうだな、キスの効果で八雲姉も赤くなってて␤可愛いよ」"
 「是啊，因为接吻的效果，
-八雲姐姐也是满脸通红的，很可爱哦」
+八云姐姐也是满脸通红的，很可爱哦」
 @Hitret id=11577
 @キス id=八雲 char=CA03A010L
 @Talk name=八雲 voice=YKM010793
@@ -2628,7 +2628,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11578
 @Talk name=心の声
 @Sub mess="思わずまた八雲姉にキスしていた。"
-我不假思索地再次吻向八雲姐姐。
+我不假思索地再次吻向八云姐姐。
 @Hitret id=11579
 @Talk name=心の声
 @Sub mess="唇の熱さも、柔らかさも、全部が愛しい。"
@@ -2645,7 +2645,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11582
 @Talk name=良太
 @Sub mess="「八雲姉とのキス、すごく好きだ……」"
-「和八雲姐姐接吻，最喜欢了……」
+「和八云姐姐接吻，最喜欢了……」
 @Hitret id=11583
 @おじぎ id=八雲
 @Talk name=八雲 voice=YKM010795
@@ -2655,7 +2655,7 @@ Float like a butterfly, sting like a bee}
 @Talk name=心の声
 @Sub mess="夜風に肌を撫でられながら、俺と八雲姉は何度も息継ぎ␤しながらキスをし続けた。"
 任凭晚风轻抚着皮肤，
-我和八雲姐姐一次又一次地亲吻着。
+我和八云姐姐一次又一次地亲吻着。
 @Hitret id=11585
 @stopEnvSe fade=1000
 @stopBgm fade=3000
@@ -2687,7 +2687,7 @@ Float like a butterfly, sting like a bee}
 @char file=CH04A006M
 @Talk name=陽菜 voice=HRN010032
 @Sub mess="「おかえりなさぁい、八雲ちゃん」"
-「欢迎回来，八雲酱」
+「欢迎回来，八云酱」
 @Hitret id=11591
 @Talk name=良太
 @Sub mess="「た……ただいま……」"
@@ -2708,7 +2708,7 @@ Float like a butterfly, sting like a bee}
 @char file=CA03A014M
 @Talk name=心の声
 @Sub mess="父さんは俺に、母さんは八雲姉に顔を近付ける。"
-父亲朝我靠了过来，而母亲则靠近了八雲姐姐。
+父亲朝我靠了过来，而母亲则靠近了八云姐姐。
 @Hitret id=11594
 @ううっ id=小次郎 cycle=150
 @ううっ id=陽菜
@@ -2746,7 +2746,7 @@ Float like a butterfly, sting like a bee}
 @Hitret id=11599
 @Talk name=良太
 @Sub mess="「俺が八雲姉を無理やり連れて行ったんだ。悪いのは俺␤一人だけだから……！」"
-「是我硬拉着八雲姐姐一起去的。
+「是我硬拉着八云姐姐一起去的。
 要怪就怪我一个人吧……！」
 @Hitret id=11600
 @char file=CA03A009M
@@ -2784,7 +2784,7 @@ Float like a butterfly, sting like a bee}
 @おじぎ id=小次郎
 @Talk name=小次郎 voice=KJR010032
 @Sub mess="「その代わり、八雲をしっかり守るんだぞ」"
-「但作为条件，你要好好保护好八雲哦」
+「但作为条件，你要好好保护好八云哦」
 @Hitret id=11606
 @Talk name=良太
 @Sub mess="「ああ、分かってる」"

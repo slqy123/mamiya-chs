@@ -93,7 +93,7 @@
 @Talk name=萌莉 voice=MER070002
 @Sub mess="「そ、そうよ。本来は漫画が目当てだったの！　だけど、␤八雲がおもしろがって……」"
 「就，就是啊。原本是打算一起看漫画的！
-但是，八雲她说有趣什么的……」
+但是，八云她说有趣什么的……」
 @Hitret id=38319
 @char file=CA03A002M
 @Talk name=八雲 voice=YKM070002
@@ -209,7 +209,7 @@
 @leave id=八雲
 @Talk name=心の声
 @Sub mess="八雲姉も、雑誌を持ってリビングから出て行ってしまう。"
-八雲姐姐也拿着杂志离开客厅了。
+八云姐姐也拿着杂志离开客厅了。
 @Hitret id=38336
 @playSe file=SE010
 @Talk name=心の声

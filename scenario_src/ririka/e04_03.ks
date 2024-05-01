@@ -269,7 +269,7 @@
 @Talk name=心の声
 @Sub mess="莉里香が臆することなく胸を張ると、八雲姉もその様子に␤怯んだようだ。"
 莉里香毫不畏怯地挺起胸膛，
-就连八雲姐姐都有些退缩了。
+就连八云姐姐都有些退缩了。
 @Hitret id=34007
 @Talk name=良太
 @Sub mess="「二人とも、寝る前になにか飲むだろ。持ってくるよ」"
@@ -307,7 +307,7 @@
 @action id=莉里香 action=ActionAdvWave width=5 height=0 cycle=500 count=1
 @Talk name=心の声
 @Sub mess="八雲姉は莉里香に抱きつくと、ずるずると引っ張っていく。"
-八雲姐姐抱着莉里香，
+八云姐姐抱着莉里香，
 一点点地把她拽出了出去。
 @Hitret id=34012
 @playSe file=SE010
@@ -319,7 +319,7 @@
 @Hitret id=34013
 @Talk name=心の声
 @Sub mess="八雲姉から莉里香を奪還することも考えたけど、親睦を␤深めてもらうのが一番だ。"
-虽然我也考虑过从八雲姐姐那里把莉里香抢回来，
+虽然我也考虑过从八云姐姐那里把莉里香抢回来，
 但转念一想，让她们多加深一下感情才是最重要的。
 @Hitret id=34014
 @Talk name=心の声
@@ -410,7 +410,7 @@
 @waitAction id=莉里香
 @Talk name=莉里香 voice=RRK050794
 @Sub mess="「きゃあ、八雲さんっ！？」"
-「呀啊，八雲！？」
+「呀啊，八云！？」
 @Hitret id=34028
 @Talk name=心の声
 @Sub mess="完全に油断していました。"
@@ -464,7 +464,7 @@
 @Hitret id=34037
 @Talk name=心の声
 @Sub mess="八雲さんが突然現れたものですから、すっぽり抜けて␤しまいました。"
-因为八雲突然出现，一时间把这个给忘了。
+因为八云突然出现，一时间把这个给忘了。
 @Hitret id=34038
 @clearChar id=-1
 @char file=CA03A006M
@@ -475,7 +475,7 @@
 @メッセージ揺らし
 @Talk name=心の声
 @Sub mess="ううっ、八雲さん、鋭いですわ。"
-唔，八雲，真是敏锐的直觉。
+唔，八云，真是敏锐的直觉。
 @Hitret id=34040
 @char file=CA03A002M
 @Talk name=八雲 voice=YKM050041
@@ -761,11 +761,11 @@
 @char file=CA03A001M
 @Talk name=八雲 voice=YKM050050
 @Sub mess="「そうですそうです、八雲お姉ちゃんが保証しますっ！」"
-「就是就是，八雲姐姐可以向你保证！」
+「就是就是，八云姐姐可以向你保证！」
 @Hitret id=34093
 @Talk name=心の声
 @Sub mess="八雲姉と萌莉が、必死にフォローしている。"
-八雲姐姐和萌莉在拼命地为莉里香说话。
+八云姐姐和萌莉在拼命地为莉里香说话。
 @Hitret id=34094
 @Talk name=心の声
 @Sub mess="莉里香の握ってくれたおにぎり……らしきものは、␤それくらいの見た目だった。"
@@ -939,7 +939,7 @@
 @おじぎ id=莉里香
 @Talk name=心の声
 @Sub mess="八雲姉が四条院さんの手を取る。"
-八雲姐姐抓住四条院的手。
+八云姐姐抓住四条院的手。
 @Hitret id=34126
 @clearChar id=-1
 @char file=CB03A001M

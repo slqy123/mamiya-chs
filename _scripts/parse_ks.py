@@ -26,7 +26,7 @@ def text_NL(text: str):
     return "␤".join([t.strip() for t in text.replace("\t", "").strip().splitlines()])
 
 # comment_count = False
-def parse_ks(src: Path) -> list[str | Text]:
+def parse_ks(src: Path, parse_comment=False) -> list[str | Text]:
     # global comment_count
     assert src.is_file()
     assert src.suffix == ".ks"
@@ -38,8 +38,9 @@ def parse_ks(src: Path) -> list[str | Text]:
         content_buffer = ""
         talker = ""
         while line := f.readline():
-            line = line.split(';', 1)[0] or line
-            line = line if line[-1] == '\n' else line + '\n'
+            if not parse_comment:
+                line = line.split(';', 1)[0] or line
+                line = line if line[-1] == '\n' else line + '\n'
             raw_line = line
             line = line.strip()
             if not line or line.encode("utf-16le")[:2] == b"\xff\xfe":

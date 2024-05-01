@@ -220,7 +220,7 @@
 @char file=CF03A008M
 @Talk name=京花 voice=KYK000140
 @Sub mess="「あら八雲ちゃん、問題のページと答えのページが␤違うわよ」"
-「啊啦，八雲酱，这章的答案不是在这一页哦」
+「啊啦，八云酱，这章的答案不是在这一页哦」
 @Hitret id=5624
 @char file=CA03A005M
 @ジャンプ id=八雲
@@ -599,7 +599,7 @@
 @Hitret id=5695
 @Talk name=心の声
 @Sub mess="母さんや八雲姉、萌莉、音琴はいつも通り動けていたけど、␤なにか変えていく必要はあったりするだろうか？"
-妈妈、八雲姐姐、萌莉、音琴和往常一样各司其职，
+妈妈、八云姐姐、萌莉、音琴和往常一样各司其职，
 还有什么需要改变的地方吗？
 @Hitret id=5696
 @stopSe fade=1000
@@ -615,7 +615,7 @@
 @if exp="ChkFlagOn(26)"
 @Change target=05_04e
 @else
-@AddSelect text=去八雲姐姐和萌莉的房间看看 hint=八雲/萌莉
+@AddSelect text=去八云姐姐和萌莉的房间看看 hint=八雲/萌莉
 @AddSelect text=去客厅看看 hint=萌莉/珠音
 @AddSelect text=去珠音和音琴的房间看看 hint=珠音/音琴
 @AddSelect text=就这么睡吧 hint=音琴/八雲

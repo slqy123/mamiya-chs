@@ -28,7 +28,7 @@
 @Talk name=萌莉 voice=MER050026
 @Sub mess="「昨日ずっと仕入れの処理をしてて……八雲も、先に␤起きたなら起こしてくれればいいのに」"
 「昨晚一直在处理进货的问题……
-八雲你也是，起这么早也顺便把我叫醒来啊」
+八云你也是，起这么早也顺便把我叫醒来啊」
 @Hitret id=32959
 @char file=CA03A004M
 @Talk name=八雲 voice=YKM050024
@@ -43,7 +43,7 @@
 @clearChar id=八雲
 @Talk name=心の声
 @Sub mess="八雲姉がテーブルに突っ伏してしまう。"
-八雲姐姐趴在桌子上。
+八云姐姐趴在桌子上。
 @Hitret id=32961
 @clearChar id=-1
 @Talk name=心の声
@@ -139,7 +139,7 @@
 @Hitret id=32978
 @Talk name=良太
 @Sub mess="「八雲姉だって疲れてるんだから、体力云々って問題じゃ␤ないと思うぞ」"
-「就连八雲姐姐也累了，我觉得并不是体力的问题哦」
+「就连八云姐姐也累了，我觉得并不是体力的问题哦」
 @Hitret id=32979
 @char file=CA03A008M
 @Talk name=八雲 voice=YKM050025
@@ -425,7 +425,7 @@
 @Hitret id=33032
 @Talk name=心の声
 @Sub mess="どんなイメージなんだ、俺は。"
-我在八雲姐姐眼中到底是怎样一个印象啊。
+我在八云姐姐眼中到底是怎样一个印象啊。
 @Hitret id=33033
 @clearChar id=-1
 @Talk name=良太

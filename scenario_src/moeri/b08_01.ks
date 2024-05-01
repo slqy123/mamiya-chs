@@ -559,7 +559,7 @@
 @Hitret id=17426
 @Talk name=良太
 @Sub mess="「じゃあ俺は、八雲姉たちにも知らせてくるから」"
-「我去通知八雲姐姐她们了」
+「我去通知八云姐姐她们了」
 @Hitret id=17427
 @char file=CB06A004M
 @否定 id=萌莉

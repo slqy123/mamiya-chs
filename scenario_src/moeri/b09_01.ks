@@ -173,7 +173,7 @@
 @Hitret id=17563
 @Talk name=心の声
 @Sub mess="のぞきこんだ八雲姉も深刻そうな顔をしている。"
-八雲姐姐看着手机面露难色。
+八云姐姐看着手机面露难色。
 @Hitret id=17564
 @clearChar id=-1
 @char file=CB03A015M
