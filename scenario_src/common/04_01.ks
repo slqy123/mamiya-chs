@@ -2026,7 +2026,7 @@
 @Hitret id=3623
 @Talk name=心の声
 @Sub mess="観光シーズンは、それなりに混むことも多くなるのだけど。"
-只有观光季节，才会出现拥堵的情况。
+只有观光季，才会出现拥堵的情况。
 @Hitret id=3624
 @char file=CF03A007M
 @Talk name=京花 voice=KYK000111

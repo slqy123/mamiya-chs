@@ -530,7 +530,7 @@
 @char file=CF07A008M
 @Talk name=京花 voice=KYK060565
 @Sub mess="「えっ？　でも、四条院さんとの勝負はまだ……」"
-「欸？　但是，和四条院同学的赌局还没有……」
+「欸？　但是，和四条院同学的赌约还没有……」
 @Hitret id=38108
 @playBgm file=BGM15
 @Talk name=良太

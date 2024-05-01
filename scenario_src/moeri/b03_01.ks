@@ -196,7 +196,7 @@
 @autoPosition
 @Talk name=心の声
 @Sub mess="逆に攻めるような宣伝をしないと、勝負には勝てない……"
-如果不在宣传的事情上进行反击，是绝对无法赢得赌局的。
+如果不在宣传的事情上进行反击，是绝对无法赢得赌约的。
 @Hitret id=14852
 @enter file=CB06A002M
 @Talk name=萌莉 voice=MER020317
