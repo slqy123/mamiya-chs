@@ -23,7 +23,8 @@ parse_res = parse_all(src)
 for file in parse_res:
     for i, line in enumerate(file["res"]):
         if isinstance(line, Text):
-            line.content_origin = line.content_origin.replace('八雲', '八云').replace('姉', '姐') # .replace('間', '间').replace('宮', '宫')
+            # replace('八雲', '八云').replace('姉', '姐')
+            line.content_origin = line.content_origin.replace('間', '间').replace('宮', '宫')
         else:
             assert isinstance(line, str)
 

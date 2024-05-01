@@ -3367,7 +3367,7 @@
 @char file=CH06A006M
 @Talk name=陽菜 voice=HRN000025
 @Sub mess="「だから、間宮家総出で赤字を解決しましょうね。␤お父さん？」"
-「所以，让間宮家全体出动
+「所以，让间宫家全体出动
 来解决赤字问题吧，孩子他爸？」
 @Hitret id=1140
 @char file=CG06A001M
