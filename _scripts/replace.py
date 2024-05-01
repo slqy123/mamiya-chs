@@ -24,7 +24,8 @@ for file in parse_res:
     for i, line in enumerate(file["res"]):
         if isinstance(line, Text):
             # replace('八雲', '八云').replace('姉', '姐')
-            line.content_origin = line.content_origin.replace('間', '间').replace('宮', '宫')
+            # replace('間', '间').replace('宮', '宫')
+            line.content_origin = line.content_origin
         else:
             assert isinstance(line, str)
 

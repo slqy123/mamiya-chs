@@ -2030,7 +2030,7 @@
 @Hitret id=32192
 @Talk name=心の声
 @Sub mess="経理を担当してるんだから、知らされててもいいような␤ものだけど。"
-我还以为她作为经理，多少会知道一些的。
+我还以为她作为会计，多少会知道一些的。
 @Hitret id=32193
 @char file=CH03A001M
 @Talk name=陽菜 voice=HRN050020
