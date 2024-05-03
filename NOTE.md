@@ -165,6 +165,7 @@ TODO
 很真
 防风
 像要
+欸 诶
 
 # 游戏进度
 
@@ -244,7 +245,7 @@ TODO
 |  b11_01.ks  | :white_check_mark:  | :white_check_mark: |
 |  b11_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  b11_03.ks  | :white_check_mark:  | :white_check_mark: |
-| birthday.ks | :white_large_square:  | :white_large_square: |
+| birthday.ks | :white_check_mark:  | :white_check_mark: |
 |  c00_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  c00_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  c00_03.ks  |  :white_check_mark:   | :white_check_mark: |

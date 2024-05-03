@@ -1,5 +1,3 @@
-
-# compile scenario_src to scenario without reference
 from ast import parse
 from pathlib import Path
 from convert_json import combine_json
