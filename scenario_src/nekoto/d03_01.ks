@@ -1223,7 +1223,7 @@ H的样子，想看吗……？」
 @ううっ id=音琴
 @Talk name=音琴 voice=NKT040513
 @Sub mess="「むぐっ」"
-「呣咕—」
+「呣咕」
 @Hitret id=27068
 @Talk name=良太
 @Sub mess="「違うちがうっ、雑誌に載せる内容を話し合ってたんだ、␤な？」"

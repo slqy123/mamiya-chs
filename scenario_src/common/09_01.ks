@@ -482,7 +482,7 @@
 「我现在办公室还有点事。
 所以稍微等等吧，待会一起去」
 @Hitret id=7852
-; @if exp="ChkFlagOn(201)"
+@if exp="ChkFlagOn(201)"
 @Talk name=心の声
 @Sub mess="京花先生はだいぶ心配そうな顔をしている。"
 京花老师露出了担心的表情。
@@ -498,10 +498,10 @@
 @AddSelect text=一个人去 hint=莉里香
 @AddSelect text=和京花老师一起去 hint=京花
 @StartSelect
-; @else
+@else
 @SetSelect id=1
-; @endif
-; @if exp="ChkSelect(1)"
+@endif
+@if exp="ChkSelect(1)"
 @OnFlag id=35
 @SetParam arg=111,5
 @Talk name=良太
@@ -1234,8 +1234,8 @@
 @Sub mess="四条院さんが、そっと目を閉じる。"
 四条院轻轻地闭上了眼睛。
 @Hitret id=7999
-; @Change target=e00_01
-; @elsif exp="ChkSelect(2)"
+@Change target=e00_01
+@elsif exp="ChkSelect(2)"
 @OnFlag id=36
 @SetParam arg=111,6
 @Talk name=良太
@@ -1814,5 +1814,5 @@
 @Hitret id=8107
 @stopEnvSe fade=1000
 @アイキャッチＢ京花 bg=BG11a01 char=CF03A005L
-; @Change target=f01_01
-; @endif
+@Change target=f01_01
+@endif

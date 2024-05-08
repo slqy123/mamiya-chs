@@ -510,8 +510,8 @@
 @Sub mess="「うく……っ！　も、もう……！」"
 「呜……！已经，快要……！」
 @Hitret id=5240
-@AddSelect text=珠音の口内に出す
-@AddSelect text=珠音の顔にかける
+@AddSelect text=射在珠音嘴里
+@AddSelect text=射到珠音脸上
 @StartSelect finish_type1
 @if exp="ChkSelect(1)"
 @OnFlag id=27

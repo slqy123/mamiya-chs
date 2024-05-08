@@ -327,7 +327,7 @@
 @counter count=9
 @Talk name=八雲 voice=YKM010910
 @Sub mess="「んっ、んんんっ、んぅぅぅぅぅぅーーーーっ！！」"
-「嗯，嗯，嗯，嗯————————！！」
+「嗯，嗯，嗯，嗯——————！！」
 @Hitret id=12170
 @counter count=10
 @絶頂 bg=EA15e

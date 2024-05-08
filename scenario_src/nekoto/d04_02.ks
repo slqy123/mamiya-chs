@@ -1282,8 +1282,8 @@
 @Sub mess="健気な言葉に本能を刺激されて、俺は腰遣いをいっそう␤強めた。"
 被勇敢的语言刺激了本能，我的腰更加强了。
 @Hitret id=27616
-@AddSelect text=音琴の膣内に出す
-@AddSelect text=音琴の身体にかける
+@AddSelect text=射在音琴体内
+@AddSelect text=射到音琴身上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @cg file=ED12c

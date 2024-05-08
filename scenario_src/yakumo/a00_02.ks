@@ -610,8 +610,8 @@
 @Sub mess="「あはぁぁぁっ、んっ、ふぁぁぁぁ……！　おまんこ、␤震えてぇ……あ、あ、イっちゃいそう、にぃ……！」"
 「啊哈啊啊，嗯，呼啊……！ 小穴，一抖一抖的……啊，啊，要去了，啊……！」
 @Hitret id=8295
-@AddSelect text=在八云姐姐的小穴中出
-@AddSelect text=射在八云姐姐的身体上
+@AddSelect text=射在八云姐姐体内
+@AddSelect text=射到八云姐姐的身体上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0
@@ -1143,8 +1143,8 @@
 「八云姐姐，我，又要……！」
 @Hitret id=8409
 @cg file=EA09d
-@AddSelect text=在八云姐姐的小穴中出
-@AddSelect text=射在八云姐姐的身体上
+@AddSelect text=射在八云姐姐的体内
+@AddSelect text=射到八云姐姐的身体上
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

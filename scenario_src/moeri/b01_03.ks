@@ -6,7 +6,7 @@
 @ううっ id=萌莉
 @Talk name=萌莉 voice=MER020242
 @Sub mess="「んぅぅぅぅーーーーっ！」"
-「嗯唔唔唔唔————————！」
+「嗯唔唔唔唔——————！」
 @Hitret id=14496
 @Talk name=良太
 @Sub mess="「大丈夫か、萌莉？」"

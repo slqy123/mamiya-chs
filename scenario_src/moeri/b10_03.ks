@@ -251,7 +251,7 @@
 @Hitret id=18635
 @Talk name=良太
 @Sub mess="「萌莉、しーっ」"
-「萌莉，嘘—」
+「萌莉，嘘——」
 @Hitret id=18636
 @cg file=EB03b
 @Talk name=萌莉 voice=MER021312

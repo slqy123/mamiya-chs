@@ -426,7 +426,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="慌てて否定してるけど、だいぶ手遅れだ。"
 虽然急忙否定了，但大概是已经晚了吧。
 @Hitret id=7423
-; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 4"
+@if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 4"
 @Talk name=心の声
 @Sub mess="本当は最初から誘おうと思ってたのだけど、現在の␤お店とホテルの対立を考えると、四条院さんが␤来てくれるか自信が無かった。"
 本来一开始是打算邀请四条院同学的，
@@ -437,13 +437,13 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="こんな調子だったら、やっぱり声を掛けておけば␤良かったな。"
 早知如此，果然一开始还是应该打声招呼。
 @Hitret id=7425
-; @else
+@else
 @Talk name=心の声
 @Sub mess="一緒に遊びたかったんだろうか、四条院さん。␤最初から誘っておくべきだったな。"
 "四条院同学，一起来玩吗？"，
 像这样一开始就这么邀请她就好了。
 @Hitret id=7426
-; @endif
+@endif
 @Talk name=心の声
 @Sub mess="それにしても。"
 不过话说回来。
@@ -580,7 +580,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="なんて口に出して言ったら怒られそうだけど。"
 要是说出来的话肯定会被骂的吧。
 @Hitret id=7449
-; @if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
+@if exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 0"
 @Talk name=心の声
 @Sub mess="ただ……"
 只是……
@@ -675,7 +675,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7465
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
+@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 1"
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -768,7 +768,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7482
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
+@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 2"
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -857,7 +857,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="今は我慢しておこう。"
 现在就先忍耐一下吧。
 @Hitret id=7498
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
+@elsif exp="BiggerParamIndex(101, 102, 103, 104, 105, 106) == 3"
 @Talk name=心の声
 @Sub mess="ただ……"
 可是……
@@ -935,8 +935,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="今は音琴にも隠しておこう。"
 现在还是先瞒着音琴吧。
 @Hitret id=7513
-; @else
-; @endif
+@else
+@endif
 @フェード出し bg=BG26a01
 @Talk name=心の声
 @Sub mess="こうして水着のお披露目も終わり、四条院さんも含めて␤みんなで遊ぶことになった。"
@@ -1412,7 +1412,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 「哈唔！？对……对啊，那个……嗯。
 我也很在意，的吧……」
 @Hitret id=7604
-; @if exp="ChkFlagOn(31)"
+@if exp="ChkFlagOn(31)"
 @face file=CD05A015M
 @Talk name=音琴 voice=NKT000511
 @Sub mess="「前におっきい胸とちいさい胸、どっちが好きか␤聞いたけどあいまいなままだったし」"
@@ -1424,8 +1424,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="「う、うん、そうだったね」"
 「嗯，嗯，是啊」
 @Hitret id=7606
-; @else
-; @endif
+@else
+@endif
 @Talk name=良太
 @Sub mess="「珠音まで……」"
 「连珠音也……」
@@ -1490,13 +1490,13 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="ここは、ちゃんと答えるしかなさそうだ……"
 这种情况下，也只能乖乖地回答了……
 @Hitret id=7619
-; @if exp="ChkGlobalFlagOn(21) && ChkGlobalFlagOn(22) && ChkGlobalFlagOn(23) && ChkGlobalFlagOn(24)"
+@if exp="ChkGlobalFlagOn(21) && ChkGlobalFlagOn(22) && ChkGlobalFlagOn(23) && ChkGlobalFlagOn(24)"
 @AddSelect text=好好考虑一下
 @AddSelect text=选一个什么的，太为难我了
 @StartSelect
-; @if exp="ChkSelect(1)"
+@if exp="ChkSelect(1)"
 @OnFlag id=33
-; @elsif exp="ChkSelect(2)"
+@elsif exp="ChkSelect(2)"
 @SelectTerminate
 @OnFlag id=34
 @SetParam arg=111,7
@@ -1646,9 +1646,9 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @stopEnvSe fade=3000
 @stopBgm fade=3000
 @暗転
-; @Change target=08_02
-; @endif
-; @endif
+@Change target=08_02
+@endif
+@endif
 @Talk name=良太
 @Sub mess="「そ、そうだな……俺は……」"
 「啊，对了……我……」
@@ -1971,7 +1971,7 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Sub mess="俺はよく冷えたジュースを受け取った。"
 我一手接过了冰镇的果汁。
 @Hitret id=7710
-; @if exp="(GetParam(105)+GetParam(106)) > GetParam(101) && (GetParam(105)+GetParam(106)) > GetParam(102) && (GetParam(105)+GetParam(106)) > GetParam(103) && (GetParam(105)+GetParam(106)) > GetParam(104)"
+@if exp="(GetParam(105)+GetParam(106)) > GetParam(101) && (GetParam(105)+GetParam(106)) > GetParam(102) && (GetParam(105)+GetParam(106)) > GetParam(103) && (GetParam(105)+GetParam(106)) > GetParam(104)"
 @場面転換３Ｐ bg=BG26a01 pos=-320,-180,0
 @Talk name=心の声
 @Sub mess="それから母さんに頼まれて他のみんなにも声を掛けに␤行った。"
@@ -2014,8 +2014,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Hitret id=7717
 @stopEnvSe fade=1000
 @stopBgm fade=3000
-; @Change target=08_02
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 0"
+@Change target=08_02
+@elsif exp="BiggerParamIndex(101, 102, 103, 104) == 0"
 @SetParam arg=111,1
 @clearChar id=-1
 @Talk name=良太
@@ -2063,8 +2063,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Hitret id=7726
 @stopEnvSe fade=1000
 @stopBgm fade=3000
-; @Change target=a00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 1"
+@Change target=a00_01
+@elsif exp="BiggerParamIndex(101, 102, 103, 104) == 1"
 @SetParam arg=111,2
 @clearChar id=-1
 @Talk name=良太
@@ -2111,8 +2111,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 「嗯」
 @Hitret id=7735
 @stopBgm fade=3000
-; @Change target=b00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 2"
+@Change target=b00_01
+@elsif exp="BiggerParamIndex(101, 102, 103, 104) == 2"
 @SetParam arg=111,3
 @clearChar id=-1
 @Talk name=良太
@@ -2154,8 +2154,8 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Hitret id=7743
 @stopEnvSe fade=1000
 @stopBgm fade=3000
-; @Change target=c00_01
-; @elsif exp="BiggerParamIndex(101, 102, 103, 104) == 3"
+@Change target=c00_01
+@elsif exp="BiggerParamIndex(101, 102, 103, 104) == 3"
 @SetParam arg=111,4
 @clearChar id=-1
 @Talk name=良太
@@ -2188,9 +2188,9 @@ NEKO酱的泳衣才是更可爱哦。和你非常搭」
 @Hitret id=7749
 @stopEnvSe fade=1000
 @stopBgm fade=3000
-; @Change target=d00_01
-; @else
+@Change target=d00_01
+@else
 @stopEnvSe fade=1000
 @stopBgm fade=3000
 @Change target=08_02
-; @endif
+@endif

@@ -1712,7 +1712,7 @@ NEKO酱，难道已经发现了……？
 @Hitret id=21973
 @Talk name=良太
 @Sub mess="「よっ、っと」"
-「哟—，咻」
+「哟，咻」
 @Hitret id=21974
 @playSe file=SE067
 @下カメラ移動＋位置固定 bg=BG09a01

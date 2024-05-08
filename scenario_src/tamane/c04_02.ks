@@ -719,7 +719,7 @@
 麻木的快感，从腰里面渐渐升起。
 @Hitret id=21624
 @AddSelect text=射在珠音体内
-@AddSelect text=射在外面
+@AddSelect text=射到外面
 @StartSelect finish_type2
 @if exp="ChkSelect(1)"
 @counter show count=0

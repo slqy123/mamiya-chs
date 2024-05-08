@@ -39,14 +39,14 @@ for tf in trans.rglob('*.ks'):
         if l1 != l2:
             if 'Select' in l1:
                 continue
-            if any(
-                map(
-                    lambda x: l1.startswith(x),
-                    ['; @if', '; @elsif', '; @else', '; @endif', '; @Change']
-                )
-            ):
-                assert l1[2:] == l2, (l1, l2)
-                continue
+            # if any(
+            #     map(
+            #         lambda x: l1.startswith(x),
+            #         ['; @if', '; @elsif', '; @else', '; @endif', '; @Change']
+            #     )
+            # ):
+            #     assert l1[2:] == l2, (l1, l2)
+            #     continue
             if l1[2:] != l2:
                 print(f'{tf} and {sf} differ at {l1} and {l2}')
                 P = bool(input())

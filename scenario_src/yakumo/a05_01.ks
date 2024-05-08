@@ -346,7 +346,7 @@
 @ジャンプ２回 id=六兵衛
 @Talk name=六兵衛 voice=RKB010067
 @Sub mess="「はっはっはー！」"
-「哈哈哈—！」
+「哈哈哈！」
 @Hitret id=11673
 @Talk name=良太
 @Sub mess="「なるほど」"
