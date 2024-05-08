@@ -23,7 +23,7 @@ for file in parse_res:
         if isinstance(line, Text):
             # replace('八雲', '八云').replace('姉', '姐')
             # replace('間', '间').replace('宮', '宫')
-            line.content_origin = line.content_origin
+            line.content_origin = line.content_origin.replace('姉', '姐')
         else:
             assert isinstance(line, str)
 

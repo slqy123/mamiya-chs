@@ -325,8 +325,7 @@
 @Talk name=莉里香 voice=RRK040102
 @Sub mess="「ふふっ、話題に上がってからすぐに取り寄せましたもの。␤今はジャングルから一日で荷物が届く時代なんですのよ」"
 「呵呵，一谈到那个话题我立马就订购了呢。
-如今这个时代，从JUNGLE发货只需要一天就能送到手上哦」
-{COMMENT: JUNGLE: neta亚马逊}
+如今这个时代，从JUNGLE发货只需要一天就能送到手上哦」  ; {COMMENT: JUNGLE: neta亚马逊}
 @Hitret id=27860
 @Talk name=心の声
 @Sub mess="ジャングル……？"

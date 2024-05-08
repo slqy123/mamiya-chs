@@ -1609,7 +1609,7 @@
 @Talk name=八雲 voice=YKM010717
 @Sub mess="「まさか、浮気ですか！？　間宮家姉妹補完計画……！？」"
 「难不成，是出轨吗！？　……间宫家姐妹补完计划！？」
-{COMMENT: EVA neta}
+{COMMENT: neta EVA人类补完计划}
 @Hitret id=11383
 @Talk name=良太
 @Sub mess="「俺が恋人として好きなのは八雲姉だけだよ」"

@@ -52,6 +52,10 @@ def process_command(match: re.Match) -> str:
                 print(f'{file["src"].name}: HALF_WIDTH {args} -> {res}')
             return res
         case 'COMMENT':
+            return f"（{args}）"
+        case 'BLOCK_COMMENT':
+            global block_comment
+            block_comment = args
             return ''
         case _:
             assert False, f"Unknown command {cmd}"
@@ -59,6 +63,7 @@ def process_command(match: re.Match) -> str:
 
 parse_res = parse_all(src)
 ref_dict = construct_ref_dict(parse_res)
+block_comment = ''
 
 for file in parse_res:
     for i, line in enumerate(file["res"]):
@@ -69,6 +74,10 @@ for file in parse_res:
             line.content_origin = re.sub(
                 r"\{[ ]*(\w+)[ ]+(.*)\}", process_command, line.content_origin
             )
+            if block_comment:
+                assert file["res"][i-1].startswith('@Sub mess=')
+                file["res"][i-1] = file["res"][i-1].strip() + f' comment="{block_comment}"'
+                block_comment = ''
         else:
             assert isinstance(line, str)
             if line.startswith("@Talk"):

@@ -6,7 +6,7 @@
 @playBgm file=BGM05
 @playSe file=SE042
 @Talk name=心の声
-@Sub mess="一日の終わり。"
+@Sub mess="一日の終わり。" comment="一个很长很长很长很长很长很长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长的测试"
 结束了忙碌的一天。
 @Hitret id=1
 @Talk name=心の声
@@ -112,7 +112,7 @@
 @Hitret id=22
 @Talk name=良太
 @Sub mess="「お待たせって……八雲姉！？」"
-「久等什么的……八云姉！？」
+「久等什么的……八云姐姐！？」
 @Hitret id=23
 @face file=CB01A003M
 ; @Ruby mess=八雲 read=やくも
@@ -246,7 +246,7 @@
 @おっぱい pos1=-208,-116,10 pos2=-208,-116,0
 @Talk name=心の声
 @Sub mess="八雲姉がいきなり距離を詰めてきた。"
-八云姉突然就拉近了距离
+八云姐姐突然就拉近了距离
 @Hitret id=48
 @Talk name=心の声
 @Sub mess="日頃から強く主張している、大きな胸に目が行ってしまう。"
@@ -270,7 +270,7 @@
 @Hitret id=52
 @Talk name=心の声
 @Sub mess="今度は八雲姉の前に出ようと萌莉が近付いてきて、␤俺の視界を占める。"
-从八云姉前面逃开，一不小心，
+从八云姐姐前面逃开，一不小心，
 萌莉的身影便占据了我的视线。
 @Hitret id=53
 @face file=CB01A008
