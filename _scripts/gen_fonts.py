@@ -6,12 +6,13 @@ from pywinauto.application import Application
 
 
 origin_names = ['スーラ', 'ニューシネマ', 'ハミング', 'ロダンカトレア', 'ロダンハッピー', '筑紫明朝']
-modifed_names = ['思源黑体 CN', '霞鹜文楷 屏幕阅读版', '萝莉体 第二版']
+modifed_names = ['霞鹜文楷 屏幕阅读版', '思源黑体 CN', '萝莉体 第二版']
 
 sizes = [12, 21, 30, 39]
 
 apps = []
 
+Path('fonts').mkdir(exist_ok=True)
 for origin_name, modifed_name in zip(origin_names, modifed_names):
     for size in sizes:
         app = Application().start('assets/krkrfont.exe') 
