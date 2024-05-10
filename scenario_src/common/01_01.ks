@@ -6,7 +6,7 @@
 @playBgm file=BGM05
 @playSe file=SE042
 @Talk name=心の声
-@Sub mess="一日の終わり。" comment="一个很长很长很长很长很长很长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长的测试"
+@Sub mess="一日の終わり。"
 结束了忙碌的一天。
 @Hitret id=1
 @Talk name=心の声

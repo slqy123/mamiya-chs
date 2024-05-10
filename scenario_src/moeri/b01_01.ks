@@ -1214,12 +1214,12 @@
 @Hitret id=14342
 @Talk name=良太
 @Sub mess="「今は……萌莉が可愛すぎて、ちょっと反動がきそうだ」"
-「只是……萌莉现在的样子太可爱了，感觉要有反作用了」
+「只是……萌莉现在的样子太可爱了，感觉要压制不住了」
 @Hitret id=14343
 @char file=CB02A012L
 @Talk name=萌莉 voice=MER020191
 @Sub mess="「反動？」"
-「反作用？」
+「压制不住？」
 @Hitret id=14344
 @Talk name=心の声
 @Sub mess="不思議そうに首を傾げる萌莉。"
