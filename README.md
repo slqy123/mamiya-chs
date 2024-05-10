@@ -43,7 +43,7 @@
 
 ## 安装步骤
 1. 下载源码
-1. 创建字体
+2. 创建字体
 可以使用 `assets/krkrfont.exe` 生成tft文件放在 `fonts` 文件夹下。命名规则请参考`_scripts/gen_fonts.py`27行。
 
 也可以用 `_scripts/gen_fonts.py` 自动创建，但仅限于windows环境。
@@ -51,7 +51,7 @@
 如果你手头没有Windows机器，也可以考虑使用 `wine`，运行 `make font-wine` 即可。
 > 注意：你需要在wine中安装好`python3`以及相关的库。另外，在本人写这个文档的时候，wine中的`pywinauto`并不能正常运行，可以使用这个[PR](https://github.com/pywinauto/pywinauto/pull/1325)
 
-1. 创建补丁
+3. 创建补丁
 ```
 make && make build
 ```
