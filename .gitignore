@@ -1,5 +1,4 @@
 *.tft
-/assets
 /_scripts/src
 /_scripts/__pycache__
 /_scripts/.venv
