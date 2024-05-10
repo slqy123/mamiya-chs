@@ -34,3 +34,12 @@ for app in apps:
 # crash in wine if written in the same loop
 for app in apps:
     app.kill()
+
+with open('system/PRFontName.tjs', 'w', encoding='utf-16') as f:
+    f.write("var PRFONT_NAMES = [\n")
+    for i in range(6):
+        if len(modifed_names) > i:
+            f.write(f'    "{modifed_names[i]}",\n')
+        else:
+            f.write(f'    "{origin_names[i]}",\n')
+    f.write("];\n")
