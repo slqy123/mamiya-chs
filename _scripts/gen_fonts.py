@@ -30,7 +30,7 @@ for origin_name, modifed_name in zip(origin_names, modifed_names):
 
 
 for app in apps:
-    app.TFontMakerWriteForm.wait_not_active(10*60, 1)
+    app.window(best_match="生成中 ...").wait_not('exists', 10*60, 1)
 
 # crash in wine if written in the same loop
 for app in apps:
