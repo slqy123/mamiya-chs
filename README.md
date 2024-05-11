@@ -14,8 +14,13 @@
 > 使用本补丁即代表您已知悉上述内容。对于因上述内容而引起的任何游玩体验问题，本人只会随缘修复，但欢迎PR。
 
 # 安装
-可以直接从release获取本补丁的安装程序。
+安装前请确认你目前的游戏版本为1.1，可以通过游戏主界面右下角版本号判断，也可以通过游戏根目录下有无`patch110.xp3`判断。
+
+从本项目的release中获取本补丁的安装程序。
 解压后将游戏主程序所在的文件夹拖拽至补丁内的`patch_install.exe`文件上运行即可完成安装。
+
+也可以直接运行`patch_install.exe`，然后在弹出的文件选择界面中选择游戏主程序所在的文件夹。
+
 安装完成后运行`mamiya_chs.exe`开始游戏，程序支持以下命令行参数：
 - `-debug` 开启调试模式
 - `-jp` 切换为日文文本
@@ -58,7 +63,9 @@
 make && make build
 ```
 
-随后就可以在`out`目录下看到生成的补丁。
+随后就可以在`out`目录下看到生成的补丁，运行`python patch_install.py <path/to/game directory>`即可完成安装。
+
+如果需要windows的可执行文件，可以使用`nuitka`生成，`python -m nuitka --standalone --enable-plugins=tk-inter patch_install.py`。
 
 # 汉化感想
 当年一拍脑门就决定要学日语，看了两节网课后瞬间就被五十音图劝退了。

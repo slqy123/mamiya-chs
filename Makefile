@@ -11,7 +11,6 @@ build:
 	cp begin.tjs patch_startup.tjs out/patch
 	cp assets/AuthTool.exe assets/dtcn.xp3 out/assets
 	cp _scripts/patch_install.py out
-	cp assets/patch_install.exe out
 fonts:
 	python _scripts/gen_fonts.py
 fonts-wine:
