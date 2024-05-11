@@ -15,7 +15,7 @@
 
 # 安装
 可以直接从release获取本补丁的安装程序。
-解压后将游戏主程序所在目录的文件夹拖拽至补丁内的`patch_install.exe`文件上运行即可完成安装。
+解压后将游戏主程序所在的文件夹拖拽至补丁内的`patch_install.exe`文件上运行即可完成安装。
 安装完成后运行`mamiya_chs.exe`开始游戏，程序支持以下命令行参数：
 - `-debug` 开启调试模式
 - `-jp` 切换为日文文本
@@ -37,7 +37,7 @@
 - GNU Make
 - GNU Core Utils
 
-对于 Windows 用户，可以考虑wsl或msys2获得对应依赖工具。
+对于 Windows 用户，可以考虑使用wsl或msys2获得对应依赖工具。
 
 也可以手动安装这些工具的windows版本：Python不必多说，后面两个分别对应MinGW和[uutils/coreutils](https://github.com/uutils/coreutils)。
 
@@ -47,6 +47,8 @@
 可以使用 `assets/krkrfont.exe` 生成tft文件放在 `fonts` 文件夹下。命名规则请参考`_scripts/gen_fonts.py`27行。
 
 也可以用 `_scripts/gen_fonts.py` 自动创建，但仅限于windows环境。
+
+自定义字体可以修改`gen_fonts.py`第9行，字体名称可以打开`krkrfont.exe`查看。
 
 如果你手头没有Windows机器，也可以考虑使用 `wine`，运行 `make font-wine` 即可。
 > 注意：你需要在wine中安装好`python3`以及相关的库。另外，在本人写这个文档的时候，wine中的`pywinauto`并不能正常运行，可以使用这个[PR](https://github.com/pywinauto/pywinauto/pull/1325)
