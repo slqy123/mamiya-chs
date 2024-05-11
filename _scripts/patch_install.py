@@ -5,8 +5,10 @@ from pathlib import Path
 try:
     # check game path
     if len(sys.argv) < 2:
-        input("Please provide the path to the game")
-        exit()
+        print("Please provide the path to the game")
+        from tkinter import filedialog 
+        dir = filedialog.askdirectory()
+        sys.argv.append(dir)
 
     game_path = Path(sys.argv[1]).expanduser().resolve()
     self_path = Path(sys.argv[0]).expanduser().resolve().parent
@@ -20,10 +22,7 @@ try:
         (game_path / "patch110.xp3").exists()
         and (game_path / "plugin/process.dll").exists()
     ):
-        input(
-            "Error, this patch is incompatible with the 1.0 version. Please make sure you have kyoka patch correctly installed"
-        )
-        exit(1)
+        assert False, "This patch is incompatible with the 1.0 version. Please make sure you have kyoka patch correctly installed"
 
     # backup and delete some files
     backup_path = game_path / "backup"
@@ -67,5 +66,5 @@ try:
 
     input("Patch installed successfully, press enter key to exit")
 except AssertionError as e:
-    print(e)
+    print('Error: ', e)
     input("Press enter key to exit")
