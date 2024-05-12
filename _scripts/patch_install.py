@@ -61,6 +61,9 @@ try:
     # dtcn
     shutil.copy(self_path / "assets/dtcn.xp3", game_path / "dtcn.xp3")
 
+    # readme
+    shutil.copy(self_path / "assets/请读我.txt", game_path / "请读我.txt")
+
     # patch
     shutil.copytree(self_path / "patch", game_path / "patch")
 

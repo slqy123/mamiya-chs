@@ -148,6 +148,7 @@
 欸 诶
 
 # 游戏进度
+:heavy_check_mark: 表示机器翻译，✕2 表示进行过重新翻译
 
 |   文件名    |         翻译          |         校对         |
 | :---------: | :-------------------: | :------------------: |
@@ -245,7 +246,7 @@
 |  c09_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  c09_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  c10_01.ks  |  :white_check_mark:   | :white_check_mark: |
-|  c10_02.ks  | :white_large_square:  | :white_check_mark: |
+|  c10_02.ks  | :heavy_check_mark:  | :white_check_mark: |
 |  c10_03.ks  |  :white_check_mark:   | :white_check_mark: |
 |  d00_01.ks  |  :white_check_mark:   | :white_check_mark: |
 |  d00_02.ks  |  :white_check_mark:   | :white_check_mark: |
