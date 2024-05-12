@@ -947,7 +947,7 @@
 @Hitret id=36357
 @Talk name=心の声
 @Sub mess="相手が権力者だとか、恩義があるとか……"
-对方可能是当权者，或着是对我们有什么恩情……
+对方可能是当权者，或者是对我们有什么恩情……
 @Hitret id=36358
 @char file=CF03A005M
 @Talk name=京花 voice=KYK060066
