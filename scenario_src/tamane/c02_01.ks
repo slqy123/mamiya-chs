@@ -623,7 +623,7 @@
 @ジャンプ２回 id=八雲
 @Talk name=八雲 voice=YKM030030
 @Sub mess="「おー！　珠ちゃん！　よく言ってくれました！」"
-「哦——！  珠音酱！  说的漂亮！」
+「哦——！  珠音酱！  说得漂亮！」
 @Hitret id=20779
 @hide
 @move id=八雲 mx=350 cycle=250

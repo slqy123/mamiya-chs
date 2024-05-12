@@ -666,7 +666,7 @@
 @Hitret id=27208
 @Talk name=良太
 @Sub mess="「ああ。ずっと客足が途切れないもんな」"
-「是啊，一直都是客流不段呢」
+「是啊，一直都是客流不断呢」
 @Hitret id=27209
 @clearChar id=-1
 @Talk name=心の声
@@ -733,7 +733,7 @@
 @char file=CH06A006M
 @Talk name=陽菜 voice=HRN040009
 @Sub mess="「そうそう。じゃんじゃん作ってるから、お客さまの所へ␤ちゃんとお持ちしてね」"
-「是啊是啊。我们在马不停蹄地作，
+「是啊是啊。我们在马不停蹄地做，
 你也快把它们给客人送去吧」
 @Hitret id=27222
 @Talk name=良太

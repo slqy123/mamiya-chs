@@ -439,7 +439,7 @@
 @autoPosition
 @Talk name=心の声
 @Sub mess="六兵衛が若干傷ついた顔をしたのは、見なかったことに␤しておこう。"
-六兵卫看起来有些受伤的样子，我还是当做没看见吧。
+六兵卫看起来有些受伤的样子，我还是当作没看见吧。
 @Hitret id=11691
 @char file=CA02A001M
 @Talk name=八雲 voice=YKM010807

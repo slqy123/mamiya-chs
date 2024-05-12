@@ -2603,7 +2603,7 @@
 @char file=CE04A002L
 @Talk name=莉里香 voice=RRK050360
 @Sub mess="『明日海の家へ行きますから、私の水着姿を心して␤待ってなさい！』"
-『我明天会来海之家的，尽请期待我的泳装吧！』
+『我明天会来海之家的，敬请期待我的泳装吧！』
 @Hitret id=32299
 @clearChar id=-1
 @playSe file=SE005

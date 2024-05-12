@@ -458,7 +458,7 @@
 @Hitret id=14901
 @Talk name=心の声
 @Sub mess="父さんは自信たっぷりに言い放った。"
-爸爸自信地说到。
+爸爸自信地说道。
 @Hitret id=14902
 @charRelate
 @時間経過１ bg=BG02c02

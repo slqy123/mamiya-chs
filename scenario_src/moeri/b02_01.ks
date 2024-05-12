@@ -290,7 +290,7 @@
 @Hitret id=14603
 @Talk name=心の声
 @Sub mess="母さんは、どこか悲しげに呟いた。"
-母亲有些难过地小声说到。
+母亲有些难过地小声说道。
 @Hitret id=14604
 @Talk name=良太
 @Sub mess="「ごめん……」"
